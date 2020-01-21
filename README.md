@@ -1,5 +1,5 @@
 # Developer Relations Workflow
-##Stage 1 - Prereview
+## Stage 1 - Prereview
 Step 1: Create a Branch named firstname_activityorlabname
 Step 2: When you are done commiting and ready for your reviewer to review change
 - Stage to "Pending Reviewer"
@@ -22,21 +22,60 @@ Stage 5 is Contentful.
 
 ## Stage Processes
 
-Developers are assigned a specific folder to work in -> Devs upload folder of .md files to the folder assigned (in Stage 1) -> start merge request and assign to reviewer (mark Stage 1) -> 
+Bullet points indicate steps to be completed, when all the bullet points are done in order, then the corresponding status for that stage should be marked in Airtable. 
 
----
+### Stage 1: Before 1st Review
 
-(note the steps within these lines are within the merge request)
-reviewer reviews the .md files and comment on merge
-request accordingly (in Stage 2) -> reviewer has all comment threads resolved (mark Stage 2) -> 
-reviewer changes assignee to Kevin (in Stage 3) -> Kevin conducts one final review, makes comments where necessary (in stage 3) -> when all comments resolved, Kevin resolves merge request (mark Stage 3) 
+* Reviewers (complete before developer starts merge request)
+  * Start GitLab merge requests pertaining to each activity/lab
+* Developers
+  * Assigned a specific folder to work in 
+  * Develop curriculum by DevRel Stage 1 Requirements
+  * Devs upload folder of .md files to the folder assigned 
+  * Start **merge request** and assign to reviewer 
+  * Mark "Pre-Review" stage in GitLab "label"
 
----
+> Note that Stages 2-4 are completed **in the same merge request!**
 
--> Kevin raises an issue and assigns writers to re-style (in Stage 4) -> writers re-style and start new merge request that closes issue automatically (https://docs.gitlab.com/ee/user/project/issues/managing_issues.html) (mark Stage 4) -> Writers copy and paste into Contentful, format accordingly (in Stage 5) -> Writers finish, publish within Contentful (mark Stage 5, done!) 
+### Aside on Comments (Stages 2-4)
 
-## Airtable's Role
+* Developers: For every single commit to a merge request, please put "/spend xx hours".
+  * We would like to get a good idea of your work to place you in the right team
 
-Note that stages should be constantly updated on Airtable. 
+### Stage 2: After 1st Review 
 
-"Mark stage x" indicates that stage x is done, and it should be *marked* on Airtable.
+* Reviewer reviews .md files
+  * Leave feedback in terms of **comments** on merge request
+  * Reviewer leaves comments
+    * Types of issues
+      * Context (explanations of underlying concepts)
+      * Content (code and explanations of code)
+      * Styling (separating cards into steps, typos, flow, only local images)
+      * Visuals (custom visuals)
+      * Create (need to create a new card)
+    * **Resolve all comments into an issue**
+* Developer responds to comments
+  * By going to issue 
+* Developer + reviewer work together to get all comment threads resolved
+* Reviewer changes assignee to Kevin
+* Mark "Post-Review" in GitLab "label"
+
+### Stage 3: Final Review 
+
+* Kevin conducts one final review, makes comments where necessary
+* Kevin works with reviewer and developers to resolve comments
+* When all comments resolved, Kevin updates GitLab status to "Final Review"   
+
+### Stage 4: Technical Writers 
+
+* Kevin raises an issue and changes assignee to writer 
+  * Writer will re-style curriculum
+* When finished, writers mark status to "Final Edits"
+
+### Stage 5: Contentful
+
+* Writers copy and paste into Contentful, format accordingly
+* Writers finish, publish within Contentful 
+
+
+
