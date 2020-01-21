@@ -1,17 +1,15 @@
 # Developer Relations Workflow
-## Stage 1 - Prereview
-Step 1: Create a Branch named firstname_activityorlabname
-Step 2: When you are done commiting and ready for your reviewer to review change
-- Stage to "Pending Reviewer"
-- Assign the merge request to your reviewer
-- Reference the Issue you are working on in your MERGE REQUEST!
 
 ## Stage Overview
 
 Stage 1 (Pre-Review): DevRel Stage 1
+
 Stage 2 (Post-Review): Continue Perfecting DevRel Stage 1 + DevRel Stage 2
+
 Stage 3 (Kevin): Kevin conducts final review
+
 Stage 4 (Writers): Writers re-style curriculum for grammar, writing style etc.
+
 Stage 5 (Contentful): Writers copy and paste into Contentful
 
 Additionally, Stages 1-3 are handled and marked within GitLab.
@@ -24,15 +22,27 @@ Stage 5 is Contentful.
 
 Bullet points indicate steps to be completed, when all the bullet points are done in order, then the corresponding status for that stage should be marked in Airtable. 
 
-### Stage 1: Before 1st Review
+### Stage 0: Issues
+* Reviewers
+  * Come up with issues
+  * Different Types: 
+    * Context (explanations of underlying concepts)
+    * Content (code and explanations of code)
+    * Styling (separating cards into steps, typos, flow, only local images)
+    * Visuals (custom visuals)
+    * Create (need to create a new card)
 
-* Reviewers (complete before developer starts merge request)
-  * Start GitLab merge requests pertaining to each activity/lab
+### Stage 1: Before 1st Review
 * Developers
-  * Assigned a specific folder to work in 
+  * Assigned a specific activity/lab to work in 
+    * Each activity/lab is in an assigned folder
+  * Create a branch named firstname_activityorlabname
+    * ex. Kevin_AnalyzingTweetsActivity
+  * Find issues to work on for your assigned activity/lab
   * Develop curriculum by DevRel Stage 1 Requirements
   * Devs upload folder of .md files to the folder assigned 
   * Start **merge request** and assign to reviewer 
+  * **Reference the Issue you are working on in your MERGE REQUEST!**
   * Mark "Pre-Review" stage in GitLab "label"
 
 > Note that Stages 2-4 are completed **in the same merge request!**
@@ -54,6 +64,7 @@ Bullet points indicate steps to be completed, when all the bullet points are don
       * Visuals (custom visuals)
       * Create (need to create a new card)
     * **Resolve all comments into an issue**
+      * Make multiple issues when necessary
 * Developer responds to comments
   * By going to issue 
 * Developer + reviewer work together to get all comment threads resolved
