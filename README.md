@@ -1,6 +1,4 @@
-# GitLab Deadline Workflow - Bit
-
-# Developer Relations Workflow
+# Developer Relations Workflow with GitLab
 
 ## Stage Overview
 
@@ -38,12 +36,15 @@ Bullet points indicate steps to be completed, when all the bullet points are don
   - Ex. Activity 2.1.1 Bookkeeper Visuals
   - For non-core modules, just include module name 
     - ex. Postman.1 Testing API Endpoints
+  - **Assign issues to your team members**
+    - with due date if necessary
 
 ### Stage 1: Before 1st Review
 
 - Developers
-  - Assigned a specific activity/lab to work in
+  - Assigned issues to work in, usually in a specific lab/activity
     - Each activity/lab is in an assigned folder
+    - Issue notifications can be found in top right corner
   - Create a branch named firstname_activityorlabname
     - ex. Kevin_AnalyzingTweetsActivity
   - Find issues to work on for your assigned activity/lab
@@ -51,6 +52,8 @@ Bullet points indicate steps to be completed, when all the bullet points are don
   - Devs upload folder of .md files to the folder assigned
   - Start **merge request** and assign to reviewer
   - **Reference the Issue you are working on in your MERGE REQUEST!**
+    - Use "Closes #xx" with xx as your issue number in your merge request message
+      - Ex. "Closes #10
   - Mark "Pre-Review" stage in GitLab "label"
 
 > Note that Stages 2-4 are completed **in the same merge request!**
@@ -64,7 +67,10 @@ Bullet points indicate steps to be completed, when all the bullet points are don
 
 - Reviewer reviews .md files
   - Leave feedback in terms of **comments** on merge request
-  - Reviewer leaves comments
+    - Check merge request notification in top right corner
+    - Go to Merge request
+    - Click on Changes tab
+  - Reviewer leaves comments in Changes tab
     - Types of issues
       - Context (explanations of underlying concepts)
       - Content (code and explanations of code)
@@ -73,9 +79,12 @@ Bullet points indicate steps to be completed, when all the bullet points are don
       - Visuals (custom visuals)
       - Create (need to create a new card)
     - Resolve all comments into an issue
-      - Make multiple issues when necessary
+      - Button in upper right
+      - Repeat entire process to make multiple issues when necessary
 - Developer responds to comments
   - By going to issue
+  - Checking out a pull request's branch https://stackoverflow.com/questions/2236743/git-refusing-to-fetch-into-current-branch/19205680
+    - then `git pull` to get latest code and work on comments locally
 - Developer + reviewer work together to get all comment threads resolved
 - Reviewer changes assignee to Kevin
 - Mark "Post-Review" in GitLab "label"
@@ -84,7 +93,7 @@ Bullet points indicate steps to be completed, when all the bullet points are don
 
 - Kevin conducts one final review, makes comments where necessary
 - Kevin works with reviewer and developers to resolve comments
-- When all comments resolved, Kevin updates GitLab status to "Final Review"
+- When all comments resolved, Kevin updates GitLab status to "Final Review", merges the request!
 
 ### Stage 4: Technical Writers
 
