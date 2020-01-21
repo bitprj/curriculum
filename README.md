@@ -1,5 +1,5 @@
 # Developer Relations Workflow
-##Stage 1 - Prereview
+## Stage 1 - Prereview
 Step 1: Create a Branch named firstname_activityorlabname
 Step 2: When you are done commiting and ready for your reviewer to review change
 - Stage to "Pending Reviewer"
