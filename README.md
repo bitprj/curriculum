@@ -1,8 +1,10 @@
-# GitLab Deadline Workflow - Bit
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
-
-
-
+# Developer Relations Workflow
+##Stage 1 - Prereview
+Step 1: Create a Branch named firstname_activityorlabname
+Step 2: When you are done commiting and ready for your reviewer to review change
+- Stage to "Pending Reviewer"
+- Assign the merge request to your reviewer
+- Reference the Issue you are working on in your MERGE REQUEST!
 
 ## Stage Overview
 
