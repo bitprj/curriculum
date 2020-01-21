@@ -34,6 +34,8 @@ Bullet points indicate steps to be completed, when all the bullet points are don
     - Styling (separating cards into steps, typos, flow, only local images)
     - Visuals (custom visuals)
     - Create (need to create a new card)
+  - **Name your issue with this format**: Activity/Lab (task_number) (activity/lab name) (title)
+  - Ex. Activity 2.1.1 Bookkeeper Visuals
 
 ### Stage 1: Before 1st Review
 
@@ -65,6 +67,7 @@ Bullet points indicate steps to be completed, when all the bullet points are don
       - Context (explanations of underlying concepts)
       - Content (code and explanations of code)
       - Styling (separating cards into steps, typos, flow, only local images)
+      - Ordering (ordering of cards, moving parts of card content to another)
       - Visuals (custom visuals)
       - Create (need to create a new card)
     - Resolve all comments into an issue
