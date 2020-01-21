@@ -11,6 +11,8 @@ Step 2: When you are done commiting and ready for your reviewer to review change
 Stage 1 (Pre-Review): DevRel Stage 1
 Stage 2 (Post-Review): Continue Perfecting DevRel Stage 1 + DevRel Stage 2
 Stage 3 (Kevin): Kevin conducts final review
+
+ghjkjh
 Stage 4 (Writers): Writers re-style curriculum for grammar, writing style etc.
 Stage 5 (Contentful): Writers copy and paste into Contentful
 
