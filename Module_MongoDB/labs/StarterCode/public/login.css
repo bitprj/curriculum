@@ -1,0 +1,133 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: image("turkey_trot.jpeg");
+    
+}
+
+.Header-branding-logo{
+    height: 50px;
+    width: 70;
+}
+
+ul {
+    
+    left: 0;
+    margin-top: 0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 0;
+    list-style-type: none;
+    background-color: white;
+    position: fixed;
+    top: 0;
+
+    width: 100%;
+  }
+  
+  li {
+    float: right;
+    border-radius: 25px;
+    background-color: skyblue
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 30px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: lightblue;
+    border-radius: 25px;
+  }
+  
+  .active {
+    background-color: skyblue;
+    border-radius: 25px;
+  }
+/* end top nav bar */
+
+.login-background {
+    height: 500px;
+    width: 100%;
+    background-color: #84d0e1;
+    position: absolute;
+    margin-top: 108px;
+    text-align: center;
+    z-index: -1;
+    border-radius: 25px;
+
+
+}
+
+.login-box {
+    height: 400px;
+    width: 600px;
+    background-color: white;
+    align-items: center;
+    position: relative;
+    margin-left: 350px;
+    padding-top: 70px;
+    text-align: center;
+    z-index: -1;
+    border-radius: 25px;
+ 
+
+
+}
+
+.login{
+    padding-top: 100px;
+    font: bolder;
+    text-align: center;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+.username{
+    margin-left: 540px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+    background-color: lightblue;          
+    width: 200px;
+    
+}
+.password{
+    margin-left: 540px;
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+    background-color: lightblue;          
+    width: 200px;
+    text-align: center;
+}
+
+
+.button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color:black;
+    border-radius: 25px;
+    background-color: #84d0e1;
+}
+
+.new-account-button{
+  margin-top: 15px;
+  text-align: center;
+  color:grey;
+
+}
+
+
+
+

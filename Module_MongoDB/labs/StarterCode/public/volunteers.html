@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="sign-up-form.css">
+  </head>
+    <div class="container">
+      <h1>Sign Up</h1>
+      <p>Fill out this form to create a new account.</p>
+      <hr>
+
+      <form action="/volunteers" method="POST" class="signup">
+        <label for="firstName"><b>First Name</b></label>
+        <input type="text" placeholder="First Name" name="firstName" required>
+
+        <label for="lastName"><b>Last Name</b></label>
+        <input type="text" placeholder="Last Name" name="lastName" required>
+
+        <label for="email"><b>Email</b></label>
+        <input type="text" placeholder="Enter Email" name="email" required>
+    
+        <label for="psw"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="password" required>
+    
+        <!-- <label for="psw-repeat"><b>Repeat Password</b></label>
+        <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+     -->
+        <label>
+          <input type="checkbox"> Remember me
+        </label>
+    
+        <div class="continue">
+          <button type="button" class="cancel-button">Cancel</button>
+          <button type="submit" class="signup-button">Sign Up</button>
+        </div>
+      </form>
+    </div>

@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+.cancel-button {
+  padding: 14px 20px;
+  background-color: gray;
+  border-radius: 25px;
+}
+
+.signup-button {
+    padding: 14px 20px;
+    background-color:#84d0e1;
+    border-radius: 25px;
+  }
+
+.cancel-button, .signup-button {
+  float: left;
+  width: 20%;
+}
+
+.container {
+  padding: 14px;
+}
+
+/* Clear floats */
+.continue::after {
+  content: "";
+  clear: both;
+  display: table;
+}

@@ -1,0 +1,152 @@
+body {
+  margin:0;
+  font-family: 'Alice', sans-serif;
+  /* background-image: image("turkey_trot.jpeg"); */
+}
+
+.Header-branding-logo{
+  height: 50px;
+  width: 70;
+}
+
+/* top nav bar */
+
+.nav-list {
+  left: 0;
+  margin-top: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 0;
+  list-style-type: none;
+  background-color: white;
+  position: fixed;
+  top: 0;
+
+  z-index: 1;
+  width: 100%;
+}
+
+.nav-style {
+  float: right;
+  border-radius: 25px;
+  background-color: skyblue
+}
+
+.nav-list li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 30px;
+  text-decoration: none;
+}
+
+.nav-list li a:hover:not(.active) {
+  background-color: lightblue;
+  border-radius: 25px;
+}
+
+.active {
+  background-color: skyblue;
+  border-radius: 25px;
+}
+/* end top nav bar */
+
+header {
+  overflow: hidden;
+}
+
+.header-image {
+   filter: brightness(50%);
+   width: 100%;
+   z-index: -1;
+}
+
+.header-text{
+  color: black;
+  font-size: 70px;
+  padding-top: 150px;
+  text-align: center;
+  position: relative;
+}
+
+.title {
+  padding-left: 60px;
+  padding-right: 100px;
+  
+  display: flex;
+  flex-direction: row;
+}
+
+.sections1 {
+  padding-left: 50px;
+  padding-right: 500px;
+  margin-bottom: 100px;
+
+  /* float: left; */
+  display: flex;
+  flex-direction: row;
+}
+
+.text-image1 {
+  right: 0;
+  position: absolute;
+  padding-right: 40px;
+
+  width: 450px;
+  height: 350px;
+}
+
+.text-image2 {
+  left: 0;
+  position: relative;
+  padding-top: 20px;
+  padding-left: 10px;
+
+  width: 400px;
+  height: 300px;
+}
+
+.sections2 {
+  padding-left: 50px;
+  padding-right: 100px;
+  margin-bottom: 100px;
+
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+}
+
+.sections3 {
+  padding-left: 50px;
+  padding-right: 500px;
+  
+  display: flex;
+  flex-direction: row;
+}
+
+.text-image3 {
+  right: 0;
+  position: absolute;
+  padding-top: 20px;;
+  padding-right: 40px;
+
+  width: 450px;
+  height: 350px;
+}
+
+.textInSection{
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.imageInSection{
+  height: 400px;
+}
+
+h1{
+  font-size: 80px;
+  font-family: "Alice";
+}
+
+
+

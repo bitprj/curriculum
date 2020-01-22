@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel = "stylesheet" href="event.css">
+    {{!-- <script src="app.js"></script> --}}
+    <title>Document</title>
+</head>
+
+<body class = "first-body">
+    <header>
+        <ul class="nav-list">
+            <img src="//static1.squarespace.com/static/5cb55271b914494e48f5546b/t/5d22449b59005400016749ca/1575162183637/?format=1500w" alt="bit project" class="Header-branding-logo">
+            <li class="nav-style"><a href="contact.html">Contact</a></li>
+            <li class="nav-style"><a href="Login.html">Log in</a></li>
+            <li class="nav-style"><a href="/events"> Events</a></li>
+            <li class="nav-style"><a href="index.html">Home</a></li>
+        </ul>
+    </header>
+    <img class = "header-image" src="turkey_trot.jpg" alt="Marathon runners">
+    <h1 class = "header-text"> {{eventName}} </h1>
+        <div class="date-box">
+            <h2 class = "month">{{month}}</h2>
+            <h2 class = "day"> {{day}} </h2>
+            <h2 class = "time"> Starts at {{time}}</h2>        
+        </div>
+    
+    <div class="description">
+        <p>{{description}}</p>
+
+        <h3 class = "info-header"> More Info: </h3>
+        <p> {{description}}</p>
+    </div>
+</body>
+</html>
