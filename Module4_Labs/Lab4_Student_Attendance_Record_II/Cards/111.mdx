@@ -1,0 +1,11 @@
+<!--Title={Baseball Records}-->
+
+<!--concepts={Start small/ getting the idea}-->
+
+# SH sequences
+
+If we store the number of SH sequences for every length `i` for `0 <= i <= n` in an array of length `n+1` then we know how many SHF sequences with this line of Python.
+
+```
+sh[n] + sum((sh[i] * sh[n-i-1] for i in range(n)))
+```

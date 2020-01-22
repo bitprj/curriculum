@@ -1,0 +1,92 @@
+<!--Title={BasebaSS Records}-->
+
+<!--concepts={Creating a dynamic programming table}-->
+
+# Extending to any length
+
+Here is our dynamic programming table.
+
+```
+     |  0  |  1  |  2  |  3  | ... | n
+------------------------------
+H    |     |     |     |     |
+------------------------------
+S    |     |     |     |     |
+------------------------------
+SS   |     |     |     |     |
+------------------------------
+sh   |     |     |     |     |
+------------------------------
+```
+
+Now we want to fill the ith column with:
+- H[i] being the number of possible sequences ending with 'H' of length i
+- S[i] being the number of possible sequences ending with 'S' of length i
+- SS[i] being the number of possible sequences ending with 'SS' of length i
+- sh[i] being the number of possible SH sequences of length i
+
+ 
+
+I think it is easiest to start with column `1`.
+
+ 
+
+```
+     |  0  |  1  |  2  |  3  | ... | n
+------------------------------
+H    |     |  1  |     |     |
+------------------------------
+S    |     |  1  |     |     |
+------------------------------
+SS   |     |  0  |     |     |
+------------------------------
+sh   |     |  2  |     |     |
+------------------------------
+```
+
+If we have a subsequence of length `i` we know that we can:
+ \- Always add a `'H'` to make the sequence end in `'H'`
+ \- Add an `'S'` if the sequence ended in `'H'` to make the sequence end in `'S'`
+ \- Add an `'S'` if the sequence ended in `'S'` to make the sequence end in `'SS'`
+
+ 
+
+```
+     |  0  |  1  |  2  |  3  | ... | n
+------------------------------
+H    |     |  1  |  2  |  4  |
+------------------------------
+S    |     |  1  |  1  |  2  |
+------------------------------
+SS   |     |  0  |  1  |  1  |
+------------------------------
+sh   |     |  2  |  4  |  7  |
+------------------------------
+```
+
+
+
+As we fill in the table we can see that:
+- H[i+1] == S[i]
+- S[i+1] == H[i]
+- SS[i+1] == S[i]
+- sh[i+1] == H[i+1] + S[i+1] + SS[i+1]
+
+ 
+
+We can use this knowledge to fill in column 0. We need `sh[0] == 0`  because when we want to split an SHA sequence into 2 SH sequences and  multiply them together we might split at the index 0 to give us a left SH sequence of length `0` and a right LP sequence of length `n-1`.
+
+ 
+
+```
+     |  0  |  1  |  2  |  3  | ... | n
+------------------------------
+H    |  1  |  1  |  2  |  4  |
+------------------------------
+S    |  0  |  1  |  1  |  2  |
+------------------------------
+SS   |  0  |  0  |  1  |  1  |
+------------------------------
+sh   |  1  |  2  |  4  |  7  |
+------------------------------
+```
