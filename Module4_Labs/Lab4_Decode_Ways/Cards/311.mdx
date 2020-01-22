@@ -1,0 +1,129 @@
+<!--Title={Alphabet or Numbers}-->
+
+<!--concepts={}-->
+
+# Updating your result with the answer
+
+Iterate through every consecutive group of three, advancing by one element at a time.
+
+For a string of "ABCDEF", we want to iterate like this:
+
+Iteration 1: "ABC"
+
+Iteration 2: "BCD"
+
+Iteration 3: "CDE"
+
+Iteration 4: "DEF"
+
+Done
+
+```python
+for i in range(1, len(s) + 1):
+```
+
+`dp` holds the cumulative number of maximum combinations:
+
+For a string of "ABCD"
+
+```
+[1, 2, 3]
+```
+
+* The first iteration had 1 maximum combination for "ABC"
+* The second iteration had 2 maximum combinations after checking "BCD", therefore "ABCD" has 2 maximum combinations, but "CD" has not been checked yet
+* The third iteration checks whether "CD" along counts as another combination, and there was so "ABCD" has 3 maximum combinations
+
+As you can see, this return list keeps growing as more maximum combinations are found.
+
+How can we interpret this? For each group of 3 "ABC", if "B" is at least 0, then that means it's possible for "BC" to be a combination. Carry over the maximum combinations of the last iteration into this current iteration by updating the result list.
+
+```python
+for i in range(1, len(s) + 1):
+    if s[i - 1] > '0':
+        dp[i] = dp[i - 1]
+```
+
+Now check if "AB" can be a combination as "AB" (Ex. "26" can be a combination as "26", which is "z", but "27" cannot since twenty-seven does not map to any letter)
+
+```python
+for i in range(1, len(s) + 1):
+    if s[i - 1] > '0':
+        dp[i] = dp[i - 1]
+        if s[i - 2] > '0' and (s[i - 2], s[i - 1]) <= ('2', '6'):
+```
+
+We also want to do this when i > 1, since when i is 1, then i - 2 is negative (bad for our purposes). Add another `and` in the inner **if statement** for this.
+
+```python
+for i in range(1, len(s) + 1):
+    if s[i - 1] > '0':
+    	dp[i] = dp[i - 1]
+    if i > 1 and s[i - 2] > '0' and (s[i - 2], s[i - 1]) <= ('2', '6'):
+```
+
+If this inner **if statement** is `True`, then that means this group of 3 has combinations independent from the previous group of 3 (whose elements do not overlap with this current group of 3) (Example: "ABCDEF" if "DEF" has the inner **if statement** evaluate to `True`, then add the maximum combinations of "ABC" with "DEF").
+
+```python
+for i in range(1, len(s) + 1):
+    if s[i - 1] > '0':
+        dp[i] = dp[i - 1]
+        if s[i - 2] > '0' and (s[i - 2], s[i - 1]) <= ('2', '6'):
+            dp[i] += dp[i - 2]
+```
+
+Now we add an **else** statement to the outer **if statement**, when "B" of the group of 3 "ABC" is '0'. This means "BC" cannot be a combination as "BC" but only (possibly) "B + C".
+
+```python
+for i in range(1, len(s) + 1):
+    if s[i - 1] > '0':
+        dp[i] = dp[i - 1]
+        if s[i - 2] > '0' and (s[i - 2], s[i - 1]) <= ('2', '6'):
+            dp[i] += dp[i - 2]
+    else:
+```
+
+Now we check whether "AB" is a possible combination. Here, "B" can be anything, so we only check if "A" is between 0 and 3. If so, then no new combinations were found, so just carry over the maximum number of combinations from the last iteration.
+
+```python
+for i in range(1, len(s) + 1):
+    if s[i - 1] > '0':
+        dp[i] = dp[i - 1]
+        if i > 1 and s[i - 2] > '0' and (s[i - 2], s[i - 1]) <= ('2', '6'):
+            dp[i] += dp[i - 2]
+    else:
+        if i > 1 and s[i - 2] > '0' and s[i - 2] < '3':
+            dp[i] = dp[i - 2]
+```
+
+For smaller strings, if this is not satisfied, then there are no possible combinations (Ex: "000")
+
+```python
+for i in range(1, len(s) + 1):
+    if s[i - 1] > '0':
+        dp[i] = dp[i - 1]
+        if i > 1 and s[i - 2] > '0' and (s[i - 2], s[i - 1]) <= ('2', '6'):
+            dp[i] += dp[i - 2]
+    else:
+        if i > 1 and s[i - 2] > '0' and s[i - 2] < '3':
+            dp[i] = dp[i - 2]
+        else:
+            return 0
+```
+
+Using this algorithm, the last element of the return list `dp` will be the answer, so return dp[-1]
+
+```python
+for i in range(1, len(s) + 1):
+    if s[i - 1] > '0':
+        dp[i] = dp[i - 1]
+        if i > 1 and s[i - 2] > '0' and (s[i - 2], s[i - 1]) <= ('2', '6'):
+            dp[i] += dp[i - 2]
+    else:
+        if i > 1 and s[i - 2] > '0' and s[i - 2] < '3':
+            dp[i] = dp[i - 2]
+        else:
+            return 0
+return dp[-1]
+```
+
