@@ -32,8 +32,9 @@ Bullet points indicate steps to be completed, when all the bullet points are don
     - Styling (separating cards into steps, typos, flow, only local images)
     - Visuals (custom visuals)
     - Create (need to create a new card)
+    - Ordering (card ordering, moving content from card to card)
   - **Name your issue with this format**: Activity/Lab (task_number) (activity/lab name) (title)
-  - Ex. Activity 2.1.1 Bookkeeper Visuals
+  - Ex. Activity 2.2.1 Bookkeeper Visuals
   - For non-core modules, just include module name 
     - ex. Postman.1 Testing API Endpoints
   - **Assign issues to your team members**
