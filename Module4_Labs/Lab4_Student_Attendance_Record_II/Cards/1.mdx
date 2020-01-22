@@ -1,0 +1,29 @@
+<!--Title={Baseball Records}-->
+<!--concepts={Dynamic Programming}-->
+
+# Baseball Records
+You are a programmer for a baseball team and want to reward exceptional behavior based on hit record.
+Given a positive integer **n**, return the number of all possible hit records with length n, which will be regarded as rewardable.
+The hit record is a string that only contains the following three characters:
+
+* "H" for hit (a valid hit)
+* "F" for foul (a hit, but the ball went out of bounds)
+* "S" for strike (a miss)
+A record is regarded as exceptional if it doesn't contain **more than one 'F' (foul)** or **more than two continuous 'S' (strike)**
+
+**Example 1:**
+
+```
+Input: n = 2
+Output: 8 
+Explanation:
+There are 8 records with length 2 will be regarded as rewardable:
+"PP" , "AP", "PA", "LP", "PL", "AL", "LA", "LL"
+Only "AA" won't be regarded as exceptional owing to more than one absent times. 
+```
+
+**Note:** The value of **n** won't exceed 100,000.
+
+Use dynamic programming to determine how to store all the possible number of SH (strike then a hit) sequences.
+
+This helps you by working with small data before you tackle the entire problem.

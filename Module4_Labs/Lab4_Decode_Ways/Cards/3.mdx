@@ -1,0 +1,32 @@
+<!--Title={Alphabet or Numbers}-->
+
+<!--concepts={}-->
+
+# Any length n
+
+When there are three characters "ABC", there are at most three combinations:
+
+* A + B + C
+
+* A + BC
+* AB + C
+
+When there are four characters "ABC", there are at most five ways
+
+* AB + CD
+* A + B + C + D
+* A + B + CD
+* AB + C + D
+* A + BC + D
+
+It also depends on whether "AB" can be interpreted as "AB" or not
+
+Example: Let A = 2 and B = 7, then "AB" is "27". Twenty-seven cannot map to a letter, so "AB" is not a valid combination, but "2" (B) and "7" (G) can. So there is only 1 combination for "27".
+
+
+
+Try to find a pattern to solve the problem for any length of the input string.
+Look at characters in groups of three, so for "12345", you would evaluate
+1. "123"
+2. "234"
+3. "345"
