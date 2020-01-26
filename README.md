@@ -1,4 +1,4 @@
-# Developer Relations Workflow with GitLab
+# Developer Relations Workflow with GitHub
 
 ## Stage Overview
 
