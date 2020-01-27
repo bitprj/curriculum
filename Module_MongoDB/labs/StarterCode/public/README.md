@@ -1,2 +1,0 @@
-# BitProject
-Charity Development
