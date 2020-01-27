@@ -1,0 +1,19 @@
+<!--title={Word Translation}-->
+For Hard Card: 1.md
+bonus: 10.00
+hardExp: 90
+mediumExp subtract amt: 30
+easyExp subtract amt: 60
+
+For Hard Card: 2.md
+bonus: 25.00
+hardExp: 225
+mediumExp subtract amt: 75
+easyExp subtract amt: 150
+
+For Hard Card: 3.md
+bonus: 10.00
+hardExp: 90
+mediumExp subtract amt: 30
+easyExp subtract amt: 60
+
