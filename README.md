@@ -1,14 +1,108 @@
-![IMAGE ALT TEXT HERE](https://i.ibb.co/470bVsn/Bit-Project-2.png)
-## Curriculum for Bit Project's Open Source Developer Education Program
-Bit Project is a student club based in Davis, CA that creates resources for anyone to learn how to code. We value 
+# Developer Relations Workflow with GitLab
 
-## About Us
-We make software engineering and computer science education accessible to students from nontraditional learning environments. Using our curriculum, we take students with minimal experience in computer science to a full-fledged software developer with a diverse coding portfolio using our curriculum. We collaborate with leading companies and developers to create interactive, fun technical content that use industry standard technologies and developer tools.
+## Stage Overview
 
-## Reporting Bugs and Issues
+Stage 1 (Pre-Review): DevRel Stage 1
 
-## How To Contribute
+Stage 2 (Post-Review): Continue Perfecting DevRel Stage 1 + DevRel Stage 2
 
-## Join Bit Project 
+Stage 3 (Kevin): Kevin conducts final review
 
-## License
+Stage 4 (Writers): Writers re-style curriculum for grammar, writing style etc.
+
+Stage 5 (Contentful): Writers copy and paste into Contentful
+
+Additionally, Stages 1-3 are handled and marked within GitLab.
+
+Stage 4 is the GitLab issue that Kevin will raise.
+
+Stage 5 is Contentful.
+
+## Stage Processes
+
+Bullet points indicate steps to be completed, when all the bullet points are done in order, then the corresponding status for that stage should be marked in Airtable.
+
+### Stage 0: Issues
+
+- Reviewers
+  - Come up with issues
+  - Different Types:
+    - Context (explanations of underlying concepts)
+    - Content (code and explanations of code)
+    - Styling (separating cards into steps, typos, flow, only local images)
+    - Visuals (custom visuals)
+    - Create (need to create a new card)
+    - Ordering (card ordering, moving content from card to card)
+  - **Name your issue with this format**: Activity/Lab (task_number) (activity/lab name) (title)
+  - Ex. Activity 2.2.1 Bookkeeper Visuals
+  - For non-core modules, just include module name 
+    - ex. Postman.1 Testing API Endpoints
+  - **Assign issues to your team members**
+    - with due date if necessary
+
+### Stage 1: Before 1st Review
+
+- Developers
+  - Assigned issues to work in, usually in a specific lab/activity
+    - Each activity/lab is in an assigned folder
+    - Issue notifications can be found in top right corner
+  - Create a branch named firstname_activityorlabname
+    - ex. Kevin_AnalyzingTweetsActivity
+  - Find issues to work on for your assigned activity/lab
+  - Develop curriculum by DevRel Stage 1 Requirements
+  - Devs upload folder of .md files to the folder assigned
+  - Start **merge request** and assign to reviewer
+  - **Reference the Issue you are working on in your MERGE REQUEST!**
+    - Use "Closes #xx" with xx as your issue number in your merge request message
+      - Ex. "Closes #10
+  - Mark "Pre-Review" stage in GitLab "label"
+
+> Note that Stages 2-4 are completed **in the same merge request!**
+
+### Aside on Comments (Stages 2-4)
+
+- Developers: For every single commit to a merge request, please put "/spend xx hours".
+  - We would like to get a good idea of your work to place you in the right team
+
+### Stage 2: After 1st Review
+
+- Reviewer reviews .md files
+  - Leave feedback in terms of **comments** on merge request
+    - Check merge request notification in top right corner
+    - Go to Merge request
+    - Click on Changes tab
+  - Reviewer leaves comments in Changes tab
+    - Types of issues
+      - Context (explanations of underlying concepts)
+      - Content (code and explanations of code)
+      - Styling (separating cards into steps, typos, flow, only local images)
+      - Ordering (ordering of cards, moving parts of card content to another)
+      - Visuals (custom visuals)
+      - Create (need to create a new card)
+    - Resolve all comments into an issue
+      - Button in upper right
+      - Repeat entire process to make multiple issues when necessary
+- Developer responds to comments
+  - By going to issue
+  - Checking out a pull request's branch https://stackoverflow.com/questions/2236743/git-refusing-to-fetch-into-current-branch/19205680
+    - then `git pull` to get latest code and work on comments locally
+- Developer + reviewer work together to get all comment threads resolved
+- Reviewer changes assignee to Kevin
+- Mark "Post-Review" in GitLab "label"
+
+### Stage 3: Final Review
+
+- Kevin conducts one final review, makes comments where necessary
+- Kevin works with reviewer and developers to resolve comments
+- When all comments resolved, Kevin updates GitLab status to "Final Review", merges the request!
+
+### Stage 4: Technical Writers
+
+- Kevin raises an issue and changes assignee to writer
+  - Writer will re-style curriculum
+- When finished, writers mark status to "Final Edits"
+
+### Stage 5: Contentful
+
+- Writers copy and paste into Contentful, format accordingly
+- Writers finish, publish within Contentful
