@@ -1,4 +1,4 @@
-# Developer Relations Workflow with GitLab
+# Developer Relations Workflow with GitHub
 
 ## Stage Overview
 
@@ -22,9 +22,9 @@ Stage 5 is Contentful.
 
 Bullet points indicate steps to be completed, when all the bullet points are done in order, then the corresponding status for that stage should be marked in Airtable.
 
-### Stage 0: Issues
+### Stage 0: Issues and Milestones
 
-- Reviewers
+- Issues
   - Come up with issues
   - Different Types:
     - Context (explanations of underlying concepts)
@@ -37,8 +37,21 @@ Bullet points indicate steps to be completed, when all the bullet points are don
   - Ex. Activity 2.2.1 Bookkeeper Visuals
   - For non-core modules, just include module name 
     - ex. Postman.1 Testing API Endpoints
+  - **Assign difficulty label to each issue**
+    1. Easy (1)
+    2. Medium (2)
+    3. Hard (3)
+    4. Writing (4)
+    5. Visuals (5)
   - **Assign issues to your team members**
     - with due date if necessary
+- Milestones
+  - To satisfy your quota and/or perk requirements
+  - Reviewers will set milestones on GitHub on a weekly basis 
+    - Generally speaking, devs will need to resolve issues with a **total weight of 10 per week** individually
+      - If your reviewer asks you to do more to meet his or her quota, please do
+    - Reviewers are responsible for merging 2 labs / 6 activities a week
+    - Team PERK: merging 4 labs / 12 activities a week
 
 ### Stage 1: Before 1st Review
 
@@ -51,7 +64,7 @@ Bullet points indicate steps to be completed, when all the bullet points are don
   - Find issues to work on for your assigned activity/lab
   - Develop curriculum by DevRel Stage 1 Requirements
   - Devs upload folder of .md files to the folder assigned
-  - Start **merge request** and assign to reviewer
+  - Start **pull request** and assign to reviewer
   - **Reference the Issue you are working on in your MERGE REQUEST!**
     - Use "Closes #xx" with xx as your issue number in your merge request message
       - Ex. "Closes #10
