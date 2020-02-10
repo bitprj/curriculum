@@ -1,4 +1,4 @@
-*Don't forget general labels, a stage label and an assignee.*
+**Don't forget general labels, a stage label and an assignee.**
 
 Closes Issues # # #.
 
