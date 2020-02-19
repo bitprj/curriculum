@@ -21,6 +21,6 @@ Utilize object oriented programming concepts to build the game, Mine Sweeper.
 Hard
 
 # Image
-![Mine image](https://storage.needpix.com/rsynced_images/open-pit-mining-3554216_1280.jpg)
+![Mine image](https://cdn.pixabay.com/photo/2017/04/28/21/36/mine-2269513_960_720.png)
 
 
