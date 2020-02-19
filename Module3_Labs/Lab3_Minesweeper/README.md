@@ -21,4 +21,6 @@ Utilize object oriented programming concepts to build the game, Mine Sweeper.
 Hard
 
 # Image
-![](https://projectbit.s3-us-west-1.amazonaws.com/darlene/labs/silver-steel-mining-crane-on-black-rocky-soil-during-daytime-60008.jpg)
+![Mine image](https://storage.needpix.com/rsynced_images/open-pit-mining-3554216_1280.jpg)
+
+
