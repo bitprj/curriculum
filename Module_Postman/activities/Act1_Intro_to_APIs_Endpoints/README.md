@@ -23,4 +23,4 @@ Easy
 
 # Image 
 
-![API image](Module_Postman/activities/Act1_Intro_to_APIs_Endpoints/http.png)
+![http](https://projectbit.s3-us-west-1.amazonaws.com/darlene/labs/http.png)
