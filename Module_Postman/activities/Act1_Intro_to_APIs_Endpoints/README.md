@@ -4,7 +4,7 @@ Intro to API Endpoints
 
 # Long Summary
 
-Students will learn how to use an API along with http methods and interpret status codes. Then they will learn how to interact with an API using Postman. Also students will learn what an API key is and how to use it within Postman. 
+Students will learn about APIs, HTTP methods and status codes. Then they will use Postman to interact with an API and get data from it. Also students will be knowledgeable on what an API key is and how to use an API key in Postman's Authorization tab. 
 
 # Short Summary
 
