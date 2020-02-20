@@ -4,11 +4,11 @@ Intro to API Endpoints
 
 # Long Summary
 
-Students will learn what an API is and how to use Postman to send a request to the API to get data back. 
+Students will learn how to use an API along with http methods and interpret status codes. Then they will learn how to interact with an API using Postman. 
 
 # Short Summary
 
-Utlilize postman to get JSON data from API. 
+Utlilize postman to interact with an API. 
 
 # Criteria
 
