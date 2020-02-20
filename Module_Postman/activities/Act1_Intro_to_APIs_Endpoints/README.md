@@ -4,7 +4,7 @@ Intro to API Endpoints
 
 # Long Summary
 
-Students will learn how to use an API along with http methods and interpret status codes. Then they will learn how to interact with an API using Postman. 
+Students will learn how to use an API along with http methods and interpret status codes. Then they will learn how to interact with an API using Postman. Also students will learn what an API key is and how to use it within Postman. 
 
 # Short Summary
 
@@ -21,4 +21,6 @@ Utlilize postman to interact with an API.
 
 Easy
 
+# Image 
 
+![API image](Module_Postman/activities/Act1_Intro_to_APIs_Endpoints/http.png)
