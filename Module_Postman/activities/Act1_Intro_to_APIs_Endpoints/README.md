@@ -11,8 +11,10 @@ Students will learn what an API is and how to use Postman to send a request to t
 Utlilize postman to get JSON data from API. 
 
 # Criteria
-1. What are the different http methods?
-2. What is the purpose of an API key?
+
+1. What is an API and why is it useful to developers? 
+2. What are the different http methods?
+3. What is the purpose of an API key?
 
 
 # Difficulty
