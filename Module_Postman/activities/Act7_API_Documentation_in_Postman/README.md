@@ -3,6 +3,7 @@
 # Long Summary
 Students will learn of the importance of API documentation.
 Then, they will create their own documentation using the APIs they used in the last activity on Postman.
+As they create documentation, they will learn what makes a good API Documentation.
 
 # Short Summary
 Using Postman's Documenter, students will learn how to document API. 
