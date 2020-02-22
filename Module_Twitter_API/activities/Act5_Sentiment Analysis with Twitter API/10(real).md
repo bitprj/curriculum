@@ -1,4 +1,4 @@
-<!--title="Regular Expressions [Anchors]"-->
+<!--title="Regular Expressions [Quantifiers]"-->
 
 ## Regular Expressions [Quantifiers]
 
