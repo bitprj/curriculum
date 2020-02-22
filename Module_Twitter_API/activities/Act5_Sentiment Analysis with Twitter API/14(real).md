@@ -1,0 +1,23 @@
+<!--title="Regular Expressions [Grouping and Capture]"-->
+
+## Regular Expressions [Grouping and Capture]
+
+<img src="https://gifimage.net/wp-content/uploads/2017/10/capture-gif-7.gif" style="zoom:25%;" />
+
+> We use capture group (...) to help us extract information and to use regular expressions on groups of string or other rules. 
+
+Almost there now:
+
+* Just using something like `cool(cat)` will allow us to access multiple matches like an array and use rules on the entire `cat` portion of the string.
+  
+* The ` ?:` disables the array access feature: `/cool(?:cat)/`.
+  * The  `?<...>` gives a capture group a name(something useful for our array-like access: `/?cool(<g1>cat)/`
+  
+  
+  
+
+***
+
+Sources:
+
+* https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
