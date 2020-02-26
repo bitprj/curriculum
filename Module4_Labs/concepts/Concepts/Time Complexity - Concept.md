@@ -2,7 +2,7 @@
 
 # Time Complexity
 
-Time Complexity, boils down to the rate the runtime of a function increases as the input gets very large. 
+Time Complexity boils down to the rate the runtime of a function increases as the input gets very large. 
 
 Functions and algorithms can increase in a variety of different "times" and its important to know what each time represents. 
 
@@ -54,9 +54,9 @@ When looking for time complexity, the fastest growing term determines the time t
 
 We use Big-O notation to express the time a function grows in. 
 
-* A function that grows in a *constant time* doesn't grow at all. A graph of it's runtime would be a straight line. 
-* Growing in *Linear Time* means that the function increases at a steady rate. 
-* Growing in *Quadratic Time* would mean that the graph of the function's time would like the graph of a quadratic function. 
+* A function that grows in a *constant time* doesn't grow at all. A graph of its runtime vs input size would be a straight, constant line. 
+* Growing in *Linear Time* means that the function of runtime vs input size increases at a steady rate. This means as the input size increases, the runtime increases at a constant rate. 
+* Growing in *Quadratic Time* would mean that the graph of the function's runtime vs its input size would look like the graph of a quadratic function. This means that as the input size increases, the runtime increases at a faster and faster rate, unlike growing in *Linear time*.
 
 | Time             | Big-O Notation |
 | ---------------- | -------------- |
@@ -67,8 +67,6 @@ We use Big-O notation to express the time a function grows in.
 | Logarithmic Time | O(log n)       |
 
 Time Complexity is very important when it comes to functions because it allows us to measure how fast a function will grow. 
-
-
 
 **Time Complexity does not tell us the runtime of a function!! Calculating the runtime of a function is much harder because we have to consider hardware, IDE, etc**.
 
