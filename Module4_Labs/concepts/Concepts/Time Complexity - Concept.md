@@ -61,12 +61,12 @@ We use Big-O notation to express the time a function grows in.
 | Time             | Big-O Notation |
 | ---------------- | -------------- |
 | Constant Time    | O(1)           |
+| Logarithmic Time | O(log n)       |
 | Linear Time      | O(n)           |
 | Quadratic Time   | O(n^2^))       |
 | Factorial Time   | O(n!)          |
-| Logarithmic Time | O(log n)       |
 
-Time Complexity is very important when it comes to functions because it allows us to measure how fast a function will grow. 
+Time Complexity is very important when it comes to functions because it allows us to measure how fast a function will grow. Its important to understand what each specific time represents and which time is faster than others (the chart above goes from fastest to slowest from top to bottom) as it allows us to understand the speed with which our function performs as input size gets very large. Ideally, we would like our functions to be as fast as possible and we can only understand relative by speed by recognizing the different time complexities!
 
 **Time Complexity does not tell us the runtime of a function!! Calculating the runtime of a function is much harder because we have to consider hardware, IDE, etc**.
 
