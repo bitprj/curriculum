@@ -11,12 +11,4 @@ A general format would just look like this:
 ```js
 var name = require("middleware_name")
 app.use(name())
-<<<<<<< Updated upstream
 ```
-
-
-
-### 
-=======
-```
->>>>>>> Stashed changes

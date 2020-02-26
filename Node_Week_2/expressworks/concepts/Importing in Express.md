@@ -29,9 +29,4 @@ Other meta properties found in `package.js` include:
 | main            | main entry point for library                                 |
 | dependencies    | lists modules that the project depends on, installs them when project is installed through nmp |
 
-<<<<<<< Updated upstream
 `package-lock.json` is very similar to `package.json`, the change is that instead of alllowing for updating versions of a  package that could potentially introduce bugs into your code, `package-lock.json` "locks" the installed version number for the project such that when other users download and run it there should be no issues with version numbers. You can still update your dependencies by running `npm udpate`.
-
-=======
-`package-lock.json` is very similar to `package.json`, the change is that instead of alllowing for updating versions of a  package that could potentially introduce bugs into your code, `package-lock.json` "locks" the installed version number for the project such that when other users download and run it there should be no issues with version numbers. You can still update your dependencies by running `npm udpate`.
->>>>>>> Stashed changes

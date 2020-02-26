@@ -1,6 +1,6 @@
 ### Body-Parser and URL Encoded
 
-`Body-parser` is a parsing middleware package that is built into Express.js. It parses the request body based on which form your request body is in. The request body is the code that contains all the data that is being passed to a request. It must be parsed to be useable and that is why body-parser is a very important module. Liike all packages they must be installed before use. 
+`Body-parser` is a parsing middleware package that is built into Express.js. It parses the request body based on which form your request body is in. The request body is the code that contains all the data that is being passed to a request. It must be parsed to be useable and that is why body-parser is a very important module. Like all packages they must be installed before use. 
 
 ```
 npm install body-parser --save
@@ -30,10 +30,3 @@ Other options of `bodyParser.urlencoded([options])` are displayed below:
 | limit          | Controls the maximum request body* size.                     |
 | parameterLimit | Controls the maximum number of parameters that are allowed in the URL-encoded data |
 | type           | Determines what media type the middleware will parse         |
-<<<<<<< Updated upstream
-
-###  
-
-*The request body is the code that contains all the data that is being passed to a request. It must be parsed to be useable and that is why body-parser is a very important module. 
-=======
->>>>>>> Stashed changes
