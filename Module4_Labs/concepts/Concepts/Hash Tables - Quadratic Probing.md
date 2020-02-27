@@ -15,9 +15,9 @@ Quadratic probing is best demonstrated through an example.
 
 Say that we have a hash table of size 5. Let's try to insert the numbers 2, 7, and 22.
 
-*Insert image here*
+![](./Quadratic_Probing_Diagram .jpeg)
 
-
+Notice how everytime there is a collision, we increment j and reapply the hash function h(k) = (k+j<sup>2</sup>) % (size of table).
 
 <hr>
 
