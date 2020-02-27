@@ -13,7 +13,25 @@ In Hash Tables, when there is a collision, we must have a collision resolution t
 
 Quadratic probing is best demonstrated through an example.
 
-Say that we have a hash table of size 5. Let's try to insert the numbers 5, 
+Say that we have a hash table of size 5. Let's try to insert the numbers 2, 7, and 22.
+
+*Insert image here*
+
+
+
+<hr>
+
+<sup>1</sup> Methodology credit to https://www.youtube.com/watch?v=BoZbu1cR0no
+
+<sup>2</sup> Original example, but inspired by https://www.youtube.com/watch?v=BoZbu1cR0no 
+
+ 
+
+
+
+
+
+
 
 
 
