@@ -14,17 +14,19 @@ Now that we understand how Merge Sort works, let's look at some pseudocode, modi
 mergesort(array):
 	if length of array > l: # base case
 
-	   # dividing array into elements
-    	 find the middle point (m)
-    	 divide the array into two halves  
+		# dividing array into elements
+		find the middle point (m)
+		divide the array into two halves  
     
- 	   # sort elements in array
- 	     call mergesort for first half    # sort first half
- 	     call mergesort for second half   # sort second half
+		# sort elements in array
+		call mergesort for first half    # sort first half
+		call mergesort for second half   # sort second half
 
-	   # merging elements in array
-     	 merge the two halves sorted
+		# merging elements in array
+		merge the two halves sorted
 ```
+
+As we can see from the visual representation and pseudocode, Merge Sort merges elements in specific way. With the resulting list of the inputted array's individually separated elements, Merge Sort starts by merging two elements from both ends, front and back, into sorted pairs. At this point, there should be two sorted pairs in this list—one pair of the first two elements and another of the last two elements. It will continue by adding on the next element, from the front and back, to the pairs, making a sorted set of three. Then, Merge Sort will continue the process until the two resulting halves merge together to finally form a sorted array.
 
 ### Important Characteristics of Merge Sort:
 

@@ -2,7 +2,7 @@
 
 # Quick Sort 
 
-Quick Sort is one of our four basic sorting algorithims in Python. It is known as the most efficient and fastest of the four. 
+Quick Sort is one of our four sorting algorithms, and it is known as the most efficient and fastest of the four. 
 
 Quick Sort in two basic simple steps would be: 
 
