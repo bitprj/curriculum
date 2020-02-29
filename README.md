@@ -1,4 +1,4 @@
-![IMAGE ALT TEXT HERE](https://i.ibb.co/470bVsn/Bit-Project-2.png)
+![IMAGE ALT TEXT HERE](https://i.ibb.co/3yxGfdr/Bit-Project-3.png)
 ## Bit Project's Software Engineering Curriculum
 Bit Project is a student club based in Davis, CA that creates resources for anyone to learn how to code. We value 
 
