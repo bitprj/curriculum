@@ -1,10 +1,10 @@
 <!--title={Mergesort}-->
 
-# Mergesort
+# Merge Sort
 
-Mergesort is a sorting algorithm that uses recursion, which means it calls upon itself, and we use sorting algorithms like Mergesort to make our data more manageable. 
+Merges Sort is a sorting algorithm that uses recursion, which means it calls upon itself, and we use sorting algorithms like Merge Sort to make our data more manageable. 
 
-### Implementation of Mergesort:
+### Implementation of Merge Sort:
 
 1. Given an array of elements, start by dividing the array in half into two separate sections. 
 2. Divide those two sections in half and will continue to do so until it reaches its base case (each element is standing on its own). 
@@ -13,7 +13,7 @@ Mergesort is a sorting algorithm that uses recursion, which means it calls upon 
 
 ![]( https://miro.medium.com/max/3207/1*aJ1YiME33o0dBZTCmid7iw.png )
 
-Now that we understand how Mergesort works, let's look at some pseudocode, modified from the GeeksforGeeks website, that demonstrates an implementation of this sorting algorithm:
+Now that we understand how Merge Sort works, let's look at some pseudocode, modified from the GeeksforGeeks website, that demonstrates an implementation of this sorting algorithm:
 
 ```
 mergesort(array):
@@ -31,11 +31,11 @@ mergesort(array):
 		merge the two halves sorted
 ```
 
-As we can see from the visual representation and pseudocode, Mergesort merges elements in specific way. With the resulting list of the inputted array's individually separated elements, Mergesort starts by merging two elements from both ends, front and back, into sorted pairs. At this point, there should be two sorted pairs in this list—one pair of the first two elements and another of the last two elements. It will continue by adding on the next element, from the front and back, to the pairs, making a sorted set of three. Then, Mergesort will continue the process until the two resulting halves merge together to finally form a sorted array.
+As we can see from the visual representation and pseudocode, Merge Sort merges elements in specific way. With the resulting list of the inputted array's individually separated elements, Merge Sort starts by merging two elements from both ends, front and back, into sorted pairs. At this point, there should be two sorted pairs in this list—one pair of the first two elements and another of the last two elements. It will continue by adding on the next element, from the front and back, to the pairs, making a sorted set of three. Then, Merge Sort will continue the process until the two resulting halves merge together to finally form a sorted array.
 
-### Important Characteristics of Mergesort:
+### Important Characteristics of Merge Sort:
 
-- Mergesort is useful for sorting linked lists.
-- The time complexity of Mergesort is Θ(nlogn) for worst, average, and best case because dividing the array takes logn times and each pass through the array is proportional to its number of elements, n.
-- The space complexity of Mergesort is O(n), which shows that this algorithm takes a lot of space and may slow down operations for its last data sets.
+- Merge Sort is useful for sorting linked lists.
+- The time complexity of Merge Sort is Θ(nlogn) for worst, average, and best case because dividing the array takes logn times and each pass through the array is proportional to its number of elements, n.
+- The space complexity of Merge Sort is O(n), which shows that this algorithm takes a lot of space and may slow down operations for its last data sets.
 

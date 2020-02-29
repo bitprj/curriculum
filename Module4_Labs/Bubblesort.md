@@ -1,10 +1,10 @@
 <!--title={Bubblesort}-->
 
-# Bubblesort
+# Bubble Sort
 
-Bubblesort is the simplest of the four types of sorting algorithms we will be going over in this lab since it only uses swapping to sort through the entire list.
+Bubble Sort is the simplest of the four types of sorting algorithms we will be going over in this lab since it only uses swapping to sort through the entire list.
 
-### Implementation of Bubblesort:
+### Implementation of Bubble Sort:
 
 1. Compare the first two numbers, and if they are not sorted, then swap the two.
 2. Move on to the second and third values, compare the two numbers, then swap if necessary.
@@ -13,7 +13,7 @@ Bubblesort is the simplest of the four types of sorting algorithms we will be go
 
 ![Image result for bubble sort image](https://algonomics.io/images/bubble-sort/BubbleSort.PNG)
 
-Now that we understand how Bubblesort works, let's look at some pseudocode, modified from the Programiz website, that demonstrates an implementation of this sorting algorithm:
+Now that we understand how Bubble Sort works, let's look at some pseudocode, modified from the Programiz website, that demonstrates an implementation of this sorting algorithm:
 
 ```
 mergesort(array):
@@ -22,12 +22,12 @@ mergesort(array):
 			swap left element and right element
 ```
 
-### Important Characteristics of Bubblesort:
+### Important Characteristics of Bubble Sort:
 
-* Bubblesort is useful for rearranging values very quickly.
-* The best time complexity for Bubblesort is O(n), which happens when the array is already sorted.
+* Bubble Sort is useful for rearranging values very quickly.
+* The best time complexity for Bubble Sort is O(n), which happens when the array is already sorted.
 * The average and worse time complexity of O(n^2), which happens when the numbers in the array are in reverse order (decreasing, rather than increasing).
-* The space complexity for Bubblesort is O(1) because there only needs to be additional memory space for the temporary variable used for swapping two elements.
+* The space complexity for Bubble Sort is O(1) because there only needs to be additional memory space for the temporary variable used for swapping two elements.
 
 
 
