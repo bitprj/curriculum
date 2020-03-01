@@ -5,6 +5,23 @@ We use powerful, human powered curriculum written by students for students. We s
 ## About Us
 We make software engineering and computer science education accessible to students from nontraditional learning environments. Using our curriculum, we take students with minimal experience in computer science to a full-fledged software developer with a diverse coding portfolio using our curriculum. We collaborate with leading companies and developers to create interactive, fun technical content that use industry standard technologies and developer tools.
 
+## Our Core Curriculum
+Our curriculum covers core computer science concepts and specialized developer skills. 
+
+In our core computer science modules we cover the following: 
+
+1. Programming Practices
+2. Introduction to Python
+2. Object-Oriented Programming
+3. Data Structures and Algorithms
+
+
+And we cover the following developer skills: 
+1. Intro to NoSQL with MongoDB
+2. Intro to Data Science w/ Twitter API
+3. Intro to API Development w/ Postman
+4. Full-Stack Development using MERN
+
 ## 🐛 Reporting Bugs and Issues
 If you think you've found a bug, first read the how to report a bug article and follow its instructions.
 
