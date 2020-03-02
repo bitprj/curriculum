@@ -8,22 +8,13 @@ We make software engineering and computer science education accessible to studen
 ## Our Core Curriculum
 Our curriculum covers core computer science concepts and specialized developer skills. 
 
-In our core computer science modules we cover the following: 
+### 1. Introduction to Python
 
-1. Programming Practices
-2. Introduction to Python
-2. Object-Oriented Programming
-3. Data Structures and Algorithms
+### 2. Computational Social Science with Twitter
 
+### 3. API Development and Testing with Postman
 
-And we cover the following developer skills: 
-1. Introduction to Python
-
-2. Computational Social Science with Twitter
-
-3. API Development and Testing with Postman
-
-4. Frontend Engineering with MongoDB Stitch
+### 4. Frontend Engineering with MongoDB Stitch
 
 ## Current in the Works
 ### 1. Introduction to Crytography
