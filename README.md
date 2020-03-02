@@ -25,8 +25,8 @@ And we cover the following developer skills:
 
 4. Frontend Engineering with MongoDB Stitch
 
-Current in the Works
-1. Introduction to Crytography
+## Current in the Works
+### 1. Introduction to Crytography
   - Talking to remote servers
   - RCEs, reverse shells, and privilege escalation
   - Local file inclusion
@@ -41,7 +41,7 @@ Current in the Works
  
   <b>Interactive Lab</b>: Scavenger Hunt, SQL Injection, Remote Code Execution
   
-2. Introduction to JAM Stack
+### 2. Introduction to JAM Stack
   - Introduction to Gatsby.js
   - Styled Components and React
   - GraphQL and Markdown 
