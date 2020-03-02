@@ -17,10 +17,41 @@ In our core computer science modules we cover the following:
 
 
 And we cover the following developer skills: 
-1. Intro to NoSQL with MongoDB
-2. Intro to Data Science w/ Twitter API
-3. Intro to API Development w/ Postman
-4. Full-Stack Development using MERN
+1. Introduction to Python
+
+2. Computational Social Science with Twitter
+
+3. API Development and Testing with Postman
+
+4. Frontend Engineering with MongoDB Stitch
+
+Current in the Works
+1. Introduction to Crytography
+  - Talking to remote servers
+  - RCEs, reverse shells, and privilege escalation
+  - Local file inclusion
+  - SSH keys and tunnels
+  - Basic log analysis
+  - Side channel attacks
+  - Bash and Linux basics
+  - SQL injection
+  - Assembly/GDB refresher
+  - Stack Buffer Overflows
+  - Return Oriented Programming
+ 
+  <b>Interactive Lab</b>: Scavenger Hunt, SQL Injection, Remote Code Execution
+  
+2. Introduction to JAM Stack
+  - Introduction to Gatsby.js
+  - Styled Components and React
+  - GraphQL and Markdown 
+  - Headless CMS (Contentful) Integration
+  - Headless Wordpress CMS
+  - SEO Optimization
+  - Optimizing Site Load Speeds with Lighthouse 
+  - Progressive Web Apps
+  
+ <b>Interactive Lab</b>: Inspirational Quote Viewer, Markdown Previewer, Personal Blog
 
 ## 🐛 Reporting Bugs and Issues
 If you think you've found a bug, first read the how to report a bug article and follow its instructions.
