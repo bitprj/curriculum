@@ -56,4 +56,4 @@ The first half of `BSTDelete` is simply finding the node that is desired to be d
 
 Although `BSTDelete` seems complicated initially, if you read through it slowly, you will realize that it simply follows the logic of either the **Leaf/1 Child Case** or the **Internal Node Case**. I recommend rereading the two cases if you're having trouble understanding the `BSTDelete` code.
 
-The Big O time complexity of `delete()` is O(h), h being the height of the binary search tree. So, the 'taller' the tree, the more time it takes to delete a value. The node that takes the longest to delete would the deepest leaf node, or the one farthest away from the root.
+The Big O time complexity of `delete()` is O(h), h being the height of the binary search tree. O(h) is O(nlogn), since the height of a binary search is nlog(n). So, the 'taller' the tree, the more time it takes to delete a value. The node that takes the longest to delete would be the root of the tree, because it takes O(h) to replace the root with the smallest node. 

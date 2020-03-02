@@ -27,6 +27,6 @@ def BSTInsert(curNode, newNode):
 
 `BSTInsert` traverses through the BST in a similar way to `BSTSearch`. However, once it finds that the specific child is null in the place the new node belongs, it places that node there. It does this by checking if the value of the new node is greater or less than the node it's currently being compated to. If the new node value is greater, it will try to insert it to the right. Otherwise, it's smaller, and it will be inserted to the left of the next largest node value. 
 
-The time and space complexity is O(h), where h is the height of the tree. The more nodes in the tree, the more values to be compared to, thus taking up more time and space. The worst case time is O(n).
+The time and space complexity is O(h), where h is the height of the tree. O(h) is O(nlogn), since the height of a binary search is nlog(n). The more nodes in the tree, the more values to be compared to, thus taking up more time and space. The worst case time is O(n). 
 
 Try working and experimenting with the code on your own machine.

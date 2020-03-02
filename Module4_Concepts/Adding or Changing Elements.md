@@ -50,4 +50,4 @@ numbers[2] = 7
 
 Now, the value in the array `numbers` that was at the 2nd index (5) will be a 7. 
 
-The time and space complexity of this operation is O(1).
+The time and space complexity of this operation is O(1), because the indexing of arrays allows accessing and changing to be done in constant time. 
