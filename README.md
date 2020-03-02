@@ -15,7 +15,7 @@ Our curriculum covers core computer science concepts and specialized developer s
 * Data structures, For/While Loops, User Input, F-Strings
 * File Parsing
 
-**Interactive Labs: **ATM, Hangman, Wheel of Fortune, Word Translation
+**Interactive Labs:** ATM, Hangman, Wheel of Fortune, Word Translation
 
 ### 2. Computational Social Science with Twitter
 
@@ -28,7 +28,7 @@ Our curriculum covers core computer science concepts and specialized developer s
 * High-Level Natural Language Processing
 * Visualizing Twitter Trends
 
-**Interactive Labs: **Visualizing Celebrities' Tweets, Topical Hashtag Frequency, Sentiment Behind the 7th Democratic Debate 
+**Interactive Labs:** Visualizing Celebrities' Tweets, Topical Hashtag Frequency, Sentiment Behind the 7th Democratic Debate 
 
 ### 3. API Development and Testing with Postman
 
