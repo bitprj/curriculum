@@ -27,7 +27,7 @@ Double Hashing is best demonstrated through an example.
 
 Say that we have a hash table of size 5. We will let `X = 3` as this is a prime number that is less than the size of the hash table. Let's try to insert the numbers 1, 6, and 11.
 
-![](./Double_Hashing_Example.jpeg)
+<img src = "https://projectbit.s3-us-west-1.amazonaws.com/darlene/labs/Double_Hashing_Example.jpeg">
 
 <hr> 
 
