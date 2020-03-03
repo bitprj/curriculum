@@ -54,6 +54,7 @@ When looking for time complexity, the fastest growing term determines the time t
 
 We use Big-O notation to express the time a function grows in. 
 
+* Big O is important for time complexity. It's one of the assessment of the quality of codes.
 * A function that grows in a *constant time* doesn't grow at all. A graph of its runtime vs input size would be a straight, constant line. 
 * Growing in *Linear Time* means that the function of runtime vs input size increases at a steady rate. This means as the input size increases, the runtime increases at a constant rate. 
 * Growing in *Quadratic Time* would mean that the graph of the function's runtime vs its input size would look like the graph of a quadratic function. This means that as the input size increases, the runtime increases at a faster and faster rate, unlike growing in *Linear time*.
