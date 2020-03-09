@@ -88,4 +88,4 @@ g.BFS(2)
 # This code is contributed by Neelam Yadav 
 ```
 
-The Big O time and space complexity is O(|V|). |V| symbolizes all the vertices in the tree. Since you need to traverse them all at worst case, Big O is a function of all the vertices. 
+The Big O time and space complexity is O(|V+E|). |V| symbolizes all the vertices in the tree. |E| symbolizes all the edges in the tree. Since you need to traverse them all at worst case, Big O is a function of all the vertices. 
