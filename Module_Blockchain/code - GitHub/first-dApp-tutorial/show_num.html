@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title> show_num Eth Contract </title>
+</head>
+<body>
+	<h2>show_num eth contract</h2>
+
+	<label for="num_in">Enter Number:</label>
+	<input id="num_in">
+	<button onclick="send_number()">Send Number to Contract</button>
+
+	<p>Show Number:</p> 
+	<p id="num_out"></p>
+	<button onclick="reveal_number()">Get Number from Contract</button>
+
+
+
+<script>
+
+	web3.eth.defaultAccount = web3.eth.accounts[0];
+
+    const contract_abi = [{"constant":true,"inputs":[],"name":"test","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"x","type":"uint256"}],"name":"set_num","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[],"name":"reveal_num","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"}];
+   	const contract_address = "0xb421a6223b29b6791ad231bb1788ad9a38115834";
+
+   	var contract_inst = web3.eth.contract(contract_abi).at(contract_address);
+
+   	function send_number()
+   	{
+   		contract_inst.set_num(Number(document.getElementById("num_in").value), (err, res) => 
+   		{
+   			if(!err)
+   				console.log(res);
+   			else
+   				console.error(err);
+   		});
+   	}
+
+   	function reveal_number()
+   	{
+   		contract_inst.reveal_num((err, res) => 
+   		{
+   			if(!err)
+   			{
+   				document.getElementById("num_out").innerText = res;
+   				console.log(res);
+   			}
+   			else
+   				console.error(err);
+
+   		});
+   	}
+
+</script>
+
+</body>
+</html>

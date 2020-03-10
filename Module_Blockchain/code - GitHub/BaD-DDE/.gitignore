@@ -1,0 +1,6 @@
+# Ignore files generated from vagrant
+workbench/
+.vagrant/
+
+# Mac OS specific
+.DS_Store

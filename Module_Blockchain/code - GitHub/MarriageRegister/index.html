@@ -1,0 +1,62 @@
+<html>
+  
+  <head>
+    <title> Marriage Register </title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"/>
+  </head>
+  
+  <body ng-app="marriageApp">
+
+    <div class="container" style="margin-top:2%"> 
+      
+
+      <div class="row">
+        <div class="col-2"></div>
+
+        <div class="col" style="text-align:center" ng-controller="marriageCtrl">
+
+          <h1 class="display-3" >Marriage Register</h1>
+
+          <hr>
+
+          <!-- Input -->
+          <div class="card" style="margin-top:2%;margin-bottom:2%">
+            <div class="card-body">
+              <input type="text" ng-model="husband" placeholder="Husband">
+              <input type="text" ng-model="wife" placeholder="Wife">
+              <button class="btn btn-primary" ng-click="add_Marriage(husband, wife)">Add</button>
+            </div>
+          </div>
+
+          <hr>
+
+          <!-- <div > -->
+            
+            <div ng-repeat="marriage in marriages" class="card" style="margin-top:2%;margin-bottom:2%">
+              <div class="card-body">
+                <blockquote class="blockquote mb-0">
+                  <p> {{ marriage.wife }}  weds {{ marriage.husband }}</p>
+                  <footer class="blockquote-footer">Married, {{ timestamp_To_Date(marriage.date) }}</footer>
+                </blockquote>
+              </div>
+            </div>
+
+          <!-- </div> -->
+
+        </div>
+
+        <div class="col-2"></div>
+      </div>
+    </div>
+
+    <!-- Web3 Import -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.8/angular.min.js"></script>
+    <script src="https://cdn.ethers.io/scripts/ethers-v4.min.js"
+      charset="utf-8" type="text/javascript"> </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <script src="script.js"></script>
+
+  </body>
+
+</html>
