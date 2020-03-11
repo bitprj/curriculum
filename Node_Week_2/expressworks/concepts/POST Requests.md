@@ -1,6 +1,6 @@
 <!--title={A Closer Look at POST}-->
 
-The POST method can be used to send large amounts of information to a specified resource.
+POST creates data in server and is the **C** in **CRUD**.
 
 To use post, first install **bodyParser** in the package file:
 
@@ -19,12 +19,12 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 ```
 
-Now, we can use post like so:
+Now, we can use post! Lets say we want to create some data on a server every time someone visits the homepage of our website. We would use a **post** request with ``/home`` as the handle:
 
 ```js
-app.post('/', function (req, res) { // The '/'is the handler to the root route
-  //code to perform any specified action
-   res.send('posted!')
+app.post('/home:id', function (req, res) { 
+  const movie = req.params.id;
+  res.send('posted!')
 })
 ```
 
