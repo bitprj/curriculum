@@ -2,6 +2,6 @@
 
  Name: For `array` checkup
 
-Instruction: In a video, please explain how you created the `array` and how you edited the print statements for the sort methods: Bubble Sort, Insertion Sort, and Selection Sort. What does each sort method do and how are they different from each other?
+Instruction: Please submit your code for `bubbleSort`, `insertionSort`, and `selectionSort`. `main()` functions were provided to test those functions. 
 
 Type: Autograder
