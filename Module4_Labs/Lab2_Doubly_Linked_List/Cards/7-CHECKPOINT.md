@@ -2,6 +2,6 @@
 
 Name: For `reverse` checkup
 
-Instruction: In a video, please explain how your **reverse()** function works, and also explain any edge cases your function would catch? For instance, what would your function do when given an empty list?
+Instruction: Submit your code for the **reverse()** function. `main()` functions were provided to test those functions. 
 
-Type: Video
+Type: Autograder
