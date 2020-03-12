@@ -1,8 +1,7 @@
 1. <!--title={Parsing the File}-->
    
    11. <!--title={Parsing the File:Finding the Relationships}-->
-       111. <!--title={Parsing the File:Finding the Relationships Explained Part 1}-->
-       112. <!--title={Parsing the File:Finding the Relationships Explained Part 2}-->
+       111. <!--title={Parsing the File:Finding the Relationships Explained}-->
    12. <!--title={Parsing the File:Coding the Relationships}-->
        121. <!--title={Parsing the File:Coding the Relationships Part 1}-->
        122. <!--title={Parsing the File:Coding the Relationships Part 2}-->
