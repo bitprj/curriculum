@@ -1,16 +1,4 @@
-"""
-Test Case 7
-Note that user input is always after the prompt 'Enter your move (for help enter "H"): '
-"""
-
-"""
-Description: Showing and flagging cells en route to a victory.
-SIZE = 10, MINES = 10, random.seed(6)
-
-"""
-"""
-Test Case 7 - Results
-
+>>> main(6)
 Mines: 10
   0123456789
 0 XXXXXXXXXX 0
@@ -473,4 +461,3 @@ Mines: 3
 9            9
   0123456789
 Well done! You solved the board!
-"""

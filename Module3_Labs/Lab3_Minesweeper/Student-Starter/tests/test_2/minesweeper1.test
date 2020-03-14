@@ -1,15 +1,4 @@
-"""
-Test Case 1
-Note that user input is always after the prompt 'Enter your move (for help enter "H"): '
-"""
-
-"""
-Description: instant loss
-SIZE = 10, MINES = 10, random.seed(2)
-"""
-
-"""
-Test Case 2 - Results
+>>> main(2)
 Mines: 10
   0123456789
 0 XXXXXXXXXX 0
@@ -38,4 +27,3 @@ Mines: 10
 9 XXXXXXXXXX 9
   0123456789
 Uh oh! You blew up!
-"""

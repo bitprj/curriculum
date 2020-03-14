@@ -1,4 +1,3 @@
->>> from main import main
 >>> main(5)
 Mines: 10
   0123456789

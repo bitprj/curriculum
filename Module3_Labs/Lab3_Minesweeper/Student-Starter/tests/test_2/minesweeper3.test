@@ -1,4 +1,3 @@
->>> from main import main
 >>> main(5)
 Mines: 10
   0123456789
@@ -87,7 +86,7 @@ Enter your move (for help enter "H"): 64
 Mines: 10
   0123456789
 0   1XXXXXXX 0
-1  12XXXXX1X 1
+1  12XXXXXXX 1
 2  2XXXXXXXX 2
 3  2XXXXXXXX 3
 4  1X211MXXX 4

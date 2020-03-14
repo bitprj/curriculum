@@ -1,15 +1,4 @@
-"""
-Test Case 6
-Note that user input is always after the prompt 'Enter your move (for help enter "H"): '
-"""
-
-"""
-Description: Just showing cells, eventual loss
-SIZE = 10, MINES = 10, random.seed(1)
-"""
-
-"""
-Test Case 1: Results
+>>> main(1)
 Mines: 10
   0123456789
 0 XXXXXXXXXX 0
@@ -136,4 +125,3 @@ Mines: 10
 9            9
   0123456789
 Uh oh! You blew up!
-"""
