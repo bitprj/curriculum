@@ -4,114 +4,56 @@ description: Democratizing Technical Education
 
 # Bit Project
 
-![IMAGE ALT TEXT HERE](https://i.ibb.co/3yxGfdr/Bit-Project-3.png)
-
-## Bit Project's Software Engineering Curriculum
-
-We use powerful, human powered curriculum written by students for students. We strive to create a community of passionate developers to be leaders in their own communities to inspire the next generation of technologists.
-
 ## About Us
 
 We make software engineering and computer science education accessible to students from nontraditional learning environments. Using our curriculum, we take students with minimal experience in computer science to a full-fledged software developer with a diverse coding portfolio using our curriculum. We collaborate with leading companies and developers to create interactive, fun technical content that use industry standard technologies and developer tools.
 
-## Our Core Curriculum
+## Our Culture
 
-Our curriculum covers core computer science concepts and specialized developer skills.
+As an organization that defaults to asynchronous communication, Bit Project relies heavily on textual communication. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and vocalized communiques are the norm. Embracing text communication and learning to use it effectively requires a mental shift. Mastering this should be seen as a long-term project, though there are tips to breaking down barriers and experiencing benefits.
 
-### 1. Introduction to Python
+The Bit Project team handbook is the central repository for how we run the company. As part of our value of being transparent all of our culture is open to the world, and we welcome feedback. Please make a pull request to suggest improvements or add clarifications. Please use issues to ask questions. 
 
-* Data Types and Variables
-* Numerical Operators, Boolean Operators, If Statements
-* Data structures, For/While Loops, User Input, F-Strings
-* File Parsing
+## Developer Relations
 
-**Interactive Labs:** ATM, Hangman, Wheel of Fortune, Word Translation
+Development Roadmap
 
-### 2. Computational Social Science with Twitter
+Workshops
 
-* Introduction to Twitter API
-* Streaming Live Tweets
-* Cursor and Pagination
-* Analyzing Tweet Data
-* Graphing with Matplotlib
-* Sentiment Analysis
-* High-Level Natural Language Processing
-* Visualizing Twitter Trends
+Curriculum Departments
 
-**Interactive Labs:** Visualizing Celebrities' Tweets, Topical Hashtag Frequency, Sentiment Behind the 7th Democratic Debate
+* Machine Learning
+* Frontend Engineering
+* API/Microservices 
+* Blockchain
+* 
+## Engineering
 
-### 3. API Development and Testing with Postman
 
-* Introduction to APIs: Using Postman to Test API Endpoints 
-* Creating and Testing Your Own API: BitBloxs 
-* Creating Postman Collections
-* Running Sets of Requests Based on Data: Collection Runners 
-* Mock Servers
-* APIs for Front-End Developers 
-* Documenting APIs in Postman 
 
-**Interactive Labs:** URL Shortener, Documenting a Full-Stack API
+## Marketing
 
-### 4. Frontend Engineering with MongoDB Stitch
+Website
 
-* Tech Stacks and Full-Stack Development
-* NoSQL vs SQL
-* What are APIs?
-* CRUD Operations in MongoDB
-* NoSQL Querying with MongoDB Atlas
-* Intro to GraphQL
-* Using React to Make Web Apps Dynamic
-* Using MongoDB Stitch to Make a Serverless Back-End
-* Communicating from Stitch to React using GraphQL
-* Intro to Gatsby.js
-* Netlify and Website Deployment
+Blog
 
-**Interactive Labs:** Searchable Tweet Database, MongoDB Atlas Scavenger Hunt
+Social Media Guidelines
 
-## Current in the Works
+Community Relations
 
-### 1. Introduction to Cryptography
+## People
 
-* Talking to remote servers
-* RCEs, reverse shells, and privilege escalation
-* Local file inclusion
-* SSH keys and tunnels
-* Basic log analysis
-* Side channel attacks
-* Bash and Linux basics
-* SQL injection
-* Assembly/GDB refresher
-* Stack Buffer Overflows
-* Return Oriented Programming
+Talent Acquisition
 
-  **Interactive Labs**: Scavenger Hunt, SQL Injection, Remote Code Execution
+Inclusion & Diversity
 
-### 2. Introduction to JAM Stack
+On boarding
 
-* Introduction to Gatsby.js
-* Styled Components and React
-* GraphQL and Markdown 
-* Headless CMS \(Contentful\) Integration
-* Headless Wordpress CMS
-* SEO Optimization
-* Optimizing Site Load Speeds with Lighthouse 
-* Progressive Web Apps
+Code of Conduct
 
-  **Interactive Labs**: Inspirational Quote Viewer, Markdown Previewer, Personal Blog
-
-## 🐛 Reporting Bugs and Issues
-
-If you think you've found a bug, first read the how to report a bug article and follow its instructions.
-
-If you're confident it's a new bug and have confirmed that someone else is facing the same issue, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
-
-## How To Contribute
-
-For Bit members, external contributors and company partners, please check out our guides at our wiki.
+## Outreach
 
 ## Join Bit Project
 
 Please join at bitproject.org/join
-
-## License
 
