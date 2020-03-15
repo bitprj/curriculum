@@ -2,7 +2,8 @@
 
 * [Bit Project](README.md)
 
-## Marketing
+## 🤝 Marketing
 
+* [Community Relations](marketing/community-relations.md)
 * [Markdown Style Guide](marketing/markdown-style-guide.md)
 
