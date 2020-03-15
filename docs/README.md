@@ -16,18 +16,24 @@ The Bit Project team handbook is the central repository for how we run the compa
 
 ## Developer Relations
 
-Development Roadmap
+Development Road Map
 
-Workshops
+Programs Offered
+
+* Workshops
+* BitCamps
 
 Curriculum Departments
 
-* Machine Learning
+* Cracking the Interview
+* Data Science
+  * Computational Social Science
+  * Machine Learning
 * Frontend Engineering
-* API/Microservices 
+* API Development/Microservices 
 * Blockchain
 
-Resources for Developers
+
 
 ## Engineering
 
@@ -35,15 +41,13 @@ Resources for Developers
 
 ## Marketing
 
-Website
+[Community Relations](marketing/community-relations.md)
 
-Blog
-
-Social Media Guidelines
-
-Community Relations
-
-[Markdown Style Guide](marketing/markdown-style-guide.md)
+* Starting a Branch
+  * High School 
+  * Collegiate
+    * Hackathons
+  * Hobbyist Meet-Ups
 
 ## People
 
@@ -51,9 +55,22 @@ Talent Acquisition
 
 Inclusion & Diversity
 
-On boarding
+On-Boarding
 
 Code of Conduct
+
+## Organization
+
+Mission Statement
+
+Values
+
+Organizational Structure
+
+Style Guide
+
+* Brand Guidelines
+* [Markdown Style Guide](marketing/markdown-style-guide.md)
 
 ## Outreach
 

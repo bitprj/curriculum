@@ -7,3 +7,7 @@
 * [Community Relations](marketing/community-relations.md)
 * [Markdown Style Guide](marketing/markdown-style-guide.md)
 
+## People
+
+* [Talent Acquisition](people/talent-acquisition.md)
+
