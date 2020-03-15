@@ -1,22 +1,77 @@
-# Stacks
+# name
+Stacks
 
-# Long Summary
-
-Learn about stacks and how to implement them in Python. Then use stacks to solve a fun mathematical puzzle!
-
-# Short Summary
-
+# description
 Understand what a stack is and how to use it.
 
-# Criteria
+# summary
+Learn about stacks and how to implement them in Python. Then use stacks to solve a fun mathematical puzzle!
 
-- How is a stack similar to a pile of books?
-
-- How do you remove and add elements to a stack?
-
-- How would you implement removing and adding elements from a stack in Python?
-
-
-# Difficulty
-
+# difficulty
 Easy
+
+# image
+![Time](/Module4.1_Intro_to_Data_Structures_and_Algos/Images/stack.jpg)
+
+# image_folder
+/Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act4_Stacks/
+
+# folder_path
+/Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act4_Stacks/
+
+# cards
+ 
+## 1
+
+### name
+Stacks
+
+### order
+1 
+
+### gems
+0
+
+## 2
+
+### name
+Implementing Stacks
+
+### order
+2
+
+### gems
+0
+
+## 3
+
+### name
+Adding to a Stack
+
+### order
+3
+
+### gems
+0
+
+## 4
+
+### name
+Tower of Hanobi
+
+### order
+4
+
+### gems
+0
+
+## 5
+
+### name
+Tower of Hanobi Implementation
+
+### order
+5
+
+### gems
+0
