@@ -41,7 +41,7 @@ Social Media Guidelines
 
 Community Relations
 
-Markdown Style Guide
+[Markdown Style Guide](marketing/markdown-style-guide.md)
 
 ## People
 
