@@ -2,12 +2,29 @@
 
 * [Bit Project](README.md)
 
-## 🤝 Marketing
+## Organization
 
-* [Community Relations](marketing/community-relations.md)
-* [Markdown Style Guide](marketing/markdown-style-guide.md)
+* [Mission Statement](organization/mission-statement.md)
+* [Values](organization/values/README.md)
+  * [Code of Conduct](organization/values/code-of-conduct.md)
+  * [Inclusion & Diversity](organization/values/inclusion-and-diversity.md)
+* [Organizational Structure](organization/organizational-structure.md)
+* [Style Guides](organization/style-guides/README.md)
+  * [Brand Guidelines](organization/style-guides/brand-guidelines.md)
+  * [Markdown Style Guide](organization/style-guides/markdown-style-guide.md)
 
-## People
+## Teams
 
-* [Talent Acquisition](people/talent-acquisition.md)
+* [Community Relations](teams/community-relations/README.md)
+  * [First Time Contributors Program](teams/community-relations/first-time-contributors-program.md)
+  * [Starting a Branch](teams/community-relations/starting-a-branch/README.md)
+    * [High School](teams/community-relations/starting-a-branch/high-school.md)
+    * [Collegiate](teams/community-relations/starting-a-branch/collegiate.md)
+    * [Hobbyist Meetups](teams/community-relations/starting-a-branch/hobbyist-meetups.md)
+* [Developer Relations](teams/developer-relations.md)
+* [People](teams/people/README.md)
+  * [Onboarding Guides](teams/people/onboarding-guides.md)
+  * [Talent Acquisition](teams/people/talent-acquisition.md)
+  * [Recruitment](teams/people/recruitment.md)
+* [Engineering](teams/engineering.md)
 

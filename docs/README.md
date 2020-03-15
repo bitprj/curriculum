@@ -51,7 +51,7 @@ Curriculum Departments
 
 ## Marketing
 
-[Community Relations](marketing/community-relations.md)
+[Community Relations](teams/community-relations/)
 
 * First-Time Contributors Program
 * Starting a Branch
@@ -78,10 +78,12 @@ Values
 
 Organizational Structure
 
+Communication 
+
 Style Guide
 
 * Brand Guidelines
-* [Markdown Style Guide](marketing/markdown-style-guide.md)
+* [Markdown Style Guide](organization/style-guides/markdown-style-guide.md)
 
 ## Outreach
 
