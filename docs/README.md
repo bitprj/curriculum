@@ -10,9 +10,19 @@ We make software engineering and computer science education accessible to studen
 
 ## Our Culture
 
-As an organization that defaults to asynchronous communication, Bit Project relies heavily on textual communication. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and vocalized communiques are the norm. Embracing text communication and learning to use it effectively requires a mental shift. Mastering this should be seen as a long-term project, though there are tips to breaking down barriers and experiencing benefits.
+Building and reinforcing a sustainable culture
 
-The Bit Project team handbook is the central repository for how we run the company. As part of our value of being transparent all of our culture is open to the world, and we welcome feedback. Please make a pull request to suggest improvements or add clarifications. Please use issues to ask questions. 
+Informal communication
+
+Handbook-first Documentation
+
+Meetings
+
+In-person Interactions
+
+Effective Management
+
+Asynchronous Communication
 
 ## Developer Relations
 
@@ -43,6 +53,7 @@ Curriculum Departments
 
 [Community Relations](marketing/community-relations.md)
 
+* First-Time Contributors Program
 * Starting a Branch
   * High School 
   * Collegiate
