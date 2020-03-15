@@ -26,7 +26,9 @@ Curriculum Departments
 * Frontend Engineering
 * API/Microservices 
 * Blockchain
-* 
+
+Resources for Developers
+
 ## Engineering
 
 
