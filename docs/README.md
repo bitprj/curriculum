@@ -41,6 +41,8 @@ Social Media Guidelines
 
 Community Relations
 
+Markdown Style Guide
+
 ## People
 
 Talent Acquisition
