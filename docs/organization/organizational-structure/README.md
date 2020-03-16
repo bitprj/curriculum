@@ -45,9 +45,9 @@ For Production Engineers, a listing as "Expert" can also mean that the individua
 
 Whereas an expert might assist you with an individual issue or problem, mentorship is about helping someone grow their career, functional skills, and/or soft skills. It's an investment in someone else's growth.
 
-Some people think of expertise as hard skills \(Ruby, International Employment Law, etc\) rather than soft skills \(managing through conflict, navigating career development in a sales organization, etc\).
+Some people think of expertise as hard skills \(Python, Javascript\) rather than soft skills \(managing through conflict, navigating career development in a sales organization, etc\).
 
-If you would like to be a mentor in a certain area, please add the information to the team page. It is important to note whether you would like to be a mentor internally and/or externally at GitLab. Examples of how to specify in the expertise section of the team page: `Mentor - Marketing, Internal to GitLab` or `Mentor - Development (Ruby), External and Internal to GitLab`.
+If you would like to be a mentor in a certain area, please add the information to the team page. It is important to note whether you would like to be a mentor internally and/or externally at Bit Project. Examples of how to specify in the expertise section of the team page: `Mentor - Marketing` or `Mentor - R, Javascript`.  
+  
 
-####   
 
