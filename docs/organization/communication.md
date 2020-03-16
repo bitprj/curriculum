@@ -1,5 +1,7 @@
 # Communication
 
+## Why we document everything
+
 In small organizations, it's particularly tempting to avoid a documentation strategy. With only a few team members, it's feasible to keep everyone informed via meetings, Slack, or email threads. Long-term, this oversight becomes increasingly harmful. 
 
 As a team scales, the need for documentation increases in parallel with the cost of not doing it. Said another way, implementing a documentation strategy becomes more difficult — yet more vital — as a company ages and matures. 
@@ -8,7 +10,9 @@ Documentation is rarely placed on the same pedestal with metrics such as sales a
 
 A handbook-first organization is home to team members who benefit from having a single source of truth to lean on. This type of organization is able to operate with almost supernatural efficiency. An organization that does not put concerted effort into structured documentation has no choice but to watch its team members ask and re-ask for same bits of data in perpetuity, creating a torturous loop of interruptions, meetings, and suboptimal knowledge transfers.
 
-## **Slack**
+## Why
+
+## Slack
 
 Slack is our main form of communication. Files, code, information, and much more can be shared easily to members of the team through instant messaging. Multiple channels are created to communicate while having easy access to private messaging to anyone on the team.
 
@@ -46,6 +50,8 @@ Before making an account, you must download slack onto both your computer and mo
 7. If you agree in a message to start a video call \(typically by asking "Call?"\) the person that didn't leave the last comment starts the call. So either respond to the "Call?" request with a video link or say "Yes" and let the other person start it. Don't say "Yes" and start a call 5 seconds later since it is likely you'll both be creating a video call link at the same time.
 8. As an admin of the Slack workspace, if given the option to _"Disable future attachments from this website"_ when removing an attachment from a message **this will blacklist the link/domain from** [**unfurling**](https://about.gitlab.com/handbook/tools-and-tips/#unfurling-links-in-messages) **in the entire Slack workspace**. Be careful and deliberate when choosing this option as it will impact every user in the workspace.
 9. When selecting your Slack display name, please do not have your name in all capital letters as this is often [associated as shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting) in written communications.
+
+## 
 
 \*\*\*\*
 
