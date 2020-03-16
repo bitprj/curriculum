@@ -1,18 +1,13 @@
 # Values
 
-We run Bit Project with our  six values are 
+Bit Project is founded upon six main values
 
-**🤝 Collaboration**
-
-**📈 Results** 
-
-**⏱ Efficiency**, 
-
-**🌐 Diversity & Inclusion**
-
-**👣 Iteration**
-
-**👁️ Transparency**
+* **🤝 Collaboration**
+* **📈 Results** 
+* **⏱ Efficiency**, 
+* **🌐 Diversity & Inclusion**
+* **👣 Iteration**
+* **👁️ Transparency**
 
 ### About our values <a id="about-our-values"></a>
 
@@ -399,29 +394,19 @@ When you are submitting a merge request for a code change, or a process change i
 
 In some cases, rapid iteration can get in the way of [results](); for example, when adjusting our marketing messaging \(where consistency is key\), product categories \(where we've set development plans\), sales methodologies \(where we've trained our teams\) and this values page \(where we use the values to guide all GitLab team-members\). In those instances, we add additional review to the approval process; not to prohibit, but to be more deliberate in our iteration. The change process is documented on the page and takes place via merge request approvals.
 
-#### See it in action <a id="see-it-in-action"></a>
 
-Iteration is so important to GitLab that the CEO hosts [Iteration Office Hours](https://about.gitlab.com/handbook/ceo/#iteration-office-hours) to provide guidance and assist in breaking large, complex topics into MVCs and smaller iterations of work:
-
-1. [Nov 19th 2019](https://www.youtube.com/watch?v=zwoFDSb__yM)
-2. [Jan 15th 2020](https://www.youtube.com/watch?v=FAuwri0vsts)
-3. [Jan 17th 2020](https://www.youtube.com/watch?v=DoDGlRrDwJc)
-
-You can view these on our [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg)!
 
 ### 👁️ Transparency <a id="transparency"></a>
 
 Be open about as many things as possible. By making information public, we can reduce the threshold to contribution and make collaboration easier. Use public issue trackers, projects, and repositories when possible.
 
-An example is the [public repository of this website](https://gitlab.com/gitlab-com/www-gitlab-com/) that also contains this [company handbook](https://about.gitlab.com/handbook/). Everything we do is public by default, such as the [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/issues) and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/issues) issue trackers, as well as [marketing](https://gitlab.com/groups/gitlab-com/marketing/-/issues) and [infrastructure](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues). Transparency creates awareness for GitLab, allows us to recruit people that care about our values, gets us more and faster feedback from people outside the company, and makes it easier to collaborate with them. It is also about sharing great software, documentation, examples, lessons, and processes with the **whole community** and the world in the spirit of open source, which we believe creates more value than it captures.
+Transparency creates awareness for Bit Project, allows us to recruit people that care about our values, gets us more and faster feedback from people outside the core team, and makes it easier to collaborate with them. It is also about sharing great software, documentation, examples, lessons, and processes with the **whole community** and the world in the spirit of open source, which we believe creates more value than it captures.
 
 There are exceptions. Material that is [not public by default is documented](https://about.gitlab.com/handbook/communication/#not-public). We are above average at keeping things confidential that need to be. On a personal level, you should tell it like it is instead of putting up a poker face. Don't be afraid to admit you made a mistake or were wrong. When something goes wrong, it is a great opportunity to say "What’s the [kaizen](https://en.wikipedia.org/wiki/Kaizen) moment here?" and find a better way without hurt feelings.
 
-Even as we [move towards becoming a public company](https://about.gitlab.com/company/strategy) and beyond, we know that our value of transparency will be key to our success. Often, company values get diluted as they grow, most likely because they do not write anything down. But we will make sure our values scale with the company. When we go public, we can declare everyone in the company as an insider, which will allow us to remain transparent internally about our numbers, etc. Everything else that can be transparent will continue to be so.
-
 **Public by default**
 
-Everything at GitLab is public by default. If something is not public, there should be a reference in the handbook that states a confidential decision was taken with a link to our Not Public guidelines, unless legal feels it carries undue risk. The public process does two things: allows others to benefit from the conversation and acts as a filter. Since there is only a limited amount of time, we prioritize conversations that a wider audience can benefit from.
+Everything at Bit Project is public by default. If something is not public, there should be a reference in the handbook that states a confidential decision was taken with a link to our Not Public guidelines, unless legal feels it carries undue risk. The public process does two things: allows others to benefit from the conversation and acts as a filter. Since there is only a limited amount of time, we prioritize conversations that a wider audience can benefit from.
 
 If you believe something shouldn't be public that currently is \(or vice versa\), then [make a merge request](https://about.gitlab.com/handbook/communication/#everything-starts-with-a-merge-request) to the relevant page\(s\) suggesting the change so that you can collaborate with others and discuss with the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/).
 
@@ -505,82 +490,27 @@ Increases accountability when making decisions and difficult choices.
 
 Our values help us to prevent the [five dysfunctions](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team#Summary):
 
-1. **Absence of trust** Unwilling to be vulnerable within the group =&gt; _prevented by collaboration, specifically_ [kindness]()
-2. **Fear of conflict** Seeking artificial harmony over constructive passionate debate =&gt; _prevented by transparency, specifically_ [directness]() _and collaboration, specifically_ [short toes]()
-3. **Lack of commitment** Feigning buy-in for group decisions creates ambiguity throughout the organization =&gt; _prevented by transparency, specifically_ [directness]()
-4. **Avoidance of accountability** Ducking the responsibility to call peers on counterproductive behavior which sets low standards =&gt; _prevented by results, iteration, and_ [transparency]()
-5. **Inattention to results** Focusing on personal success, status, and ego before team success =&gt; _prevented by_ [results]()
+1. **Absence of trust**  Unwilling to be vulnerable within the group _prevented by collaboration, specifically_ kindness
+2. **Fear of conflict**  Seeking artificial harmony over constructive passionate debate _prevented by transparency, specifically_ directness _and collaboration, specifically_ short toes
+3. **Lack of commitment**  Feigning buy-in for group decisions creates ambiguity throughout the organization =&gt; _prevented by transparency, specifically_ directness
+4. **Avoidance of accountability**  Ducking the responsibility to call peers on counterproductive behavior which sets low standards =&gt; _prevented by results, iteration, and_ transparency
+5. **Inattention to results**  Focusing on personal success, status, and ego before team success =&gt; _prevented by_ results
 
 Some dysfunctions are not addressed directly by our values; for example, trust is not one of our values. Similar to happiness, trust is something that is an outcome, not something you can strive for directly. We hope that the way we work and our values will instill trust, instead of mandating it from people; trust is earned, not given.
 
 ## Why have values <a id="why-have-values"></a>
 
-Our values should give guidelines on how to behave and must be actionable. They help us describe the type of behavior that we expect from people we hire. They help us to know how to behave in the organization and what to expect from others. Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager.
-
-## Why our values are public <a id="why-our-values-are-public"></a>
-
-Companies are encouraged to copy and implement GitLab's values. They are Creative Commons and can be copied verbatim.
-
-We make our values public for the same [reasons](https://about.gitlab.com/company/culture/all-remote/hiring/#make-your-strategy-public) we make our [OKRs](https://about.gitlab.com/company/okrs/) \(Objectives and Key Results\) and [strategy](https://about.gitlab.com/company/strategy/) public. There is great power and efficiency in teams who share company values. Concealing values until _after_ someone is hired into an organization is not a wise strategy.
-
-Not everyone will see our values and feel aligned with them, and that's OK. By making values public, it shows respect for the time of job seekers who conduct due diligence on prospective employers. When people who _are_ aligned with GitLab's values apply for an [open vacancy](https://about.gitlab.com/jobs/), this allows our hiring teams to more efficiently move candidates through the [interview process](https://about.gitlab.com/handbook/hiring/interviewing/).
-
-In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
-
-> Companies may ask you to write a blank check. They'll say, 'Come join our organization, and when you're here, you need to subscribe to our values, our way of working, and our strategy. It's very essential, and it's part of our identity!'
->
-> But these companies don't give you the opportunity up front to evaluate it. It doesn't make any sense to me. If it's so important that people share your values, have them out there.
-
-## Hierarchy <a id="hierarchy"></a>
-
-Occasionally, values can contradict each other. For instance, transparency would dictate we publish all security vulnerabilities the moment they are found, but this would jeopardize our users. It's useful to keep in mind this hierarchy to resolve confusion about what to do in a specific circumstance, while remaining consistent with our core values.
-
-In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
-
-> It's an attempt to relieve at least some of the tension. It's not absolute. If you think of values as binary, that's not going to work. There will always be interpretation, and there's always magnitude to consider.
->
-> We made a hierarchy so that it's clear, in the end, the result matters most. For instance, we're not going to be transparent for the sake of being transparent. We're not radical in our transparency. We do it because we think it will lead to better outcomes.
->
-> Those hierarchies are really important. They won't preempt every debate, but it helps.
+Our values should give guidelines on how to behave and must be actionable. They help us describe the type of behavior that we expect from people we hire. They help us to know how to behave in the organization and what to expect from others. Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager..
 
 ## Updating our values <a id="updating-our-values"></a>
 
-Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the CEO. If you're a [team member](https://about.gitlab.com/company/team/) or in the [core team](https://about.gitlab.com/community/core-team/) please post a link to the MR in the `#values` Slack channel. If you're not part of those groups, please send a direct Twitter message to [@sytses](https://twitter.com/sytses).
-
-## How do we reinforce our values <a id="how-do-we-reinforce-our-values"></a>
-
-Whatever behavior you reward will become your values. We reinforce our values by:
-
-1. What we expect from all team members, as [ambassadors for our values](https://about.gitlab.com/handbook/leadership/#gitlab-team-members).
-2. What we refer to when [making decisions](https://about.gitlab.com/handbook/leadership/#making-decisions).
-3. The example the E-group sets for the company since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
-4. What we select for during [hiring](https://about.gitlab.com/handbook/hiring/).
-5. What we emphasize during [on-boarding](https://about.gitlab.com/handbook/general-onboarding/).
-6. Behavior we give each other [360 feedback](https://about.gitlab.com/handbook/people-group/360-feedback/) on.
-7. Behavior we [compliment](https://about.gitlab.com/handbook/communication/#say-thanks).
-8. Criteria we use for [discretionary bonuses](https://about.gitlab.com/handbook/incentives/#discretionary-bonuses).
-9. Criteria we use for our [annual compensation review](https://about.gitlab.com/handbook/people-group/global-compensation/#annual-compensation-review).
-10. Criteria we use for [promotions](https://about.gitlab.com/handbook/people-group/promotions-transfers/).
-11. Criteria we use to [manage underperformance](https://about.gitlab.com/handbook/underperformance/).
-12. What we do when we [let people go](https://about.gitlab.com/handbook/offboarding/).
-13. Giving value awards during [Contribute](https://about.gitlab.com/company/culture/contribute/).
-14. Keeping them [up to date]() with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/source/handbook/values/index.html.md).
-
-In negative feedback, we should be specific about what the problem is. For example, saying someone is "[not living the values](https://hbr.org/2017/05/how-corporate-values-get-hijacked-and-misused)" isn't helpful.
-
-> Your values are what you hire for, what you praise people for, and what you promote them for. By definition, what you do in those instances _are_ your values. It's not what you say they are. Values should be explicitly part of our [hiring](https://about.gitlab.com/handbook/hiring/) process, our job profiles, and our [review process](https://about.gitlab.com/handbook/people-group/360-feedback/).
->
-> When we give [bonuses](https://about.gitlab.com/handbook/incentives/#discretionary-bonuses) and [promotions](https://about.gitlab.com/handbook/people-group/promotions-transfers/), they are always linked to values. That's the crucial thing. If you reinforce them there, that's the most powerful thing you can do. — _Sid Sijbrandij, GitLab co-founder and CEO_
+Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them.
 
 ## What to do if values aren't being lived out <a id="what-to-do-if-values-arent-being-lived-out"></a>
 
 Value erosion can occur when indifference and apathy are tolerated. If you feel that values are not being lived out in a given scenario, speak up and ask for context in a respectful manner. Offer links to relevant values and/or sub-values when discussing the issue.
 
-If there is confusion or disagreement about the interpretation of a value, please surface the discussion in GitLab's `#values` Slack channel \(for GitLab team members\) or @-mentioning [@gitlab](https://twitter.com/gitlab) on Twitter \(for those who do not work at GitLab\).
-
-In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
-
-> Almost every time we face a hard decision at GitLab, it's because values are in conflict. It's not binary logic. It requires conversation, and sometimes there is no obvious answer. We can only achieve resolution by respectfully talking with each other and trusting the DRI to make the ultimate decision.
+If there is confusion or disagreement about the interpretation of a value, please surface the discussion in our `#people` Slack channel \(for core team members\).
 
 ## Permission to play <a id="permission-to-play"></a>
 
@@ -594,10 +524,6 @@ From our values we excluded some behaviors that are obvious; we call them our _p
 6. Act in accordance with the law.
 7. Don't show favoritism as [it breeds resentment, destroys employee morale, and creates disincentives for good performance](https://www.employmentlawfirms.com/resources/employment/discrimination/laws-preventing-favoritism-in-the-workplace). Seek out ways to be fair to everyone.
 
-## What is not a value <a id="what-is-not-a-value"></a>
-
-* [All-remote](https://about.gitlab.com/company/culture/all-remote/) isn't a value. It is something we do because it helps to [practice our values](https://about.gitlab.com/company/culture/all-remote/values/) of transparency, efficiency, diversity & inclusion, and results.
-
 ## Questions from new team members <a id="questions-from-new-team-members"></a>
 
 During every [GitLab 101 session with new hires](https://about.gitlab.com/company/culture/gitlab-101/) we discuss our values. We document the questions and answers to [Frequently Asked Questions about the GitLab Culture](https://about.gitlab.com/company/culture/gitlab-101/#frequently-asked-questions-about-the-gitlab-culture).
@@ -606,7 +532,7 @@ New team members should read [GitLab's guide to starting a new remote role](http
 
 ## Mission <a id="mission"></a>
 
-Our [mission](https://about.gitlab.com/company/strategy/#mission) is that **everyone can contribute**. This mission guides our path, and we live our values along that path.
+Our [mission](../mission-statement.md) is that **everyone can contribute**. This mission guides our path, and we live our values along that path.
 
 ## Biggest risks <a id="biggest-risks"></a>
 
