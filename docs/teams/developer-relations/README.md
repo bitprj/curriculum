@@ -8,19 +8,19 @@ description: >-
 
 ## **Roadmap**
 
-## **Departments**
+## **Teams**
 
 **Here are the various teams that work on the curriculum on our website.** 
 
-{% page-ref page="cracking-the-interview.md" %}
+{% page-ref page="teams/cracking-the-interview.md" %}
 
-{% page-ref page="data-science.md" %}
+{% page-ref page="teams/data-science.md" %}
 
-{% page-ref page="frontend-engineering/" %}
+{% page-ref page="teams/frontend-engineering/" %}
 
-{% page-ref page="api-development-microservices.md" %}
+{% page-ref page="teams/api-development-microservices.md" %}
 
-{% page-ref page="blockchain.md" %}
+{% page-ref page="teams/blockchain.md" %}
 
 
 

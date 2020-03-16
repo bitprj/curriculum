@@ -35,13 +35,13 @@ Development Road Map
 
 **Curriculum Departments**
 
-* \*\*\*\*[Cracking the Interview](teams/developer-relations/cracking-the-interview.md)
-* [Data Science](teams/developer-relations/data-science.md)
+* \*\*\*\*[Cracking the Interview](teams/developer-relations/teams/cracking-the-interview.md)
+* [Data Science](teams/developer-relations/teams/data-science.md)
   * Computational Social Science
   * Machine Learning
-* [Frontend Engineering](teams/developer-relations/frontend-engineering/)
-* [API Development/Microservices ](teams/developer-relations/api-development-microservices.md)
-* [Blockchain](teams/developer-relations/blockchain.md)
+* [Frontend Engineering](teams/developer-relations/teams/frontend-engineering/)
+* [API Development/Microservices ](teams/developer-relations/teams/api-development-microservices.md)
+* [Blockchain](teams/developer-relations/teams/blockchain.md)
 
 
 
