@@ -39,7 +39,7 @@ Development Road Map
 * [Data Science](teams/developer-relations/data-science.md)
   * Computational Social Science
   * Machine Learning
-* [Frontend Engineering](teams/developer-relations/frontend-engineering.md)
+* [Frontend Engineering](teams/developer-relations/frontend-engineering/)
 * [API Development/Microservices ](teams/developer-relations/api-development-microservices.md)
 * [Blockchain](teams/developer-relations/blockchain.md)
 

@@ -16,7 +16,7 @@ description: >-
 
 {% page-ref page="data-science.md" %}
 
-{% page-ref page="frontend-engineering.md" %}
+{% page-ref page="frontend-engineering/" %}
 
 {% page-ref page="api-development-microservices.md" %}
 
