@@ -22,6 +22,7 @@
     * [Collegiate](teams/community-relations/starting-a-branch/collegiate.md)
     * [Hobbyist Meetups](teams/community-relations/starting-a-branch/hobbyist-meetups.md)
 * [Developer Relations](teams/developer-relations/README.md)
+  * [Communication](teams/developer-relations/notion-packet.md)
   * [Cracking the Interview](teams/developer-relations/cracking-the-interview.md)
   * [Data Science](teams/developer-relations/data-science.md)
   * [Frontend Engineering](teams/developer-relations/frontend-engineering.md)
