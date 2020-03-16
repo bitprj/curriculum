@@ -15,8 +15,6 @@ Our Bootcamp will be divided into three segments, each taught over one week. Whe
 
 This topic is designed to give students insight into using Gatsby to develop a static site for real-world sources. 
 
-### Topics Covered
-
 ### What is Front End Programming \(Why, who is working on it , timeline shape of a table\) 
 
 {% page-ref page="nosql-database/" %}
@@ -27,67 +25,155 @@ This topic is designed to give students insight into using Gatsby to develop a s
 
 {% page-ref page="./" %}
 
-1. MongoDB Stitch 
-   * Introduce them how to use Stitch.
-   * User Auth 
-   * Importing Clusters and Collections 
-   * Linking with Atlas 
-   * API's 
-     * Labs 
-       * Build an API 
-       * Import data from another API?
-2. MongoDB Atlas 
-   * Walk them through making a cluster 
-   * Adding a cluster 
-     * Labs 
-       * Querying through Weather API
-       * Querying through Yelp API
-       * Querying through Airbnb 
-3. MongoDB Compass 
-   * Pretty sure this is just a UI so not much needs to be done here 
-4. Gatsby Download 
+### Topics Covered
+
+**MongoDB Stitch** 
+
+MongoDB stitch is an amazing back-end 
+
+#### **Activities** 
+
+* Making a cluster 
+* User Auth 
+* Importing Clusters and Collections 
+* Linking with Atlas 
+* API's 
+
+#### **Labs** 
+
+* Build an API with Stitch  
+* Importing data from API
+
+###  **MongoDB Compass** 
+
+#### Activities 
+
+* Compass Features
+* I haven't used Compass yet so I can't really make Shit yet 
+
+**Labs** 
+
+* N/A
+
+### MongoDB Atlas
+
+#### Activities 
+
+* Building a cluster
+* Importing Data 
+* Linking Atlas collection with Stitch App
+
+#### Labs 
+
+* Querying Weather Data through Weather API
+* Querying Restaurant Ratings through Yelp API
+* Querying Real Estate Listings Through AirBNB API
+
+### Static Sites 
+
+#### Activities
+
+* Introduction to Static Websites 
+* JAM Stack 
+
+### Working with Gatsby 
+
+#### Activities
+
+* Installing Gatsby
+* Creating and linking pages throughout your web app
+* Editing pages 
+
+### Gatsby Plugins 
+
+#### Activities
+
+* AllmarkdownRemark
+* SASS
+* Algolia
+
+#### Labs
+
+* Build a Blog
+
+### **Gatsby API**
+
+* TBD
+* TBD 
+
+### React Components
+
+* Building a header
+* Building a Footer
+* Creating a template page 
+* Optimizing existing webpages 
+
+### GraphQL
+
+#### Activities 
+
+* GraphIQl
+* GraphQL with Stitch 
+* GraphQL with Gatsby 
+* Creating multiple pages using GraphQL
+
+#### Labs
+
+* Filtering through website
+
+### Putting it all Together 
+
+#### Labs 
+
+* Integrate Gatesby Algolia into web app
+* Add React Components to Website
+* Create pages from Stitch application
+
+### 
+
+1. Gatsby Download 
    * Download Gatsby 
    * What is Static Site generator - What is a Static Site generator and its benefits. Like faster performance... 
    * JAM Stack - Go over JAM Stack and why its important 
-5. Gatsby In General  
+2. Gatsby In General  
    * Creating pages
    * Linking Pages 
    * HTML syntax? 
-6. Gatsby Plugins 
+3. Gatsby Plugins 
    * AllmarkdownRemark 
    * SASS
      * Lab 
        * Add a header and footer to all the pages we've created 
    * Algolia 
-7. Gatsby API's
+4. Gatsby API's
    * Contentful 
      * I'll design a lab after I get to play with COntentful 
-8. Gatsby React 
+5. Gatsby React 
    * Building React Components 
    * Make several webpages. Use headers, footers, and templates to build it out 
      * Lab 
        * Make a blog 
-9. GraphQL 
+6. GraphQL 
    * Querying through web pages through GraphiQL
    * GraphiQL
-10. Developing a Cookbook
-    * Linking MongoDB with GraphQL to our Website 
-    * Creating new pages 
-    * Integrating Algolia 
-    * 
-11. Topic 3:
-    * MongoDB Compass
-    * Introduction to Compass
-    * NoSQL databases
-    * MongoDB Terminology in relation to SQL
-    * Unique advantages to each type and what makes them different
-    * Features of MongoDB as a NoSQL database
-12. Topic 4:
-    * MongoDB Stitch Stitch
-    * Backend Programming with Stitch
-    * Linking Stitch with Atlas
-    * Creating backend for our app
-    * Creating our own API
+7. Developing a Cookbook
+   * Linking MongoDB with GraphQL to our Website 
+   * Creating new pages 
+   * Integrating Algolia 
+   * 
+8. Topic 3:
+   * MongoDB Compass
+   * Introduction to Compass
+   * NoSQL databases
+   * MongoDB Terminology in relation to SQL
+   * Unique advantages to each type and what makes them different
+   * Features of MongoDB as a NoSQL database
+9. Topic 4:
+   * MongoDB Stitch Stitch
+   * Backend Programming with Stitch
+   * Linking Stitch with Atlas
+   * Creating backend for our app
+   * Creating our own API
 
 ## Week 2
 
