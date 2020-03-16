@@ -28,20 +28,20 @@ Asynchronous Communication
 
 Development Road Map
 
-Programs Offered
+**Programs Offered**
 
 * Workshops
 * BitCamps
 
-Curriculum Departments
+**Curriculum Departments**
 
-* Cracking the Interview
-* Data Science
+* \*\*\*\*[Cracking the Interview](teams/developer-relations/cracking-the-interview.md)
+* [Data Science](teams/developer-relations/data-science.md)
   * Computational Social Science
   * Machine Learning
-* Frontend Engineering
-* API Development/Microservices 
-* Blockchain
+* [Frontend Engineering](teams/developer-relations/frontend-engineering.md)
+* [API Development/Microservices ](teams/developer-relations/api-development-microservices.md)
+* [Blockchain](teams/developer-relations/blockchain.md)
 
 
 
@@ -72,11 +72,11 @@ Code of Conduct
 
 ## Organization
 
-Mission Statement
+[Mission Statement](organization/mission-statement.md)
 
-Values
+[Values](organization/values/)
 
-Organizational Structure
+[Organizational Structure](organization/organizational-structure/)
 
 Communication 
 
