@@ -54,8 +54,8 @@ Development Road Map
 
 [Community Relations](teams/community-relations/)
 
-* First-Time Contributors Program
-* Starting a Branch
+* [First-Time Contributors Program](teams/community-relations/first-time-contributors-program.md)
+* [Starting a Branch](teams/community-relations/starting-a-branch/)
   * High School 
   * Collegiate
     * Hackathons
@@ -63,30 +63,11 @@ Development Road Map
 
 ## People
 
-Talent Acquisition
+[Talent Acquisition](teams/people/talent-acquisition.md)
 
-Inclusion & Diversity
+[Inclusion & Diversity](organization/values/inclusion-and-diversity.md)
 
-On-Boarding
-
-Code of Conduct
-
-## Organization
-
-[Mission Statement](organization/mission-statement.md)
-
-[Values](organization/values/)
-
-[Organizational Structure](organization/organizational-structure/)
-
-Communication 
-
-Style Guide
-
-* Brand Guidelines
-* [Markdown Style Guide](organization/style-guides/markdown-style-guide.md)
-
-## Outreach
+[On-Boarding](teams/people/onboarding-guides.md)
 
 ## Join Bit Project
 
