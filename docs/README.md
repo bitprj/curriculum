@@ -8,21 +8,22 @@ description: Democratizing Technical Education
 
 We make software engineering and computer science education accessible to students from nontraditional learning environments. Using our curriculum, we take students with minimal experience in computer science to a full-fledged software developer with a diverse coding portfolio using our curriculum. We collaborate with leading companies and developers to create interactive, fun technical content that use industry standard technologies and developer tools.
 
-## Our Culture
+## Organization
 
-Building and reinforcing a sustainable culture
+[Mission Statement](organization/mission-statement.md)
 
-Informal communication
+[Values](organization/values/)
 
-Handbook-first Documentation
+[Organizational Structure](organization/organizational-structure/)
 
-Meetings
+[Communication](organization/communication.md)
 
-In-person Interactions
+[Culture](organization/culture.md)
 
-Effective Management
+[Style Guide](organization/style-guides/)
 
-Asynchronous Communication
+* Brand Guidelines
+* [Markdown Style Guide](organization/style-guides/markdown-style-guide.md)
 
 ## Developer Relations
 
