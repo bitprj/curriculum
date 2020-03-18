@@ -8,7 +8,23 @@ Hashtags provide an efficient way of deducing how tweeters feel about the topic 
 
 By seeing the most common hashtags associated with a topic, we can evaluate what Twitter users are discussing under the scope of a greater topic and how people feel about the topic at hand. It's easy to get caught in our own echo chambers on social media, and analyzing the most common hashtags across *all* tweets for a certain topic helps us analyze the feelings behind a topic in a more objective manner. 
 
+In the end of this card, we will visualization the frequency of hashtags in tweets. To achieve this goal, there are serveral steps to do.
+
+#### Steps:
+
+1. Install lab tool
+
+2. Find tweets
+
+3. Clean tweet data
+
+4. Calculate hashtags frequency
+
+5. plot hashtags frequency
+
+   #### Examples:
+
 Here is an example of what we will be aiming to accomplish at the end of this lab:
 
-![](https://projectbit.s3-us-west-1.amazonaws.com/darlene/labs/pieplot.png)
+![](./images/pieplot.png)
 
