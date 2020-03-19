@@ -9,3 +9,25 @@
 **Instruction:** In a video, explain your method to creating the Graph class? How did you design the attributes and methods of the class? Explain each function of the class in depth, line-by-line
 
 **Type:** Video 
+
+
+
+# name 
+
+Reading in the File and Storing Information   
+
+# cards_folder 
+
+Need to fill in
+
+# checkpoint_type 
+
+Autograder 
+
+# instruction 
+
+Do this      
+
+# test_file_location
+
+Need to fill in
