@@ -14,12 +14,9 @@ Algorithms require an input to run. As the input grows, learn about what happens
 Easy
 
 # image
-![Time](/Module4.1_Intro_to_Data_Structures_and_Algos/Images/Time.jpg)
+<img src="/Module4.1_Intro_to_Data_Structures_and_Algos/Images/Time.jpg">
 
 # image_folder
-/Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act1_TimeAndSpaceComplexity/
-
-# folder_path
 /Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act1_TimeAndSpaceComplexity/
 
 # cards
