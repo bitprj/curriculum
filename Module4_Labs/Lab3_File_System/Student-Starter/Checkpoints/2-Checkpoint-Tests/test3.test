@@ -8,10 +8,10 @@ Edges:
 ('01', '012')
 ('03', '031')
 Values:
-('0', 'Stranger Things')
-('01', 'Season 1')
-('011', 'The Haunting of Hill House')
-('012', 'Black Mirror')
-('02', 'Season 2')
-('03', 'Season 3')
-('031', 'The X-Files')
+0 Stranger Things
+01 Season 1
+011 The Haunting of Hill House
+012 Black Mirror
+02 Season 2
+03 Season 3
+031 The X-Files

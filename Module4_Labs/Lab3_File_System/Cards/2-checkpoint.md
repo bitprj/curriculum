@@ -17,7 +17,7 @@ Submit the all code you have completed thus far, including your `Graph` class. B
 * Storing and adding edges
 * Storing values (folder/file names) of each node in the graph
 
-At the end of your main function, add the following lines of code (needed for testing). Please note that you may need to adjust variable names depending on what you chose to name `edges` and `val_map`. This code prints out all the edges tuples and the contents of the `val_map` in a **sorted** manner:
+At the end of your main function, add the following lines of code (needed only for testing and is **NOT** part of the solution). Please note that you may need to adjust variable names depending on what you chose to name `edges` and `val_map`. This code prints out all the edges tuples and the contents of the `val_map` in a **sorted** manner:
 
 ```python
 	print("Edges:")

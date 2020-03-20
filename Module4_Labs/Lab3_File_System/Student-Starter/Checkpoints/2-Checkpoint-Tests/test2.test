@@ -7,9 +7,9 @@ Edges:
 ('01', '011')
 ('02', '021')
 Values:
-('0', 'Prison Break')
-('01', 'Season 1')
-('011', 'Lost')
-('02', 'Season 2')
-('021', 'Vanished')
-('03', 'Season 3')
+0 Prison Break
+01 Season 1
+011 Lost
+02 Season 2
+021 Vanished
+03 Season 3

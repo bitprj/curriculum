@@ -9,11 +9,11 @@ Edges:
 ('02', '021')
 ('02', '022')
 Values:
-('0', 'Friends')
-('01', 'Season 1')
-('011', 'Seinfeld')
-('012', 'The Big Bang Theory')
-('013', 'Cheers')
-('02', 'Season 2')
-('021', 'Parks and Recreation')
-('022', 'How I Met Your Mother')
+0 Friends
+01 Season 1
+011 Seinfeld
+012 The Big Bang Theory
+013 Cheers
+02 Season 2
+021 Parks and Recreation
+022 How I Met Your Mother
