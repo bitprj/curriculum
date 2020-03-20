@@ -88,14 +88,6 @@ def main():
 	# add your val_map	
 	G2.add_val_map(val_map)
 
-	# for testing
-	print("Edges:")
-	for edge in sorted(edges):
-		print(edge)
-	print("Values:")	
-	for number in sorted(val_map):
-		print(number, val_map[number])	
-
 	#TODO for part 3
 	#display the graph using networkx and matplotlib
 	#HINT: the activity on directed graphs
