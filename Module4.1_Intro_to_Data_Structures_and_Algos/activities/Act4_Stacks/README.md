@@ -11,12 +11,9 @@ Learn about stacks and how to implement them in Python. Then use stacks to solve
 Easy
 
 # image
-![Time](/Module4.1_Intro_to_Data_Structures_and_Algos/Images/stack.jpg)
+<img src="/Module4.1_Intro_to_Data_Structures_and_Algos/Images/stack.jpg">
 
 # image_folder
-/Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act4_Stacks/
-
-# folder_path
 /Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act4_Stacks/
 
 # cards
