@@ -8,19 +8,83 @@ We make software engineering and computer science education accessible to studen
 ## Our Core Curriculum
 Our curriculum covers core computer science concepts and specialized developer skills. 
 
-In our core computer science modules we cover the following: 
+### 1. Introduction to Python
 
-1. Programming Practices
-2. Introduction to Python
-2. Object-Oriented Programming
-3. Data Structures and Algorithms
+* Data Types and Variables
+* Numerical Operators, Boolean Operators, If Statements
+* Data structures, For/While Loops, User Input, F-Strings
+* File Parsing
 
+**Interactive Labs:** ATM, Hangman, Wheel of Fortune, Word Translation
 
-And we cover the following developer skills: 
-1. Intro to NoSQL with MongoDB
-2. Intro to Data Science w/ Twitter API
-3. Intro to API Development w/ Postman
-4. Full-Stack Development using MERN
+### 2. Computational Social Science with Twitter
+
+* Introduction to Twitter API
+* Streaming Live Tweets
+* Cursor and Pagination
+* Analyzing Tweet Data
+* Graphing with Matplotlib
+* Sentiment Analysis
+* High-Level Natural Language Processing
+* Visualizing Twitter Trends
+
+**Interactive Labs:** Visualizing Celebrities' Tweets, Topical Hashtag Frequency, Sentiment Behind the 7th Democratic Debate 
+
+### 3. API Development and Testing with Postman
+
+* Introduction to APIs: Using Postman to Test API Endpoints 
+* Creating and Testing Your Own API: BitBloxs 
+* Creating Postman Collections
+* Running Sets of Requests Based on Data: Collection Runners 
+* Mock Servers
+* APIs for Front-End Developers 
+* Documenting APIs in Postman 
+
+**Interactive Labs:** URL Shortener, Documenting a Full-Stack API 
+
+### 4. Frontend Engineering with MongoDB Stitch
+
+* Tech Stacks and Full-Stack Development
+* NoSQL vs SQL
+* What are APIs?
+* CRUD Operations in MongoDB
+* NoSQL Querying with MongoDB Atlas
+* Intro to GraphQL
+* Using React to Make Web Apps Dynamic
+* Using MongoDB Stitch to Make a Serverless Back-End
+* Communicating from Stitch to React using GraphQL
+* Intro to Gatsby.js
+* Netlify and Website Deployment
+
+**Interactive Labs:** Searchable Tweet Database, MongoDB Atlas Scavenger Hunt 
+
+## Current in the Works
+### 1. Introduction to Cryptography
+  - Talking to remote servers
+  - RCEs, reverse shells, and privilege escalation
+  - Local file inclusion
+  - SSH keys and tunnels
+  - Basic log analysis
+  - Side channel attacks
+  - Bash and Linux basics
+  - SQL injection
+  - Assembly/GDB refresher
+  - Stack Buffer Overflows
+  - Return Oriented Programming
+
+  <b>Interactive Labs</b>: Scavenger Hunt, SQL Injection, Remote Code Execution
+
+### 2. Introduction to JAM Stack
+  - Introduction to Gatsby.js
+  - Styled Components and React
+  - GraphQL and Markdown 
+  - Headless CMS (Contentful) Integration
+  - Headless Wordpress CMS
+  - SEO Optimization
+  - Optimizing Site Load Speeds with Lighthouse 
+  - Progressive Web Apps
+
+ <b>Interactive Labs</b>: Inspirational Quote Viewer, Markdown Previewer, Personal Blog
 
 ## 🐛 Reporting Bugs and Issues
 If you think you've found a bug, first read the how to report a bug article and follow its instructions.
@@ -32,4 +96,5 @@ For Bit members, external contributors and company partners, please check out ou
 
 ## Join Bit Project 
 Please join at bitproject.org/join
+
 ## License
