@@ -14,12 +14,9 @@ Understand how Queues work in Python. Learn to push and pop elements from queues
 Easy
 
 # image
-![Time](/Module4.1_Intro_to_Data_Structures_and_Algos/Images/Queue.jpg)
+<img src="/Module4.1_Intro_to_Data_Structures_and_Algos/Images/Queue.jpg">
 
 # image_folder
-/Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act3_Queues/
-
-# folder_path
 /Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act3_Queues/
 
 # cards
