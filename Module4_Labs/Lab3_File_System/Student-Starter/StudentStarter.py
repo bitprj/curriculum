@@ -91,5 +91,11 @@ def main():
     #may be helpful ;)
     #note: you don't have to do this in the
     #main method
+    # NOTE: for part 4, make sure to use G2 as your graph
+    # and NOT the graph you construct from your custom class
+    # you will still need to add aspects of your original 
+    # graph to G2, but for all the networkx and matplotlib functions
+    # use G2 as the graph you pass into the function
+    G2 = nx.Graph()
     
 main()
