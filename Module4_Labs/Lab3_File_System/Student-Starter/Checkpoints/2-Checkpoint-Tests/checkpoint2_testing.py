@@ -8,11 +8,11 @@ def main():
 	edges = []
 	val_map = {}
 	readFile(edges, val_map)
-	G2 = Graph()
-	G2.add_val_map(val_map)
+	G = Graph()
+	G.add_val_map(val_map)
 	for edge in edges:
-		G2.add_edge(*edge)
-	G2.add_val_map(val_map)
+		G.add_edge(*edge)
+	G.add_val_map(val_map)
 	
 
 	print("Edges:")
