@@ -132,7 +132,7 @@ def main():
 	pos = hierarchy_pos(G2,"0") 
 	
 	# networkx functions to draw graph. Notice that for draw_networkx_labels we pass in the val_map as the labels for the nodes
-	nx.draw(G2, pos = pos) 
+	nx.draw(G2, pos = pos, with_labels = False) 
 	nx.draw_networkx_labels(G2, pos, val_map, 8)
 	plt.show()
 	 

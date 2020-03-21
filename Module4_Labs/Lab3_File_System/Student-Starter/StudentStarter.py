@@ -2,36 +2,13 @@ import networkx as nx
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
-# part 2 - create your own graph object
-class Graph:
-	def __init__(self):
-		self.edges = defaultdict(list)
-		self.val_map = {}
+#TODO for part 2
+#create your own graph object
+class Graph():
+    def __init__(self):
+        #define graph attributes
 
-	def add_edge(self, from_node, to_node):
-		self.edges[from_node].append(to_node)
-
-	def add_val_map(self, val_map):
-		self.val_map = val_map
-
-	# part 3 - DFS Traversal of Graph	
-	def print_ordered_file_structure(self, start):
-	 visited = defaultdict(bool)
-	 stack = []
-	 stack.append(start)
-	 visited[start] = True
-	 while stack:
-	  start = stack.pop()
-	  f = open("output.txt", "a")
-	  f.write(start+'. ' +   self.val_map[start] + '\n')
-	  f.close()
-	  lst = self.edges[start]
-	  lst.sort()
-	  lst = lst[::-1]
-	  for j in lst:
-	    if visited[j] == False: 
-	      stack.append(j)
-	      visited[j] = True		            
+            
 
 #provided method
 #will help in displaying with networkx
@@ -87,50 +64,32 @@ def hierarchy_pos(G, root=None, width=1., vert_gap = 0.2, vert_loc = 0, xcenter 
         return pos
     return _hierarchy_pos(G, root, width, vert_gap, vert_loc, xcenter)
         
-# part 1 function
-def readFile(edges, val_map):
-	readFile = open("input.txt", "r")
-	for line in readFile:
-		dirAndVal = line.split(".")
-		dirAndVal[1] = dirAndVal[1].strip()
-		if (dirAndVal[0] != "0"):
-			aTuple = (dirAndVal[0][:-1], dirAndVal[0])
-			edges.append(aTuple)
-		val_map[dirAndVal[0]] = dirAndVal[1] 
-
 def main():
-	# initialize a list for the edges and a dictionary for values
-	edges = []
-	val_map = {}
+    #TODO for part 1
+    #read the input file: "input.txt"
+    #will contain structural numbers and names
+    #format: ###.some name
+    #parse the file for the structural numbers
+    #and the names that you will use to make
+    #your own graph
+    #note: you don't have to do this in the
+    #main method
 
-	# read the file
-	readFile(edges, val_map)
 
-	# create the Graph
-	G = Graph()
+    #TODO for part 3
+    #print the file structure in order
+    #beware that the input file may not
+    #be in numerical order.
+    #reminder: the format is ###.some name
+    #hint: use DFS
+    #note: you don't have to do this in the
+    #main method
 
-	# add all the edges
-	for edge in edges:
-		G.add_edge(*edge)
-
-	# add your val_map	
-	G.add_val_map(val_map)
-
-	# part 3 - DFS Traversal of Graph
-	G.print_ordered_file_structure("0")
-
-	# part 4 - use networkx
-	# G2 will be equivalent to our original graph G, but will be a networkx graph so that we can use the networkx functions
-	G2 = nx.Graph()
-	G2.add_edges_from(edges)
-
-	# use hierarchy_pos with root = "0"
-	pos = hierarchy_pos(G2,"0") 
-	
-	# networkx functions to draw graph. Notice that for draw_networkx_labels we pass in the val_map as the labels for the nodes
-	nx.draw(G2, pos = pos, with_labels = False) 
-	nx.draw_networkx_labels(G2, pos, val_map, 8)
-	plt.show()
-	 
-
+    #TODO for part 4
+    #display the graph using networkx and matplotlib
+    #HINT: the activity on directed graphs
+    #may be helpful ;)
+    #note: you don't have to do this in the
+    #main method
+    
 main()
