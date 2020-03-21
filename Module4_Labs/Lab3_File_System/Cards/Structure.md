@@ -16,20 +16,24 @@
    22. <!--title={Initializing the Graph: Adding the Values}-->
        221. <!--title={Initializing the Graph: Adding the Values Explained}-->
 
-3. <!--title={Drawing the Graph}-->
-
-   31. <!--title={Getting the "pos"}-->
-       311. <!--title={Getting the "pos" explained}-->
-   32. <!--title={Displaying the graph}-->
-       321. <!--title={Displaying the graph explained}-->
-
 4. <!---title{print_ordered_file_structure() Function}--->
 
-   41. <!---title{print_ordered_file_structure() Function Part 1}---> 
-       411. <!---title{print_ordered_file_structure() Function Part 1 Explained}--->
-   42. <!---title{print_ordered_file_structure() Function Part 2}--->
-       421. <!---title{print_ordered_file_structure() Function Part 2 Explained}--->
-       422. <!---title{print_ordered_file_structure() Function Part 2 Explained}--->
-       423. <!---title{Using print_ordered_file_structure() in main()}--->
-
+   31. <!---title{print_ordered_file_structure() Function Part 1}---> 
+       311. <!---title{print_ordered_file_structure() Function Part 1 Explained}--->
    
+   32. <!---title{print_ordered_file_structure() Function Part 2}--->
+   
+       321. <!---title{print_ordered_file_structure() Function Part 2 Explained}--->
+
+       322. <!---title{print_ordered_file_structure() Function Part 2 Explained}--->
+   
+       323. <!---title{Using print_ordered_file_structure() in main()}--->
+   
+4. <!--title={Drawing the Graph}-->
+
+   41. <!--title={{Adding edges and Getting the "pos"}-->
+       411. <!--title={Adding edges and Getting the "pos" explained}-->
+
+   42. <!--title={Displaying the graph}-->
+       421. <!--title={Displaying the graph explained}-->
+
