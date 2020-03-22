@@ -1,19 +1,180 @@
-# Activity/Lab Name
+# github_id
+28719
+
+# name
 Graphs
 
-# Long Summary
+# description
+
 Students will learn about graph data structures. They become familiar with different types of graphs that are commonly used. They will then learn popular graph algorithms.
 
-# Short Summary
-Students will learn about graphs and different ways computer scientists use graphs.
+# summary
 
-# Criteria
-1. What does Dijkstra's algorithm do?
-2. What is the difference between a directed and undirected graph?
-3. What is a Hamiltonian path?
+Students will learn what graphs and why we use them. After knowing what they are, they will learn diffrent techniques on how to traverse throughout the graph. Students will see a real life application of graphs during this activity using dijkstra's algorithm. 
 
-# Difficulty
+
+# difficulty
 Easy
 
 # Image
-![Path](https://images.pexels.com/photos/808465/pexels-photo-808465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![img](images/photo.jpeg)
+
+# image_folder
+
+images/photo.jpeg
+
+# cards
+
+## 1
+
+## name
+
+Graphs
+
+### order
+
+1
+
+### gems
+
+300
+
+## 2
+
+## name
+
+Undirected graphs
+
+### order
+
+2
+
+### gems
+
+300
+
+## 3
+
+## name
+
+Eulerian Path and Eulerian Cycle
+
+### order
+
+3
+
+### gems
+
+300
+
+## 4
+
+## name
+
+Hamiltonian Path and Hamiltonian Cycle
+
+### order
+
+4
+
+### gems
+
+300
+
+## 5
+
+## name
+
+Directed graphs
+
+### order
+
+5
+
+### gems
+
+300
+
+## 6
+
+## name
+
+Dijkstra's algorithm
+
+### order
+
+6
+
+### gems
+
+300
+
+## 7
+
+## name
+
+Using Dijkstra's Algorithm
+
+### order
+
+7
+
+### gems
+
+300
+
+## 8
+
+## name
+
+Dijkstra's algorithm application
+
+### order
+
+8
+
+### gems
+
+300
+
+## 9
+
+## name
+
+Creating the graph
+
+### order
+
+9
+
+### gems
+
+300
+
+## 10
+
+## name
+
+Implementing the Algorithm 
+
+### order
+
+10
+
+### gems
+
+300
+
+## 11
+
+## name
+
+Finishing the implementation
+
+### order
+
+11
+
+### gems
+
+300
