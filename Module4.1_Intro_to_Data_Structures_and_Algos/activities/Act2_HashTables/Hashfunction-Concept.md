@@ -3,7 +3,7 @@
 ### Hashing 
 
 A hash function is a necesity when working with Hash tables. 
-The purpose of the hash function is to take in an input of any sized-length and convert it to a fixed-length string of text. 
+The purpose of the hash function is to take in an input of any sized-length and convert it to a fixed index value. 
 This implies that no matter how big the input, the hashfunction should be able to take that input and convert it to a **Hash Value**. 
 
 When creating a hash function, there are several aspects we want to keep in mind. 
