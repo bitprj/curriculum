@@ -6,7 +6,12 @@ Checkpoint 1: `Board` and `Cell`
 # checkpoint_type
 Autograder
 
+# files_to_send
+
+main.py
+
 # instruction
+
 Please submit your code for the `Board` and `Cell` class. `main()` functions are provided to just test those classes. 
 
 # test_file_location
