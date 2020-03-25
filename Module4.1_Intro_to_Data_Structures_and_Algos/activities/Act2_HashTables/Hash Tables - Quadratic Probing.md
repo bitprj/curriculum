@@ -1,13 +1,15 @@
-# concept name
+# concept_name
 Quadratic Probing
 
-# Hash Tables - Quadratic Probing
+# image_folder
+curriculum/Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act2_HashTables/Quadratic_Probing_Diagram.jpeg
 
 # Quadratic Probing Step 1
-## Name
-Reason to use Quadratic Probing
-## md_content
 
+## name
+Reason to use Quadratic Probing
+
+## md_content
 ```
 # Motivation
 
@@ -15,10 +17,11 @@ In Hash Tables, when there is a collision, we must have a collision resolution t
 ```
 
 # Quadratic Probing Step 2
-## Name
-Conceptual Steps to implement Quadratic Probing
-## md_content
 
+## name
+Conceptual Steps to implement Quadratic Probing
+
+## md_content
 ```
 # Preliminary Information<sup>1</sup> 
 
@@ -27,30 +30,23 @@ Conceptual Steps to implement Quadratic Probing
 ```
 
 # Quadratic Probing Step 3
-## Name
-Example of implementing Quadratic Probing
-## md_content
 
+## name
+Example of implementing Quadratic Probing
+
+## md_content
 ```
 # Example<sup>2</sup>
 
 Quadratic probing is best demonstrated through an example.
 
 Say that we have a hash table of size 5. Let's try to insert the numbers 2, 7, and 22.
-```
-
-# image_folder
-curriculum/Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act2_HashTables/Quadratic_Probing_Diagram .jpeg
-
-<img src ="https://projectbit.s3-us-west-1.amazonaws.com/darlene/labs/Quadratic_Probing_Diagram+.jpeg">
 
 Notice how everytime there is a collision, we increment j and reapply the hash function h(k) = (k+j<sup>2</sup>) % (size of table).
 
-<hr>
-
-<sup>1</sup> Methodology credit to https://www.youtube.com/watch?v=BoZbu1cR0no
-
-<sup>2</sup> Original example, but inspired by https://www.youtube.com/watch?v=BoZbu1cR0no 
+```
+## image
+<img src ="https://projectbit.s3-us-west-1.amazonaws.com/darlene/labs/Quadratic_Probing_Diagram+.jpeg">
 
  
 
