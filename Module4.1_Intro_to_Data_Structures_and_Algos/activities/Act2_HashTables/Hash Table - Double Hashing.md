@@ -1,10 +1,19 @@
 # concept_name
+Double Hahsing
 
 # Hash Tables - Double Hashing
+
+# Double Hashing Step 1
+# Name
+Reason on Importance of Double Hashing
 
 1. ### Motivation
 
 In Hash Tables, when there is a collision, we must have a collision resolution technique when keys are hashed to the same bucket. Double Hashing is an example of a collision resolution technique. This technique is a part of open addressing.
+
+# Double Hashing Step 1
+# Name
+Explaing the 2 Primary Hash Functions
 
 2. ### Preliminary Information <sup>1</sup>
 
@@ -21,7 +30,9 @@ In Hash Tables, when there is a collision, we must have a collision resolution t
     * X must be **prime** and **less than** the size of the hash table
     * We do not want `h2(k)` to equal 0 as this would mean that `h(k) = h1(k) + i * 0 = h1(k).`<sup>2</sup>
 
-  
+# Double Hashing Step 1
+# Name
+Application of Double Hashing
 
 3. ### Example
 
