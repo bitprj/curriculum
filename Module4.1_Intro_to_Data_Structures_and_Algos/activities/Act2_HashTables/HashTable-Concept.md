@@ -1,4 +1,6 @@
 <!--title={HashTable Concept}-->
+# concept_name
+Hash Tables
 
 1. A hash table is a data structure that is a common technique used to solve a variety of problems. 
 It serves as a key value lookup.
