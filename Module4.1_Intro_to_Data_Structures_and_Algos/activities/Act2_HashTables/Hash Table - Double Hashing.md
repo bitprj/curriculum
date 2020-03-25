@@ -1,10 +1,10 @@
 # Hash Tables - Double Hashing
 
-### Motivation
+1. ### Motivation
 
 In Hash Tables, when there is a collision, we must have a collision resolution technique when keys are hashed to the same bucket. Double Hashing is an example of a collision resolution technique. This technique is a part of open addressing.
 
-### Preliminary Information <sup>1</sup>
+2. ### Preliminary Information <sup>1</sup>
 
 * There are **two** hash functions (`h1(k)` and `h2(k)`)
 
@@ -21,7 +21,7 @@ In Hash Tables, when there is a collision, we must have a collision resolution t
 
   
 
-### Example
+3. ### Example
 
 Double Hashing is best demonstrated through an example.
 
