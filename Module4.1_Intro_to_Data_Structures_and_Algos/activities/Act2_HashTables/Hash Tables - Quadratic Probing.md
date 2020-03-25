@@ -4,9 +4,9 @@ Quadratic Probing
 # Hash Tables - Quadratic Probing
 
 # Quadratic Probing Step 1
-# Name
+## Name
 Reason to use Quadratic Probing
-# md_content
+## md_content
 
 ```
 # Motivation
@@ -15,9 +15,9 @@ In Hash Tables, when there is a collision, we must have a collision resolution t
 ```
 
 # Quadratic Probing Step 2
-# Name
+## Name
 Conceptual Steps to implement Quadratic Probing
-# md_content
+## md_content
 
 ```
 # Preliminary Information<sup>1</sup> 
@@ -27,9 +27,9 @@ Conceptual Steps to implement Quadratic Probing
 ```
 
 # Quadratic Probing Step 3
-# Name
+## Name
 Example of implementing Quadratic Probing
-# md_content
+## md_content
 
 ```
 # Example<sup>2</sup>
