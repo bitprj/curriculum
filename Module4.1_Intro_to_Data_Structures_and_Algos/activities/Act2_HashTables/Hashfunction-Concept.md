@@ -11,9 +11,9 @@ This implies that no matter how big the input, the hashfunction should be able t
 When creating a hash function, there are several aspects we want to keep in mind. 
 
 # Hashing Step 1
-# Name
+## Name
 Producing Appropriate Hash Values
-# md_content
+## md_content
 ```
  Every Hash Value produced should be unique. 
   What this means is that two different inputs should always produce two different Hash Values.
@@ -21,16 +21,16 @@ Producing Appropriate Hash Values
 ```
   
 # Hashing Step 2
-# Name
+## Name
 Input = Same Hash Value
-# md_content
+## md_content
 ```
 The same input should always produce the same Hash Value. 
 If we input a string, we want to be getting a consistent Hash Value. If we get inconsistent Hash Values, this essentially deems our Hashtable ineffective .
 ```
   
 # Hashing Step 3
-# Name
+## Name
 Time Complexity for Hashing
 # md_content
 ```
