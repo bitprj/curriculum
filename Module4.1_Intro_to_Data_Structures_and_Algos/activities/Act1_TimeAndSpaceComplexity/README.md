@@ -17,7 +17,7 @@ Easy
 <img src="/Module4.1_Intro_to_Data_Structures_and_Algos/Images/Time.jpg">
 
 # image_folder
-/Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act1_TimeAndSpaceComplexity/
+/Module4.1_Intro_to_Data_Structures_and_Algos/Images
 
 # cards
  
@@ -83,6 +83,28 @@ Big O Notation Continued
 
 ### order
 6
+
+### gems
+0
+
+## 7
+
+### name
+Time Complexity Interview Question
+
+### order
+7
+
+### gems
+0
+
+## 8
+
+### name
+Space Complexity Interview Question
+
+### order
+8
 
 ### gems
 0
