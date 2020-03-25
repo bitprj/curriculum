@@ -4,9 +4,9 @@ Double Hahsing
 # Hash Tables - Double Hashing
 
 # Double Hashing Step 1
-# Name
+## Name
 Reason on Importance of Double Hashing
-# md_content
+## md_content
 
 ```
  # Motivation
@@ -15,9 +15,9 @@ In Hash Tables, when there is a collision, we must have a collision resolution t
 ```
 
 # Double Hashing Step 1
-# Name
+## Name
 Explaing the 2 Primary Hash Functions
-# md_content
+## md_content
 
 ```
 ### Preliminary Information <sup>1</sup>
@@ -37,9 +37,9 @@ Explaing the 2 Primary Hash Functions
 ```
 
 # Double Hashing Step 1
-# Name
+## Name
 Application of Double Hashing
-# md_content
+## md_content
 
 ```
 # Example
