@@ -14,7 +14,7 @@ Learn about hash Tables and how to use Hash Functions. Also learn about the impl
 Easy
 
 # image
-<img src="/Module4.1_Intro_to_Data_Structures_and_Algos/Images/hash.jpg">
+<img src="/Module4.1_Intro_to_Data_Structures_and_Algos/Images/hash.png">
 
 # image_folder
 /Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act2_HashTables/
@@ -105,6 +105,17 @@ Hash Tables in Python
 
 ### order
 8
+
+### gems
+0
+
+## 9
+
+### name
+Interview Question for Hash Tables
+
+### order
+9
 
 ### gems
 0
