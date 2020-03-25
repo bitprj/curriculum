@@ -3,9 +3,9 @@
  Hash Tables
  
 # Hash Tables Step 1
-# Name
+## Name
 What is a Hash Table?
-# md_content
+## md_content
 
 ```
 A hash table is a data structure that is a common technique used to solve a variety of problems. 
@@ -15,9 +15,9 @@ Later when looking up information, the programmer can simply lookup the "key" as
 ```
 
 # Hash Tables Step 2
-# Name
+## Name
 Realistic Example of Hash Tables 
-# md_content
+## md_content
 
 ```
 A real life example would be the UC Davis student record system. 
@@ -27,9 +27,9 @@ In this example, the key is the ID number and the student information is the val
 ```
 
 # Hash Tables Step 3
-# Name
+## Name
 How do Hash Functions work?
-#md_content
+## md_content
 
 ```
 ### Hash functions
@@ -37,9 +37,9 @@ Hashtables require Hash functions that can be used to simplify data. Hash functi
 ```
 
 # Hash Tables Step 4
-# Name
+## Name
 What is a collision?
-# md_content
+## md_content
 
 ```
 # Collisions 
