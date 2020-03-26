@@ -30,7 +30,7 @@ Queues
 1 
 
 ### gems
-0
+15
 
 ## 2
 
@@ -41,7 +41,7 @@ Implementing a Queue
 2
 
 ### gems
-0
+15
 
 ## 3
 
@@ -52,7 +52,7 @@ Dequeue Implementation
 3
 
 ### gems
-0
+15
 
 ## 4
 
@@ -63,7 +63,7 @@ Example with a Queue
 4
 
 ### gems
-0
+15
 
 ## 5
 
@@ -74,4 +74,4 @@ Interview Question with a Queue
 5
 
 ### gems
-0
+15
