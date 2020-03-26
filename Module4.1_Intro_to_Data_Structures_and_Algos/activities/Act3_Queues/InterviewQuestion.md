@@ -24,7 +24,7 @@ Hints:
     col = [0, -1, 1, 0]
     ```
 
-  * Creating `row` and `col` as such allows for us to represent the four possible moves (up, left, down, and right) that one can make.
+  * Creating `row` and `col` as such allows us to represent the four possible moves (up, left, down, and right) that one can make.
 
     * `row[0]` and `col[0]` taken together represent moving up.
     * `row[1]` and `col[1]` taken together represent moving left.
