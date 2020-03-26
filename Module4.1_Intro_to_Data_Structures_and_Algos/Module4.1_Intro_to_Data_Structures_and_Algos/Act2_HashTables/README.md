@@ -30,7 +30,7 @@ Hash Tables
 1 
 
 ### gems
-0
+20
 
 ## 2
 
@@ -41,7 +41,7 @@ Hashing
 2
 
 ### gems
-0
+15
 
 ## 3
 
@@ -52,7 +52,7 @@ Hash Functions
 3
 
 ### gems
-0
+15
 
 ## 4
 
@@ -63,7 +63,7 @@ Collisions
 4
 
 ### gems
-0
+20
 
 ## 5
 
@@ -74,7 +74,7 @@ Separate Chaining
 5
 
 ### gems
-0
+15
 
 ## 6
 
@@ -85,7 +85,7 @@ Open Addressing
 6
 
 ### gems
-0
+20
 
 ## 7
 
@@ -96,7 +96,7 @@ Linear Probing, Quadratic Probing, and Double Hashing
 7
 
 ### gems
-0
+20
 
 ## 8
 
@@ -107,7 +107,7 @@ Hash Tables in Python
 8
 
 ### gems
-0
+15
 
 ## 9
 
@@ -118,4 +118,4 @@ Interview Question for Hash Tables
 9
 
 ### gems
-0
+15
