@@ -39,11 +39,36 @@ def BFS(mat, i, j, x, y):
 	min_dist = sys.maxsize
 
 	# run till queue is not empty
-	while (not q.empty()):
+	while not q:
+		# pop front (left) node from queue and process it
+		node = q.popleft()
 
+		# (i, j) represents current cell and dist stores its
+	    # minimum distance from the source
+		i = node.x
+		j = node.y
+		dist = node.dist
 
+	    # if destination is found, update min_dist and stop
+		if i == x and j == y:
+			min_dist = dist
+			break
 
+	    # check for all 4 possible movements from current cell
+	    # and enqueue each valid movement
+		for k in range(4):
+	    	# check if it is possible to go to position
+	        # (i + row[k], j + col[k]) from current position
+		    if (isValid(mat, visited, i + row[k], j + col[k])):
+		    	visited[i + row[k]][j + col[k]] = True
+		    	q.append(Node(i + row[k], j + col[k], dist + 1))
 
+	if min_dist != sys.maxsize:
+		print("The shortest path from source to destination has length ", min_dist)
+	else:
+		print("destination can't be reached from given source")	        	
+
+# Shortest path in a Maze
 def main():
 	# M x N matrix
 	M = 10;
@@ -53,6 +78,26 @@ def main():
 	row = {-1, 0, 0, 1}
 	col = {0, -1, 1, 0}
 
+	# input maze of size M x N
+	mat = [
+    	[ 1, 1, 1, 1, 1, 0, 0, 1, 1, 1 ],
+        [ 0, 1, 1, 1, 1, 1, 0, 1, 0, 1 ],
+        [ 0, 0, 1, 0, 1, 1, 1, 0, 0, 1 ],
+        [ 1, 0, 1, 1, 1, 0, 1, 1, 0, 1 ],
+        [ 0, 0, 0, 1, 0, 0, 0, 1, 0, 1 ],
+        [ 1, 0, 1, 1, 1, 0, 0, 1, 1, 0 ],
+        [ 0, 0, 0, 0, 1, 0, 0, 1, 0, 1 ],
+        [ 0, 1, 1, 1, 1, 1, 1, 1, 0, 0 ],
+        [ 1, 1, 1, 1, 1, 0, 0, 1, 1, 1 ],
+        [ 0, 0, 1, 0, 0, 1, 1, 0, 0, 1 ],
+  		]
+
+  	# Find shortest path from source (0, 0) to
+    # destination (7, 5)
+	BFS(mat, 0, 0, 7, 5);
+
+
+main()
 
 
 
