@@ -30,7 +30,7 @@ Time Complexity
 1 
 
 ### gems
-0
+15
 
 ## 2
 
@@ -41,7 +41,7 @@ Looking at Value Sum
 2
 
 ### gems
-0
+15
 
 ## 3
 
@@ -52,7 +52,7 @@ Complexity from a function
 3
 
 ### gems
-0
+20
 
 ## 4
 
@@ -63,7 +63,7 @@ Space Complexity
 4
 
 ### gems
-0
+15
 
 ## 5
 
@@ -74,7 +74,7 @@ Big O Notation
 5
 
 ### gems
-0
+20
 
 ## 6
 
@@ -85,7 +85,7 @@ Big O Notation Continued
 6
 
 ### gems
-0
+20
 
 ## 7
 
@@ -96,7 +96,7 @@ Time Complexity Interview Question
 7
 
 ### gems
-0
+15
 
 ## 8
 
@@ -107,4 +107,4 @@ Space Complexity Interview Question
 8
 
 ### gems
-0
+15
