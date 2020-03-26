@@ -27,7 +27,7 @@ Stacks
 1 
 
 ### gems
-0
+15
 
 ## 2
 
@@ -38,7 +38,7 @@ Implementing Stacks
 2
 
 ### gems
-0
+15
 
 ## 3
 
@@ -49,7 +49,7 @@ Adding to a Stack
 3
 
 ### gems
-0
+15
 
 ## 4
 
@@ -60,7 +60,7 @@ Tower of Hanobi
 4
 
 ### gems
-0
+15
 
 ## 5
 
@@ -71,4 +71,4 @@ Tower of Hanobi Implementation
 5
 
 ### gems
-0
+20
