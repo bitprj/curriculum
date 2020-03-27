@@ -24,7 +24,7 @@ Easy
 ## 1
 
 ### name
-Queues
+Queues in General
 
 ### order
 1 
