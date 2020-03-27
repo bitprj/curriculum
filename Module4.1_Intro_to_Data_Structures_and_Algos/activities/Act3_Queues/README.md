@@ -20,7 +20,7 @@ Easy
 /Module4.1_Intro_to_Data_Structures_and_Algos/activities/Act3_Queues/
 
 # cards
- 
+
 ## 1
 
 ### name
@@ -46,7 +46,7 @@ Implementing a Queue
 ## 3
 
 ### name
-Dequeue Implementation
+Dequeue Library Implementation
 
 ### order
 3
@@ -57,7 +57,7 @@ Dequeue Implementation
 ## 4
 
 ### name
-Example with a Queue
+Real-Life Example with a Queue
 
 ### order
 4
