@@ -35,5 +35,5 @@ An important thing to take note of is that Dijsktra's Algorithm does not discrim
 
 Here is an example of a directed graph with Dijsktra's algorithm being used on it:
 
-<img src="/Users/jr194/Bit Prjct/curriculum/Module4_Concepts/Example_1.png" style="zoom:40%;" />
+<img src="/Users/jr194/Bit Prjct/curriculum/Module4_Concepts/images/Example_1.png" style="zoom:40%;" />
 
