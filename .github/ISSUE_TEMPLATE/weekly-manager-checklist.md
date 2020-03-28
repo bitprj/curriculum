@@ -2,7 +2,7 @@
 name: Weekly Manager Checklist
 about: A weekly list of tasks that each manager of a team should complete every week
 title: "[Weekly Sync] *insert manager name* Week of */**"
-labels: ''
+labels: manager-sync
 assignees: ''
 
 ---
