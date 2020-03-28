@@ -1,6 +1,6 @@
 # name 
 
-Creating the `Graph` Class Autograder
+Creating the `Graph` Class
 
 # cards_folder 
 
@@ -15,7 +15,7 @@ Autograder
 Submit the all code you have completed thus far, including your `Graph` class. By now, your code should be able to read in the input files and the `Graph` class should be able to handle:
 
 * Storing and adding edges
-* Storing values (folder/file names) of each node in the graph
+* Storing the values (folder/file names) of each node in the graph
 
 At the end of your main function, add the following lines of code (needed only for testing and is **NOT** part of the solution). Please note that you may need to adjust variable names depending on what you chose to name `edges` and `val_map`. This code prints out all the edges tuples and the contents of the `val_map` in a **sorted** manner:
 
@@ -28,7 +28,7 @@ At the end of your main function, add the following lines of code (needed only f
 		print(number, val_map[number])	
 ```
 
-Submission can be done from Command-Line Interface (CLI) or through a `src.zip` file that you can drag and drop.
+Submission can be done from Command-Line Interface (CLI) or through a `src.zip` file that you can drag and drop. After you pass the test cases, please remove these lines from your code.
 
 # test_file_location
 
