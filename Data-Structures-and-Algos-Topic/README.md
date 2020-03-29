@@ -12,7 +12,7 @@ stacks, hashtables, linked lists, trees, sorting, and more.
 <img src="images/topic.png">
     
 # image_folder
-Data-Structures-and-Algos-Topic/Module4.1_Intro_to_Data_Structures_and_Algos/Images/
+Data-Structures-and-Algos-Topic/
     
 # modules
 * 1
