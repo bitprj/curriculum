@@ -1,35 +1,63 @@
-<!--title={Queue Manipulation}-->
+# concept_name
+Queue Manipulation
 
-# Adding and Removing Items from a Queue
+# Queue Manipulation Step 1
 
+## name
+```
+Adding Items from a Queue
+```
+
+## md_content
+```
 ### Adding an Item 
 
 To add an item to a queue, we need to create a function `def enqueue()`. 
 
+We can call this function by simply using the line of code 
+```
+
+## code_snippet
 ```python
 def enqueue(self, item):
 	self.item.append()
 ```
-
-We can call this function by simply using the line of code 
-
+## code_snippet
 ```python
 Queuename1.enqueue(Item1)
 ```
 
-### Removing an Item
+# Queue Manipulation Step 2
+
+## name
+```
+Removing an Item
+```
+
+## md_content
+```
 
 To remove an item from a queue, we also need to write a function. 
-
+```
+## code_snippet
 ```python
 def dequeue(self, item):
     return self.items.dequeue()
 ```
+# Queue Manipulation Step 3
 
-### To view a queue
+## name
+```
+To view a queue
+```
+
+## md_content
+```
 
 The function we write to do this will be a for loop that prints out every element in our queue.
+```
 
+## code_snippet
 ```python
 for i in range (len(self.queue)):
 	print (self.queue[i])
