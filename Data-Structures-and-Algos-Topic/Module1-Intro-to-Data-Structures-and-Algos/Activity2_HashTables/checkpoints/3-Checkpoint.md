@@ -9,3 +9,4 @@ Explain what is a hash table; how it is implemented, what makes a good hashing m
 
 # Type
 Short Answer
+ 

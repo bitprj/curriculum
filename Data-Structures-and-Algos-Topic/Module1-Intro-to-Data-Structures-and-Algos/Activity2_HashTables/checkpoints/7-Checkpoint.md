@@ -9,3 +9,4 @@ Explain the process of inserting a new key through Open Addressing and Separate 
 
 # Type 
 Short Answer 
+ 
