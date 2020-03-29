@@ -7,6 +7,6 @@ Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activ
 # instruction 
 Explain the process of inserting a new key through Open Addressing and Separate chaining. How are they different? What causes collisions, and how do these methods prevent them?
 
-# type 
+# checkpoint_type 
 Short Answer 
  
