@@ -1,3 +1,6 @@
+# github_id
+4
+
 # name
 Stacks
 
@@ -14,7 +17,7 @@ Easy
 <img src="images/stacks.png">
 
 # image_folder
-Data-Structures-and-Algos-Topic/Module4.1_Intro_to_Data_Structures_and_Algos/Activity4_Stacks/
+Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activity4_Stacks/
 
 # cards
  
