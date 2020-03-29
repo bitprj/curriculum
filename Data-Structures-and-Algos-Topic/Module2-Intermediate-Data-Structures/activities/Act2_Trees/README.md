@@ -14,10 +14,10 @@ Students will learn about the tree data structure and different types of trees.
 Easy
 
 # image
-![Tree](Act2_Images/Trees.jpg)
+<img src="../images/Trees.jpg">
 
 # image_folder
-/Module4.2_Intermediate_Data_Structures/activities/
+/Module4.2_Intermediate_Data_Structures/activities/Act2_Trees/images
 
 # folder_path
 /Module4.2_Intermediate_Data_Structures/activities/Act2_Trees
@@ -120,6 +120,50 @@ Real Life Application of Binary Search Tree
 
 ### order
 9
+
+### gems
+300
+
+## 10
+
+### name
+leetcode question
+
+### order
+10
+
+### gems
+300
+
+## 11
+
+### name
+leetcode starter code
+
+### order
+11
+
+### gems
+300
+
+## 12
+
+### name
+leetcode test case
+
+### order
+12
+
+### gems
+300
+
+## 13
+
+### name
+leetcode solution
+
+### order
+13
 
 ### gems
 300
