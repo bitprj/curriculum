@@ -14,4 +14,4 @@ This module will introduce students to the basics of Data Structures and algorit
 <img src="images/DataStructures.jpg">
 
 # image_folder
-/Module4.1_Intro_to_Data_Structures_and_Algos/Images/
+Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/
