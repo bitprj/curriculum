@@ -10,7 +10,7 @@ Learn about the different rates at which algorithm's memory usage and runtime in
 
 # Criteria
 
--Know what Time Complexity is, and the different rates of growth a function can have.
+-Know what Time Complexity is and the different rates of growth a function can have.
 
 -What is Space Complexity? If one has to choose, what is of higher priority: space or time? Why?
 

@@ -8,7 +8,7 @@
  multiple choice
 
  # instruction
- Select the correct time complexity for the given codes 
+ Select the correct time complexity for the given codes. 
 
  ```python
  print("Fibonacci sequence:")

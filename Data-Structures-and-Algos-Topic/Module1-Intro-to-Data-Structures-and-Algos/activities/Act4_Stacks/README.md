@@ -2,7 +2,7 @@
 
 # Long Summary
 
-Learn about stacks and how to implement them in Python. Then use stacks to solve a fun mathematical puzzle!
+Learn about stacks and how to implement them in Python. Then, use stacks to solve a fun mathematical puzzle!
 
 # Short Summary
 

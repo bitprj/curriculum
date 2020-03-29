@@ -1,6 +1,6 @@
 # name
 
- Big-o , Big Theta and Big Omega
+ Big-O , Big Theta, and Big Omega
 
  # cards_folder
 
@@ -12,6 +12,6 @@
 
  # instruction
 
- Answer the following question in a few lines
+ Answer the following question in a few lines.
 
- Differentiate between Big O and Big Theta? What is their pourpose?
+ Differentiate between Big O and Big Theta? What is their purpose?
