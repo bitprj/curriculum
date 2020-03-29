@@ -1,18 +1,17 @@
 # github_id
 1
-    
+
 # name
-Data Structures and Algorithms Topic
+Module 4.1 Intro to Data Structures and Algorithms 
 
 # description
-Students will learn data structures and algorithms through concepts such as time and space complexity,
-stacks, hashtables, linked lists, trees, sorting, and more.
+This module will introduce students to the basics of Data Structures and algorithms. Specifically, time and space complexity, stacks, queues, and hash tables. 
+
+# gems_needed
+0
 
 # image
-<img src="/Module4.1_Intro_to_Data_Structures_and_Algos/Images/topic.png">
-    
+<img src="images/DataStructures.jpg">
+
 # image_folder
 /Module4.1_Intro_to_Data_Structures_and_Algos/Images/
-    
-# modules
-* 3
