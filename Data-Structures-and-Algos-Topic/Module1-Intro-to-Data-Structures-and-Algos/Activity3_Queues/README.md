@@ -17,7 +17,7 @@ Easy
 <img src="images/Queue.jpg">
 
 # image_folder
-Data-Structures-and-Algos-Topic/Module4.1_Intro_to_Data_Structures_and_Algos/Activity3_Queues/
+Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activity3_Queues/
 
 # cards
  
