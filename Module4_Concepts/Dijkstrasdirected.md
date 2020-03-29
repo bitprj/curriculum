@@ -6,7 +6,7 @@ Dijkstra's Algorithm solves one of the more common questions in computer science
 init lists Disc, Dist, and P, each of lenght |V|
 for each v in V:
 	Disc[v]=false
-	Disc[v]=infinity
+	Dist[v]=infinity
 	P[v]=NULL
 Dist[s]=0
 P[s]=None
