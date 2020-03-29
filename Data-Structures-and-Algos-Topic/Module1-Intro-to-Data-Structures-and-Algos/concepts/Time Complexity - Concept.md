@@ -1,14 +1,34 @@
 <!--title={Time Complexity}-->
 
-# Time Complexity
+# Concept_name
 
+Time Complexity
+
+# Time complexity Step 1 
+
+## name
+```
+What is time complexity?
+```
+
+## md_content 
+
+```
 Time Complexity boils down to the rate the runtime of a function increases as the input gets very large. 
 
 Functions and algorithms can increase in a variety of different "times" and its important to know what each time represents. 
 
-To determine the time function grows in, we look at each individual line and approximate how the increase in runtime as input increases. 
+To determine the time function grows in, we look at each individual line and approximate how the increase in runtime as input increases. Looking at a function
+```
 
-## Looking at a function
+# Time complexity Step 2
+
+## name
+```
+Determining time complexity 
+```
+
+## code_snippet 
 
 ``` python
 class_grade = [80, 73, 20, 45, 100]
@@ -25,33 +45,60 @@ def GradeAverage(class_grade):
 
 ```
 
+## md_content 
+
+```
 To calculate the time, break the code by lines.
 
+```
+## code_snippet 
 ```python
 average = 0     
 count = 0
 ```
 
-Both these lines will take a constant amount of time: *c~1~* and *c~2~* respectively. 
+## md_content 
 
+```
+Both these lines will take a constant amount of time: *c~1~* and *c~2~* respectively. 
+```
+
+## code_snippet 
 ```python
 average = average + i
 count = count + 1
 ```
 
-These lines also take a constant amount of time: *c~3~* and *c~4~* respectively. However, they repeat *n* amount of times so the runtime of these lines would be *n* * *c~3~* and *n* * *c~4~*. 
+## md_content 
 
-``` python
-average = average / count 
-return average
+```
+These lines also take a constant amount of time: *c~3~* and *c~4~* respectively. However, they repeat *n* amount of times so the runtime of these lines would be *n* * *c~3~* and *n* * *c~4~*. 
 ```
 
+## code_snippet 
+​``` python
+average = average / count 
+return average
+​```
+
+## md_content 
+
+```
  These lines take a constant amount of time *c~5~* and *c~6~*. 
 
 When looking for time complexity, the fastest growing term determines the time the function grows in. For our function `AverageGrade` , it would run in linear time because the runtime of a function increases as n increases. 
+```
 
-### Big - O Notation
+# Time complexity Step 3 
 
+## name 
+```
+Big - O Notation
+```
+
+## md_content 
+
+```
 We use Big-O notation to express the time a function grows in. 
 
 * A function that grows in a *constant time* doesn't grow at all. A graph of its runtime vs input size would be a straight, constant line. 
@@ -66,7 +113,20 @@ We use Big-O notation to express the time a function grows in.
 | Quadratic Time   | O(n^2^))       |
 | Factorial Time   | O(n!)          |
 
+
+```
+
+# Time complexity Step 4
+
+## name
+```
+Importance of time complexity 
+```
+
+## md_content  
+
+```
 Time Complexity is very important when it comes to functions because it allows us to measure how fast a function will grow. Its important to understand what each specific time represents and which time is faster than others (the chart above goes from fastest to slowest from top to bottom) as it allows us to understand the speed with which our function performs as input size gets very large. Ideally, we would like our functions to be as fast as possible and we can only understand relative by speed by recognizing the different time complexities!
 
 **Time Complexity does not tell us the runtime of a function!! Calculating the runtime of a function is much harder because we have to consider hardware, IDE, etc**.
-
+```
