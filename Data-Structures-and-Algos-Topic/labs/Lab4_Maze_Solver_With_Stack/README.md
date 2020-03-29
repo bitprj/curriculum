@@ -1,5 +1,5 @@
 # github_id
-5
+14
 
 # name
 Maze Solver with Stack
@@ -17,7 +17,7 @@ Medium
 <img src="./Cards/Images/img9.jpeg" alt="maze"/>
 
 # image_folder
-curriculum/Module4_Labs/Lab4_Maze_Solver_With_Stack/Cards/Images
+/Data-Structures-and-Algos-Topic/labs/Lab4_Maze_Solver_With_Stack/Cards/Images
 
 # cards
 
