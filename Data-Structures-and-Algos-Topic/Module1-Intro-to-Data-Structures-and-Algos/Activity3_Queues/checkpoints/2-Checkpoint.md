@@ -7,5 +7,5 @@ Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activ
 # instruction 
 Name and explain the function(s) typically implemented for a queue. Explain what the function(s) represent(s) in the Starbucks line example.
 
-# checkpoint_ype
+# checkpoint_type
 Short Answer
