@@ -24,7 +24,7 @@ Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activ
 ## 1
 
 ### name
-Queues
+Queues in General
 
 ### order
 1 
@@ -46,7 +46,7 @@ Implementing a Queue
 ## 3
 
 ### name
-Dequeue Implementation
+Dequeue Library Implementation
 
 ### order
 3
@@ -57,7 +57,7 @@ Dequeue Implementation
 ## 4
 
 ### name
-Example with a Queue
+Real-Life Example with a Queue
 
 ### order
 4
@@ -75,3 +75,15 @@ Interview Question with a Queue
 
 ### gems
 15
+
+## 6
+
+### name
+Interview Question with a Queue - Answer
+
+### order
+6
+
+### gems
+15
+
