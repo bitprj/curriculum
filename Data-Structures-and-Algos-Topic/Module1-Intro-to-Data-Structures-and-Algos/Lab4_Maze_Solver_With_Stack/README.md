@@ -32,8 +32,6 @@ Maze Solver with Stack
 ### gems
 100
 
-### concepts
-
 
 ## 2
 
@@ -46,9 +44,6 @@ Load File as Map
 ### gems
 100
 
-### concepts
-
-
 ## 3
 
 ### name
@@ -60,10 +55,7 @@ Print Grid
 ### gems
 100
 
-### concepts
-
-
-## 4
+s## 4
 
 ### name
 Maze Solver
@@ -73,8 +65,6 @@ Maze Solver
 
 ### gems
 100
-
-### concepts
 
 
 ## 5
@@ -88,8 +78,6 @@ Move Cursor: gotoxy()
 ### gems
 100
 
-### concepts
-
 
 ## 6
 
@@ -101,9 +89,6 @@ main()
 
 ### gems
 100
-
-### concepts
-
 
 ## 1-1
 
