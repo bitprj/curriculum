@@ -26,3 +26,14 @@ Dict['a'] # which is equivalent to accessing the value 2
 
 This kind of indexing is not possible in lists. It's useful for quick retrieval or checking whether a key exists or not, or what's the corresponding value. The same operation in a list would involve a linear search of the complete list in worst case thus making a list inefficient for this kind of operations.
 
+---
+
+This is a table comparing the time and space complexities of lists and dictionaries for different functions:
+
+| Data Structure: | Time Complexity for Storing Elements: | Space Complexity for Storing Elements: | Time Complexity for Retrieving Elements: | Space Complexity for Retrieving Elements: |
+| --------------- | ------------------------------------- | -------------------------------------- | ---------------------------------------- | ----------------------------------------- |
+| List            | O(n)                                  | O(n)                                   | O(n)                                     | O(n)                                      |
+| Dictionary      | O(n)                                  | O(n)                                   | O(1)                                     | O(n)                                      |
+
+
+

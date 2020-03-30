@@ -22,3 +22,7 @@ Pick the vertex with minimum distance value and not already included in SPT (not
 We repeat the above steps until *sptSet* does include all vertices of given graph. Finally, we get the following Shortest Path Tree (SPT).
 
 [![Fig-1](https://www.geeksforgeeks.org/wp-content/uploads/DIJ5.jpg)](https://www.geeksforgeeks.org/wp-content/uploads/DIJ5.jpg)
+
+---
+
+Keep in mind that Dijkstra's algorithm can also be used on directed graphs as well! In regard to directed graphs, be sure to pay attention to the direction of the edges and realize that the shortest path that you looking for cannot go against the direction of the edges it consists of.

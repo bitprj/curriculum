@@ -12,15 +12,17 @@ If we trace the numbers in the visual aide, from 1-12, we get a good sense of id
 
 1. Choose one route and continue down that route until a dead end is reached. 
 
-   Circle 1 -> to Circle 2 -> to Circle 3 -> Circle 4 -> Deadend.
+   Circle 1 -> to Circle 2 -> to Circle 3 -> Circle 4
 
 2. Once a dead end is reached, we backtrack to previous nodes until we find another path not yet explored. 
 
    Circle 4 -> to Circle 3 
 
-3. We continue down that new path until a dead end is reached. Circle 3 -> Circle 5 -> Deadend.
+3. We continue down that new path. 
 
-4. Once a deadend is reached, we backtrack to the next available path. 
+   Circle 3 -> Circle 5 
+
+4. Then, we backtrack to the next available path. 
 
    Circle 5 -> Circle 3 -> Circle 2
 
@@ -98,3 +100,8 @@ g.DFS(2)
 # This code is contributed by Neelam Yadav 
 ```
 
+---
+
+The time complexity of DFS is O(N^M), if N is the number of nodes in a tree and M is the maximum depth of the tree.
+
+The space complexity of DFS is O(NM) because we have N nodes at the maximum depth M and (N-1) nodes at earlier depths (M-1). To find the space used, we find the total, which would be N + (M-1)*(N-1) = NM.

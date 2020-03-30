@@ -18,13 +18,13 @@ def search(self, data):
     return current
 ```
 
-
+---
 
 ###Search an element in a Linked List (Iterative and Recursive)
 
 Write a function that searches a given key ‘x’ in a given singly linked list. The function should return true if x is present in linked list and false otherwise.
 
-```
+```python
    bool search(Node *head, int x) 
 ```
 
@@ -33,9 +33,20 @@ For example, if the key to be searched is 15 and linked list is 14->21->11->30->
 **Iterative Solution**
 
 ```
-2) Initialize a node pointer, current = head.
-3) Do following while current is not NULL
+1) Initialize a node pointer, current = head.
+2) Do following while current is not NULL
     a) current->key is equal to the key being searched return true.
     b) current = current->next
-4) Return false 
+3) Return false 
 ```
+
+**Recursive Solution**
+
+Keep in mind that this method is not as commonly used as the Iterative Solution.
+
+```
+1) If head is NULL, return false.
+2) If head's key is same as x, return true;
+2) Else return search(head->next, x) 
+```
+
