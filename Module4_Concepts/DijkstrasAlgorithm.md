@@ -2,7 +2,7 @@
 
 Dijkstra's algorithm is a single-sourced shortest path algorithm. This means that it is an algorithm used to find the shortest path from node a to another node somwehere in the graph that we can call as node b. It picks the unvisited vertex with the lowest distance, calculates the distance through it to each unvisited neighbor, and updates the neighbor's distance if smaller. It was conceived by computer scientist, Edsger W. Dijkstra, in 1956 and published three years later.
 
-```
+```python
 for each v in V:
 	Disc[v]=false
 	Dist[v]=infinity
