@@ -75,3 +75,14 @@ Tower of Hanobi Implementation
 
 ### gems
 20
+
+## 6
+
+### name
+Stacks Interview Questions
+
+### order
+6
+
+### gems
+20
