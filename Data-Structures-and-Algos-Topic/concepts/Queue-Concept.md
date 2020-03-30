@@ -1,7 +1,7 @@
 # concept_name
 Queue General
 
-# concept_name Step 1
+# Queue Step 1
 
 ## name
 ```
@@ -16,7 +16,7 @@ You can think of a queue data structure as similar to a queue (i.e. a line) for 
 
 As we will see, queues are used in many algorithms and for the implementation of functions for many data structures. For example, queues are used in graph (another important data structure) algorithms such as Breadth-First Search.
 ```
-# concept_name Step 2
+# Queue Step 2
 
 ## name
 ```
@@ -37,7 +37,7 @@ class Queue():
         self.items = []
 ```
 
-# concept_name Step 3
+# Queue Step 3
 
 ## name
 ```

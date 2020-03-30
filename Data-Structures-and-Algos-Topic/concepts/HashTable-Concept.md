@@ -1,6 +1,5 @@
-<!--title={HashTable Concept}-->
 # concept_name
- Hash Tables
+Hash Tables
  
 # Hash Tables Step 1
 

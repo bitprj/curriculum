@@ -1,4 +1,3 @@
-<!--title={Time Complexity}-->
 
 # Concept_name
 

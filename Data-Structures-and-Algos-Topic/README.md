@@ -1,6 +1,6 @@
 # github_id
 1
-    
+
 # name
 Data Structures and Algorithms Topic
 
@@ -9,10 +9,10 @@ Students will learn data structures and algorithms through concepts such as time
 stacks, hashtables, linked lists, trees, sorting, and more.
 
 # image
-<img src="/Module4.1_Intro_to_Data_Structures_and_Algos/Images/topic.png">
+<img src="images/topic.png">
     
 # image_folder
-/Module4.1_Intro_to_Data_Structures_and_Algos/Images/
+Data-Structures-and-Algos-Topic/
     
 # modules
-* 3
+* 1
