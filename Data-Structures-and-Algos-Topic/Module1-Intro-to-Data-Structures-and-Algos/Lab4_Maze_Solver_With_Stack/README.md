@@ -55,7 +55,7 @@ Print Grid
 ### gems
 100
 
-s## 4
+## 4
 
 ### name
 Maze Solver
