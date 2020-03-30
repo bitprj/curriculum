@@ -30,4 +30,4 @@ This kind of indexing is not possible in lists. It's useful for quick retrieval 
 
 This is a table comparing the time and space complexities of lists and dictionaries for different functions:
 
-![complexities chart](Images/complexities chart.jpg)
+<img src="Images/complexities chart.jpg" alt="complexities chart" style="zoom:100%">
