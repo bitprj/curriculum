@@ -17,7 +17,7 @@ Medium
 <img src="images/img9.jpeg" alt="maze"/>
 
 # image_folder
-/Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Lab4_Maze_Solver_With_Stack/images/
+Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Lab4_Maze_Solver_With_Stack/images/
 
 # cards
 
