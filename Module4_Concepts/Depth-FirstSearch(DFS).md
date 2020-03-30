@@ -6,9 +6,9 @@ Depth-First Search(DFS) is one of our data searching algorithms we use in Python
 
 ![]( https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Depth-first-tree.svg/450px-Depth-first-tree.svg.png)
 
-DFS starts at a root point and branches on from that point. DFS continues down one path as far as possible before backtracking to the root point and taking an alternate path. 
+DFS starts at a root node and branches on from that node. DFS continues down one path as far as possible before backtracking to the root node and taking an alternate path. 
 
-If we trace the numbers in the visual aide, from 1-12, we get a good sense of idea of how DFS can navigates data and graphs. 
+If we trace the numbers in the visual aide, from 1-12, we can get a good sense of how DFS can navigates data and graphs. 
 
 1. Choose one route and continue down that route until a dead end is reached. 
 
@@ -32,7 +32,7 @@ If we trace the numbers in the visual aide, from 1-12, we get a good sense of id
 
 To explain it in terms of python, we follow these rules.
 
-- **Rule 1** − Visit the adjacent unvisited vertex. Mark it as visited. Display it. Push it in a stack.
+- **Rule 1** − Visit the adjacent unvisited vertex. Mark it as visited. Display it. Push it in a stack. (DFS explores as far it can before backtracking, and a stack works best for DFS because it is a LIFO, or last-in-first-out, data structure.)
 - **Rule 2** − If no adjacent vertex is found, pop up a vertex from the stack. (It will pop up all the vertices from the stack, which do not have adjacent vertices.)
 - **Rule 3** − Repeat Rule 1 and Rule 2 until the stack is empty.
 
@@ -102,6 +102,6 @@ g.DFS(2)
 
 ---
 
-The time complexity of DFS is O(N^M), if N is the number of nodes in a tree and M is the maximum depth of the tree.
+The time complexity of DFS is O(V+E), in which V is the number of vertices/nodes and E is the number of edges in the graph.
 
-The space complexity of DFS is O(NM) because we have N nodes at the maximum depth M and (N-1) nodes at earlier depths (M-1). To find the space used, we find the total, which would be N + (M-1)*(N-1) = NM.
+The space complexity of DFS is O(1) is the size of the stack is not considered (auxiliary space complexity), but otherwise, the space complexity is O(n).

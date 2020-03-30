@@ -30,10 +30,4 @@ This kind of indexing is not possible in lists. It's useful for quick retrieval 
 
 This is a table comparing the time and space complexities of lists and dictionaries for different functions:
 
-| Data Structure: | Time Complexity for Storing Elements: | Space Complexity for Storing Elements: | Time Complexity for Retrieving Elements: | Space Complexity for Retrieving Elements: |
-| --------------- | ------------------------------------- | -------------------------------------- | ---------------------------------------- | ----------------------------------------- |
-| List            | O(n)                                  | O(n)                                   | O(n)                                     | O(n)                                      |
-| Dictionary      | O(n)                                  | O(n)                                   | O(1)                                     | O(n)                                      |
-
-
-
+![complexities chart](complexities chart.jpg)
