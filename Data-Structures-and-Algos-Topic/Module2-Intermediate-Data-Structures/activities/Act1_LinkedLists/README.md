@@ -7,21 +7,21 @@
 Linked Lists
 
 # description
-Students will learn about the essential data structure linked lists. They will learn the critical operations that will allow them to interact with linked lists. At the end, they will be given a scenario in which linked lists can be implemented.
+Students will learn about the essential data structure Linked Lists. They will learn the critical operations that will allow them to interact with Linked Lists. At the end, they will be given a scenario in which Linked Lists can be implemented.
 
 # summary
 
-Students will learn about the linked list data structure.
+Students will learn about the Linked List data structure.
 
 # difficulty
 Easy
 
 # image
-![Links](../Act1_Images/chain_link.jpeg)
+<img src="./images/chain_link.jpeg" style="zoom:50%;" />
 
 # image_folder
 
-\Module4.2_Intermediate_Data_Structures\activities\Act1_Images
+\Module4.2_Intermediate_Data_Structures\activities\Act1_LinkedLists\images
 
 # folder_path
 
@@ -122,6 +122,62 @@ Linked Lists Example: Movie Times
 ### order
 
 7
+
+### gems
+
+300
+
+## 8
+
+### name
+
+Leetcode Question: Add Two Numbers
+
+### order
+
+8
+
+### gems
+
+300
+
+## 9
+
+### name
+
+Add Two Numbers: The Intuition
+
+### order
+
+9
+
+### gems
+
+300
+
+## 10
+
+### name
+
+Add Two Numbers: The Algorithm
+
+### order
+
+10
+
+### gems
+
+300
+
+## 11
+
+### name
+
+Add Two Numbers: The Code
+
+### order
+
+11
 
 ### gems
 
