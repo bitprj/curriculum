@@ -1,2 +1,0 @@
-# Cracking the Interview
-

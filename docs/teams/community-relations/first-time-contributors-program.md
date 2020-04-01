@@ -1,2 +1,0 @@
-# First Time Contributors Program
-

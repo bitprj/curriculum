@@ -1,3 +1,0 @@
-# Blockchain
-
-Intro to Blockchain

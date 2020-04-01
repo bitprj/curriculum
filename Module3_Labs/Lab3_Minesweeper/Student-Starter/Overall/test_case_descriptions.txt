@@ -1,0 +1,9 @@
+Note that these test cases should be handled in order, they scale up in difficulty.
+
+Test Case 1 (test_case_1.py): instant loss
+Test Case 2 (test_case_2.py): Just flagging followed by instant loss
+Test Case 3 (test_case_3.py): Trying to show already visible cells - should have no effect - then instant loss
+Test Case 4 (test_case_4.py): Testing invalid input and help case - should have no effect on the board - then instant loss
+Test Case 5 (test_case_5.py): Flagging more than maximum number of mines and showing flagged tiles, followed by instant loss
+Test Case 6 (test_case_6.py): Just showing cells, eventual loss
+Test Case 7 (test_case_7.py): Showing and flagging cells en route to a victory.

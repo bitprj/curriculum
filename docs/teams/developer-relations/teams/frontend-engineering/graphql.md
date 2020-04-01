@@ -1,6 +1,0 @@
----
-description: Insert Labs
----
-
-# GraphQL
-

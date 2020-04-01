@@ -1,2 +1,0 @@
-# Mission Statement
-
