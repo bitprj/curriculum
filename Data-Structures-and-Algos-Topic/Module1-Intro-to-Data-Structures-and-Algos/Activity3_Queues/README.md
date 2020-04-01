@@ -1,5 +1,5 @@
 # github_id
-1
+3
 
 # name
 Queues
@@ -17,14 +17,14 @@ Easy
 <img src="images/Queue.jpg">
 
 # image_folder
-Data-Structures-and-Algos-Topic/Module4.1_Intro_to_Data_Structures_and_Algos/Activity3_Queues/
+Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activity3_Queues/
 
 # cards
  
 ## 1
 
 ### name
-Queues
+Queues in General
 
 ### order
 1 
@@ -46,7 +46,7 @@ Implementing a Queue
 ## 3
 
 ### name
-Dequeue Implementation
+Dequeue Library Implementation
 
 ### order
 3
@@ -57,7 +57,7 @@ Dequeue Implementation
 ## 4
 
 ### name
-Example with a Queue
+Real-Life Example with a Queue
 
 ### order
 4
@@ -75,3 +75,15 @@ Interview Question with a Queue
 
 ### gems
 15
+
+## 6
+
+### name
+Interview Question with a Queue - Answer
+
+### order
+6
+
+### gems
+15
+

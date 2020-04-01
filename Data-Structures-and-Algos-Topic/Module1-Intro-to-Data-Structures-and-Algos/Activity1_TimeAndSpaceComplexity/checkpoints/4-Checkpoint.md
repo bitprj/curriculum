@@ -32,8 +32,7 @@ quadratic
 linear 
 
 
-
-<!-- ```python
+```python
 def bubbleSort(arr):
     n = len(arr)
 # Traverse through all array elements
@@ -85,4 +84,4 @@ quadratic
 
 # correct choice
 
-constant  -->
+constant 
