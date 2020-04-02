@@ -20,7 +20,7 @@ Easy
 Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activity2_HashTables/
 
 # cards
- 
+
 ## 1
 
 ### name
@@ -119,3 +119,16 @@ Interview Question for Hash Tables
 
 ### gems
 15
+
+## 10
+
+## name
+
+Quadratic proabing 
+
+## order 
+
+10
+
+## gems
+
