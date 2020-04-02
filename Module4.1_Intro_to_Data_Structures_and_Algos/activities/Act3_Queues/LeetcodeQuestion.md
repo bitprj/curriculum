@@ -1,6 +1,6 @@
-Let's take a look at an example problem to demonstrate a use for queues (credit to https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/ for the problem statement).
-
 # Shortest Subarray with Sum at Least K
+
+Let's take a look at an example problem to demonstrate a use for queues (credit to https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/ for the problem statement).
 
 Return the **length** of the shortest, non-empty, contiguous subarray of `A` with sum at least `K`.
 

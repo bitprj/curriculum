@@ -64,3 +64,45 @@ Real-Life Example with a Queue
 
 ### gems
 0
+
+## InterviewQuestion
+
+### name
+
+Find the Shortest Path in a Maze
+
+### order
+
+5
+
+### gems
+
+0
+
+## LeetcodeQuestion
+
+### name
+
+Shortest Subarray with Sum at Least K
+
+### order
+
+6
+
+### gems
+
+0
+
+## LeetcodeSolution
+
+### name
+
+Shortest Subarray with Sum at Least K - Conceptual Solution
+
+### order
+
+7
+
+### gems
+
+0

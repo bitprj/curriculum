@@ -1,0 +1,23 @@
+# Shortest Subarray with Sum at Least K - Conceptual Solution
+
+First, we should create an array (call it `dp`) which holds the sum of the first `i` elements, where `i` is the index of our array. That is, if our input array is `[1, 2, 3, 4]`, `dp` should be `[0, 1, 3, 6, 10]`. Notice that `dp[1]` is 1, `dp[2]` is 1 + 2 = 3, `dp[3]` is 1 + 2 + 3 = 6 and so on.
+
+What else do you notice about the relationship between the elements of `dp`? Notice that if you take `dp[y] - dp[x]`, where `y` and `x` are indices and `y > x`, you obtain the sum of **all** of the elements between the (x+1)<sup>th</sup> and j<sup>th</sup> element of our original input array<sup>1</sup>. Essentially, our goal has transformed from finding the shortest subarray greater than or equal to k in our input array to an equivalent problem of finding the smallest value of `y` - `x` such that `dp[y] - dp[x] >= k`.    
+
+There are a few important points<sup>2</sup> about the `dp` array and our potential solutions:
+
+* Take the case where `x'` < `x''`, BUT `dp[x'']` < `dp[x']`. This basically means there is an inversion in the `dp` array. We can conclude that if `dp[y] - dp[x'] >= K` holds, then `dp[y] - dp[x''] >= K` will also hold. However, the distance between `y` and `x''` is smaller than the distance between `y` and `x'`, so the former is a better solution for our problem.
+* After going through all the indices we need when trying to find the smallest distance between a left index (`x`) and a certain `y` such that `dp[y] - dp[x] >= k`,  once this smallest distance is obtained, this left index (`x`) is useless to factor into any other distance calculation. This is because if we take a greater right index (`y`), the distance between our left index (`x`) and right index (`y`) will only increase.
+
+In order to code this, we are going to need a queue. We should declare an instance of a `deque`. It is important, as we will later see, that this is a `deque` and not a `Queue` from our custom class as we want to do operations at both the beginning and the end of the queue. This deque will store the indices of `dp` , ensuring that the values in `dp` associated with each index (`dp[index]`) are increasing left to right.
+
+How would you apply the above two bullet points to the deque? 
+
+* We want our indices in the deque ordered so that their respective values in `dp` are increasing. So, when we append (to the right) a right index (`y`) to the deque, we should remove all the indices for which their associated `dp` value is greater than `dp[y]`.
+* When we find a left index (`x'`) for which `dp[y] - dp[x'] >= K` , we can safely ignore `x'` for future calculations. This means we can remove `x'` from our deque!
+
+<hr/>
+
+<sup>1 </sup> credit to https://www.youtube.com/watch?v=_JDpJXzTGbs for pointing out this relationship and for much of the explanation in this paragraph and above
+
+<sup>2</sup> credit to https://leetcode.com/articles/shortest-subarray-with-sum-atleast-k/ for the rest of the explanation given in this document
