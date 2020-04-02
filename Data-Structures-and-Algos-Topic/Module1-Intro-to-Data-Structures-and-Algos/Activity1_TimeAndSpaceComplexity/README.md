@@ -1,26 +1,26 @@
 # github_id
 1
 
-# name
+# Name
 Time and Space Complexity 
 
-# description
+# Description
 Learn about the different rates at which algorithm's memory usage and runtime increase
 
-# summary
+# Summary
 Algorithms require an input to run. As the input grows, learn about what happens to the memory usage and space usage. Learn about how to describe this rate.
 
-# difficulty
+# Difficulty
 Easy
 
-# image
+# Image
 <img src="images/Time.jpg">
 
-# image_folder
+# Image_folder
 Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activity1_TimeAndSpaceComplexity/
 
-# cards
- 
+# Cards
+
 ## 1
 
 ### name
