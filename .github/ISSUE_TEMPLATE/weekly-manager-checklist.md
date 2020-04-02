@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-- [ ] Review developers' work and provide a review according to the "First Draft" Pull Request Checklist 
+- [ ] Review developers' work and provide a review for each of your devs' PRs to your branch according to the Pull Request Checklist 
 - [ ] Ensure "first draft" pull requests are in by Friday
 - [ ] "Final draft" pull request to master should be in by Sunday
 - [ ] Generate issues for the project based on feedback received and progress made the week prior
