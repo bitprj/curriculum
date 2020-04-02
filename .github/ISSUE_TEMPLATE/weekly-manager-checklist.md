@@ -16,3 +16,6 @@ assignees: ''
 - [ ] Milestone should be set-up
 - [ ] Adjust long-term plan and epic points for each module epic based on feedback and progress
 - [ ] Adjust timeline in Zenhub Calendar
+
+*Deadline*
+Sunday, ./..
