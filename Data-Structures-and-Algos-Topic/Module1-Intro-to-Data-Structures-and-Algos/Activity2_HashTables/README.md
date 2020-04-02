@@ -122,13 +122,60 @@ Interview Question for Hash Tables
 
 ## 10
 
-## name
+### name
 
 Quadratic proabing 
 
-## order 
+### order 
 
 10
 
-## gems
+### gems
 
+15
+
+## 11
+
+### name
+
+double hashing 
+
+### order 
+
+11
+
+### gems
+
+15
+
+## 12
+
+### name
+
+Hash tables in python
+
+### order 
+
+12
+
+### gems
+
+15
+
+## 13
+
+### name
+
+Hash table interview question
+
+### order 
+
+13
+
+### gems
+
+15
+
+
+
+Ss
