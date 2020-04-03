@@ -2,7 +2,6 @@
 1
 
 # name
-
 Intro to Data Structures and Algorithms 
 
 # description
