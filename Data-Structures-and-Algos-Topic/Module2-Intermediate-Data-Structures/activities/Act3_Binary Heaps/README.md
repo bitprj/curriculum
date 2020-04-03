@@ -9,6 +9,9 @@ This activity will teach students about the Binary Heap data structure.
 =======
 # Long Summary
 Students will learn about the binary heap data structure. They will explore the different operations that can be performed on a binary heap. They will also learn how to build a binary heap given a set of keys.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 # summary
