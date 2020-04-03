@@ -127,7 +127,7 @@ Real Life Application of Binary Search Tree
 ## 10
 
 ### name
-leetcode question
+Interview question
 
 ### order
 10
@@ -138,7 +138,7 @@ leetcode question
 ## 11
 
 ### name
-leetcode starter code
+Interview starter code
 
 ### order
 11
@@ -149,7 +149,7 @@ leetcode starter code
 ## 12
 
 ### name
-leetcode test case
+Interview test case
 
 ### order
 12
@@ -160,7 +160,7 @@ leetcode test case
 ## 13
 
 ### name
-leetcode solution
+Interview solution
 
 ### order
 13
