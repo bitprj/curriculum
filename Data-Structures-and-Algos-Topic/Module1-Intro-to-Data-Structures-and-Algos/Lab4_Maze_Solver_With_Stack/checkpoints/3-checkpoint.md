@@ -14,4 +14,4 @@ Please submit your code for `loadFile` function, `printGrid` function, and `Stac
 main.py
 
 # test_file_location
-/Data-Structures-and-Algos-Topic/labs/Lab4_Maze_Solver_With_Stack//tests/check1_test
+/Data-Structures-and-Algos-Topic/labs/Lab4_Maze_Solver_With_Stack/tests/check1_test
