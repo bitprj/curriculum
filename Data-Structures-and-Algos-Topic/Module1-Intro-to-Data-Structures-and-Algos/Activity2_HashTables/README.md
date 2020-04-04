@@ -9,7 +9,7 @@ Learn about the basics of Dictionaries and Hash Tables
 
 # summary
 Learn about hash Tables and how to use Hash Functions. Also learn about the implementation of Hash functions in Python by using dictionaries. The usage and implementation of Dictionaries in Python is then explained.
-
+ 
 # difficulty
 Easy
 
