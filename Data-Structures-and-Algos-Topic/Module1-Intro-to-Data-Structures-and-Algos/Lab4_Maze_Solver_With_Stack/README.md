@@ -30,7 +30,7 @@ Maze Solver with Stack
 1
 
 ### gems
-100
+70
 
 
 ## 2
@@ -42,7 +42,7 @@ Load File as Map
 2
 
 ### gems
-100
+60
 
 ## 3
 
@@ -53,7 +53,7 @@ Print Grid
 3
 
 ### gems
-100
+30
 
 ## 4
 
@@ -64,7 +64,7 @@ Maze Solver
 4
 
 ### gems
-100
+150
 
 
 ## 5
@@ -88,7 +88,7 @@ main()
 6
 
 ### gems
-100
+50
 
 ## 1-1
 
@@ -99,7 +99,7 @@ __init__ and push
 1
 
 ### gems
-10
+7
 
 ## 1-2
 
@@ -110,7 +110,7 @@ Pop and Top
 2
 
 ### gems
-10
+7
 
 ## 1-3
 
@@ -121,7 +121,7 @@ isFull() & isEmpty()
 3
 
 ### gems
-10
+7
 
 ## 2-1
 
@@ -132,7 +132,7 @@ Initialize 2D Array
 1
 
 ### gems
-10
+9
 
 ## 2-2
 
@@ -143,7 +143,7 @@ Write File to Array
 2
 
 ### gems
-10
+9
 
 ## 3-1
 
@@ -154,7 +154,7 @@ Print Grid
 1
 
 ### gems
-10
+9
 
 ## 4-1
 
@@ -165,7 +165,7 @@ Starting with a While Loop
 1
 
 ### gems
-10
+12
 
 ## 4-2
 
@@ -176,7 +176,7 @@ Dead End
 2
 
 ### gems
-10
+12
 
 ## 4-3
 
@@ -187,7 +187,7 @@ Four Directions
 3
 
 ### gems
-10
+12
 
 ## 5-1
 
@@ -198,7 +198,7 @@ Move Cursor
 1
 
 ### gems
-10
+30
 
 ## 6-1
 
@@ -209,7 +209,7 @@ Main
 1
 
 ### gems
-10
+15
 
 ## 1-1-1
 
@@ -220,7 +220,7 @@ __init__ and Push
 1
 
 ### gems
-10
+14
 
 ## 1-2-1
 
@@ -231,7 +231,7 @@ Class Variable, Class Method, Stack Manipulation
 1
 
 ### gems
-10
+14
 
 ## 1-3-1
 
@@ -242,7 +242,7 @@ isFull() & isEmpty()
 1
 
 ### gems
-10
+14
 
 ## 2-1-1
 
@@ -253,7 +253,7 @@ Initialize 2D Array
 1
 
 ### gems
-10
+18
 
 ## 2-2-1
 
@@ -264,7 +264,7 @@ Initialize 2D Array
 1
 
 ### gems
-10
+18
 
 ## 3-1-1
 
@@ -275,7 +275,7 @@ Print Grid
 1
 
 ### gems
-10
+18
 
 ## 4-1-1
 
@@ -286,7 +286,7 @@ While Loop Explained
 1
 
 ### gems
-10
+24
 
 ## 4-2-1
 
@@ -297,7 +297,7 @@ Check Dead End
 1
 
 ### gems
-10
+24
 
 ## 4-2-2
 
@@ -308,7 +308,7 @@ Check Dead End Explained
 2
 
 ### gems
-10
+24
 
 ## 4-3-1
 
@@ -319,7 +319,7 @@ Four Directions Explained
 1
 
 ### gems
-10
+24
 
 ## 5-1-1
 
@@ -330,7 +330,7 @@ Move Cursor
 1
 
 ### gems
-10
+60
 
 ## 6-1-1
 
@@ -341,4 +341,4 @@ Main
 1
 
 ### gems
-10
+30

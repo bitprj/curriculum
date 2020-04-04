@@ -20,7 +20,7 @@ Easy
 Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activity3_Queues/
 
 # cards
- 
+
 ## 1
 
 ### name
@@ -68,22 +68,13 @@ Real-Life Example with a Queue
 ## 5
 
 ### name
-Interview Question with a Queue
+Example with a Queue
 
 ### order
+
 5
 
 ### gems
-15
 
-## 6
-
-### name
-Interview Question with a Queue - Answer
-
-### order
-6
-
-### gems
 15
 
