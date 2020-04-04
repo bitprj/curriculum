@@ -2,10 +2,10 @@
 Graphs
 
 # Long Summary
-Students will learn about graph data structures. They become familiar with different types of graphs that are commonly used. They will then learn popular graph algorithms.
+Students will learn about graph data structures. They will become familiar with different types of commonly used graphs. They will then learn popular graph algorithms.
 
 # Short Summary
-Students will learn about graphs and different ways computer scientists use graphs.
+Students will learn about graphs and different ways computer scientists use them.
 
 # Criteria
 1. What does Dijkstra's algorithm do?

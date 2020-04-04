@@ -20,11 +20,11 @@ Easy
 Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activity3_Queues/
 
 # cards
- 
+
 ## 1
 
 ### name
-Queues
+Queues in General
 
 ### order
 1 
@@ -46,7 +46,7 @@ Implementing a Queue
 ## 3
 
 ### name
-Dequeue Implementation
+Dequeue Library Implementation
 
 ### order
 3
@@ -57,7 +57,7 @@ Dequeue Implementation
 ## 4
 
 ### name
-Example with a Queue
+Real-Life Example with a Queue
 
 ### order
 4
@@ -68,10 +68,13 @@ Example with a Queue
 ## 5
 
 ### name
-Interview Question with a Queue
+Example with a Queue
 
 ### order
+
 5
 
 ### gems
+
 15
+
