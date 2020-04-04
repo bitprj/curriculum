@@ -5,8 +5,8 @@ Run time of "Length of the longest substring without repeating characters"
 curriculum/Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activity2_HashTables/checkpoints/
 
 # instruction
-What is the run time for the "Length of the longest substring without repeating characters" interview question and also explain
-your reasoning behind the run time?
+Find and explain the run time of the algorithm for the "Length of the longest substring without repeating characters" interview question.
+
 
 # checkpoint_type
 Short Answer
