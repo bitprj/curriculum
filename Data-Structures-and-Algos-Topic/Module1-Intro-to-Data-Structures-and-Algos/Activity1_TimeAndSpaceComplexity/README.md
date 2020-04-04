@@ -12,7 +12,7 @@ Algorithms require an input to run. As the input grows, learn about what happens
 
 # difficulty
 Easy
-
+ 
 # image
 <img src="images/Time.jpg">
 
@@ -148,3 +148,4 @@ Example of Space Complexity
 
 ### gems
 15
+ 
