@@ -7,7 +7,15 @@
 Linked Lists
 
 # description
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Students will learn about the essential data structure Linked Lists. They will learn the critical operations that will allow them to interact with Linked Lists. At the end, they will be given a scenario in which Linked Lists can be implemented.
+=======
+Students will learn about essential data structures called linked lists. They will learn the critical operations that allow them to interact with linked lists. At the end, they will be given a scenario in which linked lists can be implemented.
+>>>>>>> Stashed changes
+=======
+Students will learn about essential data structures called linked lists. They will learn the critical operations that allow them to interact with linked lists. At the end, they will be given a scenario in which linked lists can be implemented.
+>>>>>>> Stashed changes
 
 # summary
 
