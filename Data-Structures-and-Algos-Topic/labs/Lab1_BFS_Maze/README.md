@@ -78,7 +78,7 @@ Finding a Path
 
 ### order
 
-3
+4
 
 ### gems
 
@@ -92,7 +92,7 @@ Time and Space Analysis of Breadth First Search
 
 ### order
 
-3
+5
 
 ### gems
 
@@ -120,7 +120,7 @@ Iteration and `findEnd()`
 
 ### order
 
-2
+1
 
 ### gems
 
@@ -162,7 +162,7 @@ Start with Data Structures
 
 ### order
 
-3
+1
 
 ### gems
 
@@ -176,7 +176,7 @@ Popping
 
 ### order
 
-3
+2
 
 ### gems
 
@@ -204,7 +204,7 @@ Actual Searching
 
 ### order
 
-4
+1
 
 ### gems
 

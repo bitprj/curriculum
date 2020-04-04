@@ -59,7 +59,8 @@ Zoologist Explained
 ### name
 Writing Array Explained
 ### order
-2
+1
+
 ### gems
 15
 
@@ -91,7 +92,8 @@ Selection Sort
 ### name
 Zoologist Explained
 ### order
-4
+1
+
 ### gems
 6
 
@@ -115,7 +117,8 @@ Printing Menu Explained
 ### name
 Bubble Sort Explained
 ### order
-3
+1
+
 ### gems
 6
 
@@ -123,7 +126,8 @@ Bubble Sort Explained
 ### name
 Insertion Sort Explained
 ### order 
-4
+1
+
 ### gems
 6
 
@@ -131,6 +135,6 @@ Insertion Sort Explained
 ### name 
 Selection Sorrt Explained
 ### order
-5
+1
 ### gems
 6
