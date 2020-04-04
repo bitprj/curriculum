@@ -15,3 +15,4 @@ This module will introduce students to the basics of Data Structures and algorit
 
 # image_folder
 Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/
+ 
