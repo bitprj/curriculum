@@ -94,7 +94,7 @@ Complete Implementation of MinHeap
 ## 6
 
 ### name
-Leetcode Question
+Interview Question
 
 ### order
 6
