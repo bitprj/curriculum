@@ -8,7 +8,7 @@ Time and Space Complexity
 Learn about the different rates at which algorithm's memory usage and runtime increase
 
 # summary
-Algorithms require an input to run. As the input grows, learn about what happens to the memory usage and space usage. Learn about how to describe this rate.
+Algorithms require an input to run. As the input grows, learn about what happens to the memory usage and space usage. Learn about how to describe this rate. 
 
 # difficulty
 Easy
