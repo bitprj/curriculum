@@ -108,3 +108,43 @@ Space Complexity Interview Question
 
 ### gems
 15
+
+## 9 
+
+### name
+Explaining Big (O)
+
+### order
+9
+
+### gems 
+15
+
+## 10
+
+### name
+Big Omega and Big Theta
+
+### order
+10
+
+### gems
+15
+
+## 11
+Example of Time Complexity: O(log n) 
+
+### order 
+11
+
+### gems 
+15
+
+## 12 
+Example of Space Complexity
+
+### order
+12
+
+### gems
+15

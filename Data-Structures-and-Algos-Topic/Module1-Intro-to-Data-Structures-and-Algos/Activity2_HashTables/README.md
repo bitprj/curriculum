@@ -57,7 +57,7 @@ Hash Functions
 ## 4
 
 ### name
-Collisions 
+Need for a Hash Function 
 
 ### order
 4
@@ -68,7 +68,7 @@ Collisions
 ## 5
 
 ### name
-Separate Chaining
+Hash Collisions
 
 ### order
 5
@@ -79,7 +79,7 @@ Separate Chaining
 ## 6
 
 ### name
-Open Addressing
+Separate Chaining
 
 ### order
 6
@@ -90,7 +90,7 @@ Open Addressing
 ## 7
 
 ### name
-Linear Probing, Quadratic Probing, and Double Hashing
+Open Addressing
 
 ### order
 7
@@ -101,9 +101,10 @@ Linear Probing, Quadratic Probing, and Double Hashing
 ## 8
 
 ### name
-Hash Tables in Python
+Collision Methods
 
 ### order
+
 8
 
 ### gems
@@ -112,9 +113,10 @@ Hash Tables in Python
 ## 9
 
 ### name
-Interview Question for Hash Tables
+Linear Probing
 
 ### order
+
 9
 
 ### gems
@@ -124,7 +126,7 @@ Interview Question for Hash Tables
 
 ### name
 
-Quadratic proabing 
+Quadratic Probing 
 
 ### order 
 
@@ -138,7 +140,7 @@ Quadratic proabing
 
 ### name
 
-double hashing 
+Double Hashing 
 
 ### order 
 
@@ -152,7 +154,7 @@ double hashing
 
 ### name
 
-Hash tables in python
+Hash Tables in Python
 
 ### order 
 
@@ -166,7 +168,7 @@ Hash tables in python
 
 ### name
 
-Hash table interview question
+Interview Question: Hash Tables
 
 ### order 
 
@@ -175,7 +177,3 @@ Hash table interview question
 ### gems
 
 15
-
-
-
-Ss
