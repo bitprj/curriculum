@@ -14,7 +14,7 @@ Let's break down the information line-by-line.
 
 * "Given a maze of the form of a **rectangular matrix**"
   * This is an indicates that the medium of our maze will be a 2D list. Immediately, you should ask yourself
-    * How does this impact the way we move through the maze? Can we move diagonally? Can we wrap around the top? Is there any restriction on where we start from and where we end?
+    * How does this impact the way we move through the maze? Can we move diagonally? Is there any restriction on where we start from and where we end?
 * "develop an algorithm to find the length of the **shortest path** from a given **source to a given destination**."
   * A light bulb should go off when you see the phrase "shortest path" You should ask yourself:
     * What well-known algorithms have I seen in the past that use "shortest path" in their problem statement (hint: famous graph algorithms). What data structures do those algorithms use and will they be any use to me here (they may or may not)?  
