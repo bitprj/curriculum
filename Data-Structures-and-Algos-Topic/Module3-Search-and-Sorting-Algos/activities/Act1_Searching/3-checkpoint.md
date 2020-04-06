@@ -1,5 +1,5 @@
-**Name**: BFS code checkup
+**Name**: BFS Code Check-up
 
-**Instruction**: Take a screenshot of your code and submit it.
+**Instruction**: Submit a screenshot of your code.
 
 **Type**: Image Checkpoint
