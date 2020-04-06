@@ -1,4 +1,4 @@
-# Credit to https://www.techiedelight.com/lee-algorithm-shortest-path-in-a-maze/ for solution and problem.
+# Credit to https://www.techiedelight.com/lee-algorithm-shortest-path-in-a-maze/
 
 # import the deque library
 from collections import deque
