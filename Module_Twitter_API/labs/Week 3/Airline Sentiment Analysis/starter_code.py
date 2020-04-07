@@ -3,6 +3,7 @@ import os
 import tweepy as tw
 import pandas as pd
 import numpy as np
+import datetime
 import matplotlib.pyplot as plt
 from scipy import stats
 from textblob import TextBlob
@@ -23,6 +24,6 @@ search_dict = {"Spirit Airlines": "#spiritairlines","JetBlue": "#jetblue", "Fron
 
 # The date to search from 
 date_since = "This date should be five days from now!"
-d = datetime.datetime.today()
+d = datetime.date.today()
 print(d)
 # Check that the tweepy object is working!
