@@ -8,11 +8,11 @@ Time and Space Complexity
 Learn about the different rates at which algorithm's memory usage and runtime increase
 
 # summary
-Algorithms require an input to run. As the input grows, learn about what happens to the memory usage and space usage. Learn about how to describe this rate.
+Algorithms require an input to run. As the input grows, learn about what happens to the memory usage and space usage. Learn about how to describe this rate. 
 
 # difficulty
 Easy
-
+ 
 # image
 <img src="images/Time.jpg">
 
@@ -20,7 +20,7 @@ Easy
 Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activity1_TimeAndSpaceComplexity/
 
 # cards
- 
+
 ## 1
 
 ### name
@@ -108,3 +108,44 @@ Space Complexity Interview Question
 
 ### gems
 15
+
+## 9 
+
+### name
+Explaining Big (O)
+
+### order
+9
+
+### gems 
+15
+
+## 10
+
+### name
+Big Omega and Big Theta
+
+### order
+10
+
+### gems
+15
+
+## 11
+Example of Time Complexity: O(log n) 
+
+### order 
+11
+
+### gems 
+15
+
+## 12 
+Example of Space Complexity
+
+### order
+12
+
+### gems
+15
+ 

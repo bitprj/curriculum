@@ -1,0 +1,96 @@
+# concept_name
+Big O Notation
+
+# Big O Notation Step 1
+
+## name
+```
+How to determine Big O notation for a function
+```
+
+## md_content
+```
+# Big O Notation
+
+These are three important terms that are associated with Time and Space Complexity. Big O notation allows us to express the rate of growth of a function. 
+
+##### To determine Big O notation for a function:
+
+1. Determine the fastest growing term in a function
+2. Drop all the coefficients of the term
+3. Check for Corresponding Big O notation
+```
+# Big O Notation Step 2
+
+## name
+```
+Common Times
+```
+
+## md_content
+```
+Below is a table for the common times and their corresponding Big O Notation. 
+
+| Time             | Big-O Notation |
+| ---------------- | -------------- |
+| Constant Time    | O(1)           |
+| Linear Time      | O(n)           |
+| Quadratic Time   | O(n^2^))       |
+| Factorial Time   | O(n!)          |
+| Logarithmic Time | O(log n)       |
+
+**It's very important to note that Big O Notation is determined as *n* gets very large! We care more about the runtime of a function or algorithm when the input is very large than when it is small**.
+
+```
+# Big O Notation Step 3
+
+## name
+```
+Big Theta
+```
+
+## md_content
+```
+### Big Theta 
+
+Big Theta is what we have been talking about up above. It is commonly referenced as **Big O** but it's academic name is **Big Theta**. It is not to be confused with the academic **Big O**, which for clarity will be displayed as : **Big (O)**.
+
+**Big Theta** is simply the average rate of growth for a function of Algorithm. When we identified the fastest growing term in a function, we dropped all the other terms of the function to get an estimate of the growth. What we did was find **Big Theta**. 
+
+```
+
+# Big O Notation Step 4
+
+## name
+```
+Big (O)
+```
+
+## md_content
+```
+
+### Big (O)
+
+Big (O) essentially serves as an upper bound for a function. It is a function whose curve on a graph, at least after a certain point on the x-axis (input size), will always be higher on the y-axis (time) than the curve of the runtime. Since higher on the y-axis is more time, and therefore slower, the algorithm will always go faster, after a point, than the Big (O). In other words, Big (O) tells us that after a certain input number, our function's runtime will never exceed the runtime of Big (O). 
+
+The vertical axis represents runtime. The horizontal axis represents the input size. As seen, after a certain point, the runtime of **n^2^** will always exceed the run time of **log(n)**. Hence, **O(n^2^)** is the **Big (O)** to **O(log(n))**.
+```
+## image
+ <img src="https://miro.medium.com/max/662/1*Yy4JRrRF7uRN0Y1m4-gxBw.jpeg" alt="alt" style="zoom:50%;" />
+ 
+ # Big O Notation Step 5
+
+## name
+```
+Big Omega
+```
+
+## md_content
+```
+
+### Big Omega
+
+Big Omega is the opposite of Big (O). Big Omega serves as a lower bound for a function or algorithm. Big Omega tells us that after a certain point, the fastest our function will run is the **Big Omega**. **O(1)** is a the **Big Omega** to most functions, because it **O(1)** runs on constant time, but, in general, we want our **Big Omega** and **Big (O)** to be as close as possible to our **Big Theta**. 
+
+```
+
