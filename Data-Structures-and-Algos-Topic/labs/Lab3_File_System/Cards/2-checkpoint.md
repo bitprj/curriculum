@@ -12,7 +12,7 @@ Autograder
 
 # instruction 
 
-Submit the all code you have completed thus far, including your `Graph` class. By now, your code should be able to read in the input files and the `Graph` class should be able to handle:
+Submit all code you have completed thus far, including your `Graph` class. By now, your code should be able to read in the input files. The `Graph` class should be able to handle the following:
 
 * Storing and adding edges
 * Storing values (folder/file names) of each node in the graph
