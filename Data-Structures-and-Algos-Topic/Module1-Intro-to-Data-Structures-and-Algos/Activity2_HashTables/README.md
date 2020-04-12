@@ -20,7 +20,7 @@ Easy
 Data-Structures-and-Algos-Topic/Module1-Intro-to-Data-Structures-and-Algos/Activity2_HashTables/
 
 # cards
- 
+
 ## 1
 
 ### name
@@ -57,7 +57,7 @@ Hash Functions
 ## 4
 
 ### name
-Collisions 
+Need for a Hash Function 
 
 ### order
 4
@@ -68,7 +68,7 @@ Collisions
 ## 5
 
 ### name
-Separate Chaining
+Hash Collisions
 
 ### order
 5
@@ -79,7 +79,7 @@ Separate Chaining
 ## 6
 
 ### name
-Open Addressing
+Separate Chaining
 
 ### order
 6
@@ -90,7 +90,7 @@ Open Addressing
 ## 7
 
 ### name
-Linear Probing, Quadratic Probing, and Double Hashing
+Open Addressing
 
 ### order
 7
@@ -101,9 +101,10 @@ Linear Probing, Quadratic Probing, and Double Hashing
 ## 8
 
 ### name
-Hash Tables in Python
+Collision Methods
 
 ### order
+
 8
 
 ### gems
@@ -112,10 +113,67 @@ Hash Tables in Python
 ## 9
 
 ### name
-Interview Question for Hash Tables
+Linear Probing
 
 ### order
+
 9
 
 ### gems
+15
+
+## 10
+
+### name
+
+Quadratic Probing 
+
+### order 
+
+10
+
+### gems
+
+15
+
+## 11
+
+### name
+
+Double Hashing 
+
+### order 
+
+11
+
+### gems
+
+15
+
+## 12
+
+### name
+
+Hash Tables in Python
+
+### order 
+
+12
+
+### gems
+
+15
+
+## 13
+
+### name
+
+Interview Question: Hash Tables
+
+### order 
+
+13
+
+### gems
+
 15
