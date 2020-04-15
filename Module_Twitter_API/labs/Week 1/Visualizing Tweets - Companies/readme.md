@@ -1,5 +1,363 @@
-For this lab, we will be analyzing tweets using Twitter's API and `tweepy` package in Python by creating a Word Cloud to observe the frequency of words being used in a company's tweets.
+# github_id
+18
 
-Analyzing the words used by a company in an increasingly cluttered social media world has many uses. Companies use social media to generate excitement around their products and increase awareness of their company, so the words they choose in their tweets can provide lots of insight into the values of marketing strategies and values of companies on Twitter. 
+# name
+Visualizing Tweets - Companies
 
-How do companies advertise their products? How often do they attack the products of other companies? What kind of feelings are they trying to conjure in relation to their products? Seeing a word cloud of their most common words is an easy way to help us paint a picture of a company's marketing on Twitter.
+# description
+We'll be analyzing the frequencey of words in tweets using Twitters API and tweepy package in Python.
+
+# summary
+Using Twitter's API and tweepy package in Python, we'll create a word cloud to observe the frequency of words in a company's tweets. We'll be using these libraries: tweepy, pandas, sys, csv, WordCloud and STOPWORDS from wordcloud, matplotlib, matplotlib.pyplot, string, re, PIL.
+
+# difficulty
+Easy
+
+# image
+<img src="image/labPhoto.jpg">
+
+# image_folder
+Bit\curriculum\Module_Twitter_API\labs\Week 1\Visualizing Tweets - Companies
+
+# cards
+
+## 1
+
+### name
+Visualizing Tweets
+
+### order
+1
+
+### gems
+
+
+## 2
+
+### name
+Obtaining Tweet Data
+
+### order
+2
+
+### gems
+
+
+## 3
+
+### name
+Extracting Tweets Into .csv File
+
+### order
+
+
+### gems
+
+
+## 4
+
+### name
+Cleansing Tweets
+
+### order
+4
+
+### gems
+
+
+## 5
+
+### name
+Displaying Word Cloud
+
+### order
+5
+
+### gems
+
+
+## 1-1
+
+### name
+Importing Libraries
+
+### order
+1
+
+### gems
+
+
+## 2-1
+
+### name
+Authorization Keys and Calling API
+
+### order
+1
+
+### gems
+
+
+## 3-1
+
+### name
+Extracting Tweets
+
+### order
+1
+
+### gems
+
+
+## 3-2
+
+### name
+Copying Tweets To .csv File
+
+### order
+2
+
+### gems
+
+
+## 4-1
+
+### name
+Reading A .csv File
+
+### order
+1
+
+### gems
+
+
+## 4-2
+
+### name
+Cleansing Tweets
+
+### order
+2
+
+### gems
+
+
+## 4-3
+
+### name
+Creating A Data Frame Of Tweets
+
+### order
+3
+
+### gems
+
+
+## 5-1
+
+### name
+Setting Parameters Of Wordcloud Figure
+
+### order
+1
+
+### gems
+
+
+## 5-2
+
+### name
+Creating WordCloud
+
+### order
+2
+
+### gems
+
+
+## 5-3
+
+### name
+Displaying WordCloud
+
+### order
+3
+
+### gems
+
+
+## 5-4
+
+### name
+Compiling Code
+
+### order
+4
+
+### gems
+
+
+## 1-1-1
+
+### name
+Importing Libraries
+
+### order
+1
+
+### gems
+
+
+## 2-1-1
+
+### name
+Authorization Keys
+
+### order
+1
+
+### gems
+
+
+## 2-1-2
+
+### name
+Calling API
+
+### order
+2
+
+### gems
+
+
+## 3-1-1
+
+### name
+Extracting Tweets
+
+### order
+1
+
+### gems
+
+
+## 3-2-1
+
+### name
+Creating A .csv File
+
+### order
+1
+
+### gems
+
+
+## 3-2-2
+
+### name
+Copying Tweets To .csv File
+
+### order
+2
+
+### gems
+
+
+## 4-1-1
+
+### name
+Generating .csv File Of Tweets
+
+### order
+1
+
+### gems
+
+
+## 4-1-2
+
+### name
+Reading The .csv File Of Tweets
+
+### order
+2
+
+### gems
+
+
+## 4-2-1
+
+### name
+Cleansing Tweets
+
+### order
+1
+
+### gems
+
+
+## 4-3-1
+
+### name
+Creating A Data Frame of Tweets
+
+### order
+1
+
+### gems
+
+
+## 5-1-1
+
+### name
+Setting Parameters Of Wordcloud Figure
+
+### order
+1
+
+### gems
+
+
+## 5-2-1
+
+### name
+Combining Words From Tweets
+
+### order
+1
+
+### gems
+
+
+## 5-2-2
+
+### name
+Creating The Wordcloud
+
+### order
+2
+
+### gems
+
+
+## 5-3-1
+
+### name
+Displaying WordCloud
+
+### order
+1
+
+### gems
+
+
+## 5-4-1
+
+### name
+Compile Code
+
+### order
+1
+
+### gems
+

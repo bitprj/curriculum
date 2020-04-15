@@ -1,0 +1,5 @@
+For this lab, we will be analyzing tweets using Twitter's API and `tweepy` package in Python by creating a Word Cloud to observe the frequency of words being used in a company's tweets.
+
+Analyzing the words used by a company in an increasingly cluttered social media world has many uses. Companies use social media to generate excitement around their products and increase awareness of their company, so the words they choose in their tweets can provide lots of insight into the values of marketing strategies and values of companies on Twitter. 
+
+How do companies advertise their products? How often do they attack the products of other companies? What kind of feelings are they trying to conjure in relation to their products? Seeing a word cloud of their most common words is an easy way to help us paint a picture of a company's marketing on Twitter.

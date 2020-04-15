@@ -1,7 +1,374 @@
-For this lab, we will be analyzing tweets using Twitter's API and `tweepy` package in Python by creating a Word Cloud to observe the frequency of words being used in a celebrity's tweets.
+# github_id
+18
 
-Analyzing the words used by a celebrity in an increasingly cluttered social media world has many uses.
+# name
+Visualizing Tweets - Celebrities
 
-In this day and age, having a prominent social media presence can mean the difference for celebrities' public persona. A celebrity can use social media to generate excitement from millions of fans on Twitter, and if done right, propel their fame to new heights. Conversely, celebrities have to be careful about what they post on a site like Twitter, because one offensive tweet will get viral for the wrong reasons and destroy their reputation, not just in social media but in real life as well.
+# description
+We'll be analyzing the frequencey of words in tweets using Twitters API and tweepy package in Python.
 
-Therefore, the words that celebrities choose when tweeting are vitally important, to cultivate an online persona and propel their own fame. Seeing a word cloud of the words in their tweets can start to help us find common trends in their tweets and determine what kind of persona they wish to conjure on social media.
+# summary
+Using Twitter's API and tweepy package in Python, we'll create a word cloud to observe the frequency of words in a celebrity's tweets. We'll be using these libraries: tweepy, pandas, sys, csv, WordCloud and STOPWORDS from wordcloud, matplotlib, matplotlib.pyplot, string, re, PIL.
+
+# difficulty
+Easy
+
+# image
+<img src="image/labPhoto.jpg">
+
+# image_folder
+Bit\curriculum\Module_Twitter_API\labs\Week 1\Visualizing Tweets - Celebrities
+
+# cards
+
+## 1
+
+### name
+Visualizing Tweets
+
+### order
+1
+
+### gems
+
+
+## 2
+
+### name
+Obtaining Tweet Data
+
+### order
+2
+
+### gems
+
+
+## 3
+
+### name
+Extracting Tweets Into .csv File
+
+### order
+3
+
+### gems
+
+
+## 4
+
+### name
+Cleansing Tweets
+
+### order
+4
+
+### gems
+
+
+## 5
+
+### name
+Displaying Word Cloud
+
+### order
+5
+
+### gems
+
+
+## 1-1
+
+### name
+Importing Libraries
+
+### order
+1
+
+### gems
+
+
+## 2-1
+
+### name
+Authorization Keys and Calling API
+
+### order
+1
+
+### gems
+
+
+## 3-1
+
+### name
+Extracting Tweets
+
+### order
+1
+
+### gems
+
+
+## 3-2
+
+### name
+Copying Tweets To .csv File
+
+### order
+2
+
+### gems
+
+
+## 4-1
+
+### name
+Reading A .csv File
+
+### order
+1
+
+### gems
+
+
+## 4-2
+
+### name
+Cleanse the Data
+
+### order
+2
+
+### gems
+
+
+## 4-3
+
+### name
+Creating A Data Frame Of Tweets
+
+### order
+3
+
+### gems
+
+
+## 5-1
+
+### name
+Setting Parameters Of Wordcloud Figure
+
+### order
+1
+
+### gems
+
+
+## 5-2
+
+### name
+Creating Wordcloud
+
+### order
+2
+
+### gems
+
+
+## 5-3
+
+### name
+Displaying WordCloud
+
+### order
+3
+
+### gems
+
+
+## 5-4
+
+### name
+Compiling Code
+
+### order
+4
+
+### gems
+
+
+## 1-1-1
+
+### name
+Importing Libraries
+
+### order
+1
+
+### gems
+
+
+## 2-1-1
+
+### name
+Authorization Keys
+
+### order
+1
+
+### gems
+
+
+## 2-1-2
+
+### name
+Calling API
+
+### order
+2
+
+### gems
+
+
+## 3-1-1
+
+### name
+Extracting Tweets
+
+### order
+1
+
+### gems
+
+
+## 3-2-1
+
+### name
+Creating A .csv File
+
+### order
+1
+
+### gems
+
+
+## 3-2-2
+
+### name
+Copying Tweets To .csv File
+
+### order
+2
+
+### gems
+
+
+## 4-1-1
+
+### name
+Generating .csv File Of Tweets
+
+### order
+1
+
+### gems
+
+
+## 4-1-2
+
+### name
+Reading The .csv File Of Tweets
+
+### order
+2
+
+### gems
+
+
+## 4-2-1
+
+### name
+Cleanse the Data in the .csv File
+
+### order
+1
+
+### gems
+
+
+## 4-2-2
+
+### name
+Cleanse the Data in the .cvs File
+
+### order
+2
+
+### gems
+
+
+## 4-3-1
+
+### name
+Creating A Data Frame Of Tweets
+
+### order
+1
+
+### gems
+
+
+## 5-1-1
+
+### name
+Setting Parameters Of Wordcloud Figure
+
+### order
+1
+
+### gems
+
+
+## 5-2-1
+
+### name
+Combining Words From Tweets
+
+### order
+1
+
+### gems
+
+
+## 5-2-2
+
+### name
+Creating The Wordcloud
+
+### order
+2
+
+### gems
+
+
+## 5-3-1
+
+### name
+Displaying WordCloud
+
+### order
+1
+
+### gems
+
+
+## 5-4-1
+
+### name
+Compile Code
+
+### order
+1
+
+### gems
+
