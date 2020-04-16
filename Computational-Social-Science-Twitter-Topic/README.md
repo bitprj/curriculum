@@ -11,6 +11,4 @@ A friendly introduction to data science with the Twitter API.
 # image_folder
 Computational-Social-Science-Twitter-Topic/images    
 # modules
-* Computational-Social-Science-Twitter-Topic/modules/Streaming-Tweets.md
-* Computational-Social-Science-Twitter-Topic/modules/Basic-Data-Visualizations.md
 * Computational-Social-Science-Twitter-Topic/modules/Sentiment-Analysis.md
