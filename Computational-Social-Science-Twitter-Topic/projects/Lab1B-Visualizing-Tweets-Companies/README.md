@@ -22,6 +22,13 @@ Medium
 
 Computational-Social-Science-Twitter-Topic/projects/Lab1A-Visualizing-Tweets-Celebrities
 
+# contributors 
+
+* kavuong
+* KathyLiu20
+* sihuacai
+* etang01
+
 # cards
 
 ## 1
