@@ -18,7 +18,7 @@ Learn the basics of Twitter API, why people use it and what it can do.
 
 Easy
 
- 
+  
 
 # image
 <img src="Activity1Pics/intro_twitter_python.jpeg"/>
