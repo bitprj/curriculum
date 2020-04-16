@@ -27,21 +27,8 @@ Work on a the main code, better understanding of Cursor, begin using Cursor clas
 Medium
 
 
-
-# image
-
-![](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/activities/Act3_Cursor and Pagination/Activity3Pics/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e253341414e643947635457565f4f346c574f6759787638636c627577337877654d6762435944454c48707a5a466d7054666d6e797a484c6c617059.jpeg)
-
-![](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/activities/Act3_Cursor and Pagination/Activity3Pics/rate-limit-visual.png)
-
-![](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/activities/Act3_Cursor and Pagination/Activity3Pics/pycon.png)
-
-![](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/activities/Act3_Cursor and Pagination/Activity3Pics/180px-Oauth_logo.svg.png)
-
 # image_folder
-
-Module_Twitter_API/activities/Act3_Cursor and Pagination/Activity3Pics
-
+Computational-Social-Science-Twitter-Topic/activities/Act3_Cursor and Pagination/Activity3Pics
 
 
 # cards
