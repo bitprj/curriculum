@@ -13,7 +13,7 @@ Image
 # instruction
 
 Now submit a picture of your streamed tweets! It should look just like the picture in the last part. In your image, adjust your code so that it **only prints out 18 tweets.**
-
+ 
 # criteria 
 
 ## criteria_1
