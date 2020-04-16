@@ -28,7 +28,7 @@ Easy
 # image_folder
 
 Computational-Social-Science-Twitter-Topic/activities/Activity1_Intro to Twitter API/Activity1Pics
-
+ 
 # contributors
 * kavuong
 * julma1040
