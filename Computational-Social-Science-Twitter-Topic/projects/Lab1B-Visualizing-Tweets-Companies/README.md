@@ -21,7 +21,7 @@ Medium
 # image_folder
 
 Computational-Social-Science-Twitter-Topic/projects/Lab1A-Visualizing-Tweets-Celebrities
-
+ 
 # contributors 
 
 * kavuong

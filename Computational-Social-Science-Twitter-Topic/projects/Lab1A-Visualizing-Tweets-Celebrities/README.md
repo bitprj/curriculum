@@ -16,7 +16,7 @@ Medium
 
 # image
 
-<img src="image/labPhoto.png">
+<img src="image/labPhoto.jpg">
 
 # image_folder
 
