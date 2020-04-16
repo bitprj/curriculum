@@ -4,7 +4,7 @@ Visualizing Tweets - Celebrities
 
 # description
 
-In this lab, we will use python-twitter API to analyze twitter data to generate a wordcloud based on the frequency of words the celebrity used in their tweets.
+In this lab, we will use python-twitter API to analyze twitter data to generate a wordcloud based on the frequency of words the celebrity used in their tweets. 
 
 # summary
 
@@ -20,7 +20,7 @@ Medium
 
 # image_folder
 
-Computational-Social-Science-Twitter-Topic/projects/Lab1A-Visualizing-Tweets-Celebrities
+Computational-Social-Science-Twitter-Topic/projects/Lab1A-Visualizing-Tweets-Celebrities/image
 
 # activity_prereqs
 
