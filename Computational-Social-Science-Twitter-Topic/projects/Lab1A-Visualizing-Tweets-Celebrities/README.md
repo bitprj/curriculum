@@ -22,7 +22,7 @@ Medium
 
 Computational-Social-Science-Twitter-Topic/projects/Lab1A-Visualizing-Tweets-Celebrities/image
 
-# activity_prereqs
+# activity_prerequisites
 
 * Computational-Social-Science-Twitter-Topic/activities/Activity1_Intro to Twitter API
 * Computational-Social-Science-Twitter-Topic/activities/Activity2_Stream Twitter API
