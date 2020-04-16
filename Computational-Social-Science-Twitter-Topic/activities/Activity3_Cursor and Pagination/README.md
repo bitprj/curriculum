@@ -1,9 +1,3 @@
-# github_id
-
-20
-
-
-
 # name
 
 Cousor and Pagination
