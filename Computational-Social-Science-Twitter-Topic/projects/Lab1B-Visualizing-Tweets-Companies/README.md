@@ -20,7 +20,7 @@ Medium
 
 # image_folder
 
-Computational-Social-Science-Twitter-Topic/projects/Lab1A-Visualizing-Tweets-Celebrities
+Computational-Social-Science-Twitter-Topic/projects/Lab1A-Visualizing-Tweets-Celebrities/image
  
 # contributors 
 
