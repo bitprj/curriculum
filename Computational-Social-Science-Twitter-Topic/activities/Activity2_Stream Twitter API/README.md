@@ -37,7 +37,7 @@ Computational-Social-Science-Twitter-Topic/activities/Activity2_Stream Twitter A
 # contributors
 * kavuong
 * julma1040
-* etang01
+* ryankuang1
 
 # cards
 
