@@ -16,7 +16,7 @@ Medium
 
 # image
 
-<img src="image/labPhoto.jpg">
+<img src="image/data-cleaning-770x430.png">
 
 # image_folder
 
