@@ -34,6 +34,11 @@ Computational-Social-Science-Twitter-Topic/activities/Activity2_Stream Twitter A
 
 * Computational-Social-Science-Twitter-Topic/activities/Activity1_Intro to Twitter API
 
+# contributors
+* kavuong
+* julma1040
+* etang01
+
 # cards
 
 
