@@ -26,7 +26,7 @@ Computational-Social-Science-Twitter-Topic/projects/Lab1A-Visualizing-Tweets-Cel
 
 * Computational-Social-Science-Twitter-Topic/activities/Activity1_Intro to Twitter API
 * Computational-Social-Science-Twitter-Topic/activities/Activity2_Stream Twitter API
-
+ 
 # contributors
 * kavuong
 * KathyLiu20
