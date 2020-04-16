@@ -1,9 +1,3 @@
-# github_id
-
-18
-
-
-
 # name
 
 Intro to Twitter API
