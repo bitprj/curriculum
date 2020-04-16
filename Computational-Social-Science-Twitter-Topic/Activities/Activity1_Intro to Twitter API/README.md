@@ -8,7 +8,6 @@ Intro to Twitter API
 Learning the basics of Twitter API
 
 
-
 # summary
 
 Learn the basics of Twitter API, why people use it and what it can do.
@@ -27,7 +26,7 @@ Easy
 
 # image_folder
 
-Computational-Social-Science-Twitter-Topic/Activities/Activity1_Intro to Twitter API/Activity1Pics
+Computational-Social-Science-Twitter-Topic/activities/Activity1_Intro to Twitter API/Activity1Pics
  
 # contributors
 * kavuong
