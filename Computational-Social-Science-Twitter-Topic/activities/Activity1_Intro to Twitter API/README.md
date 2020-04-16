@@ -33,7 +33,7 @@ Computational-Social-Science-Twitter-Topic/activities/Activity1_Intro to Twitter
 # contributors
 * kavuong
 * julma1040
-* etang01
+* ryankuang1
 
 # cards
 
