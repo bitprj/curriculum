@@ -3,7 +3,6 @@
 Streaming Tweets Using Twitter API
 
 
-
 # description
 
 Begin working with Twitter Data and learn about dataframes, streaming tweets, JSON files, and formatting DataFrames.
@@ -24,7 +23,7 @@ Easy
 
 # image
 
-<img src="./Activity2Pics/streaming.jpeg"  />
+<img src="Activity2Pics/streaming.jpeg"  />
 
 # image_folder
 
