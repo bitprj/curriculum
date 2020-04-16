@@ -12,4 +12,4 @@ Short Answer
 
 # instruction
 
-How exactly do we limit the number of tweets in the last part of code? Discuss *in your own words*, and be sure to mention the role of the StreamListener class.
+How exactly do we limit the number of tweets in the last part of code? Discuss *in your own words*, and be sure to mention the role of the StreamListener class. 

@@ -7,7 +7,7 @@ Streaming Tweets
 Computational-Social-Science-Twitter-Topic/activities/Activity2_Stream Twitter API/cards
 
 # checkpoint_type
-
+ 
 Image
 
 # instruction
