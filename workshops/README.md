@@ -1,0 +1,1 @@
+All workshops currently being developed as projects will go here for the time being. **Please make sure you put your projects inside of a subfolder.**
