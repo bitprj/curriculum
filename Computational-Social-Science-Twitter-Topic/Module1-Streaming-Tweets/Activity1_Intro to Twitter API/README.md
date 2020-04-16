@@ -36,6 +36,10 @@ Easy
 
 Computational-Social-Science-Twitter-Topic/Module1-Streaming-Tweets/Act1_Intro to Twitter API/Activity1Pics
 
+# contributors
+* kavuong
+* julma1040
+* etang01
 
 # cards
 
