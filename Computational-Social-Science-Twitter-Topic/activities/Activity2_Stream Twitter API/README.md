@@ -29,7 +29,7 @@ Easy
 
 Computational-Social-Science-Twitter-Topic/activities/Activity2_Stream Twitter API/Activity2Pics
 
-# activity_prereqs
+# activity_prerequisites
 
 * Computational-Social-Science-Twitter-Topic/activities/Activity1_Intro to Twitter API
 
