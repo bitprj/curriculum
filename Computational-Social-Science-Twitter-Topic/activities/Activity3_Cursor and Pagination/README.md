@@ -32,7 +32,7 @@ Medium
 <img src="Activity3Pics/pycon.png">
 
 # image_folder
-Computational-Social-Science-Twitter-Topic/activities/Act3_Cursor and Pagination/Activity3Pics
+Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagination/Activity3Pics
 
 
 # cards
