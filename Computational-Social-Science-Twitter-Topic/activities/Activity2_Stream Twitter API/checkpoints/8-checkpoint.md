@@ -3,7 +3,7 @@
 Practicing with JSON
 
 # cards_folder
- 
+  
 Computational-Social-Science-Twitter-Topic/activities/Activity2_Stream Twitter API/cards
 
 # checkpoint_type
