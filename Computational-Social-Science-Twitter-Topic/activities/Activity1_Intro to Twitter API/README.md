@@ -3,7 +3,6 @@
 Intro to Twitter API
 
 
-
 # description
 
 Learning the basics of Twitter API
