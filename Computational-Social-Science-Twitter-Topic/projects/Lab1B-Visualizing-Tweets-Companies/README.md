@@ -1,6 +1,6 @@
 # name
 
-Visualizing Tweets - Celebrities
+Visualizing Tweets - Companies
 
 # description
 
