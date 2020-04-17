@@ -8,7 +8,7 @@ In this lab, we will use python-twitter API to analyze twitter data to generate 
 
 # summary
 
-In this lab, we will write codes in python to help us analyze the data. You will practice using functions importing from libraries, and processing data statistically to generate a wordcloud. 
+In this lab, we will write codes in python to help us analyze the data. You will practice using functions importing from libraries, and processing data statistically to generate a wordcloud.  
 
 # difficulty
 
