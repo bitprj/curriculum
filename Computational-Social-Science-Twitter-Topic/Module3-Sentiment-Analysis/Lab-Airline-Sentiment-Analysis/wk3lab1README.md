@@ -28,53 +28,53 @@ Medium
 
 \# image
 
-![2z9Atgn7jj_cS67D3ZraEgIWI0KX7oc4j_HIkohCMBuV0K4IAIT7OoAnA3sn2m8MEvt64d3BwnQHVX-EtmMIww6Co9muLQHllXtpyVvBnXKy_6Ni0cAoizl7NGgepek1OBQMnNd7Ggk](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/2z9Atgn7jj_cS67D3ZraEgIWI0KX7oc4j_HIkohCMBuV0K4IAIT7OoAnA3sn2m8MEvt64d3BwnQHVX-EtmMIww6Co9muLQHllXtpyVvBnXKy_6Ni0cAoizl7NGgepek1OBQMnNd7Ggk.png)
+![](https://projectbit.s3-us-west-1.amazonaws.com/darlene/labs/AirlineSentimentExample.png)
 
-![8BKvmctSfLQEKERSZIc9_3jKl7lnpkRJO3736TBuIkfwBzZhkZMmPL8hUnNjrCf27SqX1iZaHOv1RBrNfB2V1990cl9z35ojA-RjoDnN0vgn5XWuDhwMjpbbhHLj5J1qcuq4M2KSC4g](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/8BKvmctSfLQEKERSZIc9_3jKl7lnpkRJO3736TBuIkfwBzZhkZMmPL8hUnNjrCf27SqX1iZaHOv1RBrNfB2V1990cl9z35ojA-RjoDnN0vgn5XWuDhwMjpbbhHLj5J1qcuq4M2KSC4g.png)
+![](https://images.pexels.com/photos/58639/pexels-photo-58639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
-![aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940.png)
+![](https://lh4.googleusercontent.com/bOVrW7NkR9zdzVGR5Wpn4blHLWwsbRapfxYJdsFB2MXaEGDfD6GQ7REp8h42A3fSQmHDLtpAhsxEuSymYElifWq_dn4742hYwzfhO2nmZce6u5CtLhh8mJmBLSQ4KydLGG9NMWNp9F4)
 
-![Airline_DF](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/Airline_DF.png)
+![](https://lh6.googleusercontent.com/c2Eey4CUXd9gi3LFLPvbpKpDr1_qNTyZGHMKngCAjZ_prK1rITeI7AnLtWPRr0v_gRIGIxbT6MQUl7GAQ8wq6Hx1_JuFZFOhcUaPPhbf8RPTSprIvtluuqKWf3LULkCqRP-1FaPrkAU)
 
-![AirlineSentimentExample](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/AirlineSentimentExample.png)
+![](https://lh4.googleusercontent.com/fLq7LZu_w2JKb2HCFHptAT1Ln4Z00JNMNq47knue29sH5HzWCSWbx_o6xpSeT0qOytCI7CLF8HqTdxlRQ_wb4JC9x_TnvSYgr8Ssjd3BKZBThHii-CkInXZ5UHO8mFVZU2L2e6DwpoE)
 
-![bOVrW7NkR9zdzVGR5Wpn4blHLWwsbRapfxYJdsFB2MXaEGDfD6GQ7REp8h42A3fSQmHDLtpAhsxEuSymYElifWq_dn4742hYwzfhO2nmZce6u5CtLhh8mJmBLSQ4KydLGG9NMWNp9F4](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/bOVrW7NkR9zdzVGR5Wpn4blHLWwsbRapfxYJdsFB2MXaEGDfD6GQ7REp8h42A3fSQmHDLtpAhsxEuSymYElifWq_dn4742hYwzfhO2nmZce6u5CtLhh8mJmBLSQ4KydLGG9NMWNp9F4.png)
+![](https://images.pexels.com/photos/2033343/pexels-photo-2033343.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-![c2Eey4CUXd9gi3LFLPvbpKpDr1_qNTyZGHMKngCAjZ_prK1rITeI7AnLtWPRr0v_gRIGIxbT6MQUl7GAQ8wq6Hx1_JuFZFOhcUaPPhbf8RPTSprIvtluuqKWf3LULkCqRP-1FaPrkAU](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/c2Eey4CUXd9gi3LFLPvbpKpDr1_qNTyZGHMKngCAjZ_prK1rITeI7AnLtWPRr0v_gRIGIxbT6MQUl7GAQ8wq6Hx1_JuFZFOhcUaPPhbf8RPTSprIvtluuqKWf3LULkCqRP-1FaPrkAU.png)
+![](https://images.pexels.com/photos/1089306/pexels-photo-1089306.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-![dataframe_result (1)](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/dataframe_result (1).png)
+![](https://images.pexels.com/photos/1157255/pexels-photo-1157255.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-![fLq7LZu_w2JKb2HCFHptAT1Ln4Z00JNMNq47knue29sH5HzWCSWbx_o6xpSeT0qOytCI7CLF8HqTdxlRQ_wb4JC9x_TnvSYgr8Ssjd3BKZBThHii-CkInXZ5UHO8mFVZU2L2e6DwpoE](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/fLq7LZu_w2JKb2HCFHptAT1Ln4Z00JNMNq47knue29sH5HzWCSWbx_o6xpSeT0qOytCI7CLF8HqTdxlRQ_wb4JC9x_TnvSYgr8Ssjd3BKZBThHii-CkInXZ5UHO8mFVZU2L2e6DwpoE.png)
+![](https://images.pexels.com/photos/1154619/pexels-photo-1154619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-![pexels-photo-58639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo-58639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940.png)
+![](https://images.pexels.com/photos/36983/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-![pexels-photo-127905.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo-127905.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
+![](https://images.pexels.com/photos/127905/pexels-photo-127905.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-![pexels-photo-249581.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo-249581.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
+![](https://images.pexels.com/photos/1655985/pexels-photo-1655985.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-![pexels-photo-747079.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo-747079.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
+![](https://images.pexels.com/photos/249581/pexels-photo-249581.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-![pexels-photo-1089306.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo-1089306.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
+![](Wk3Lab1Pics/dataframe_result (1).png)
 
-![pexels-photo-1154619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo-1154619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
+![](Wk3Lab1Pics/Airline_DF.png)
 
-![pexels-photo-1157255.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo-1157255.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
+<img src="Wk3Lab1Pics/2z9Atgn7jj_cS67D3ZraEgIWI0KX7oc4j_HIkohCMBuV0K4IAIT7OoAnA3sn2m8MEvt64d3BwnQHVX-EtmMIww6Co9muLQHllXtpyVvBnXKy_6Ni0cAoizl7NGgepek1OBQMnNd7Ggk.png">
 
-![pexels-photo-1309644.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo-1309644.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
+<img src="Wk3Lab1Pics/8BKvmctSfLQEKERSZIc9_3jKl7lnpkRJO3736TBuIkfwBzZhkZMmPL8hUnNjrCf27SqX1iZaHOv1RBrNfB2V1990cl9z35ojA-RjoDnN0vgn5XWuDhwMjpbbhHLj5J1qcuq4M2KSC4g.png">
 
-![pexels-photo-1655985.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo-1655985.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
+<img src="Wk3Lab1Pics/wCWo0frQNm2aPD3Fv30kMC90DQDk880eGb1KTGrL5I7dOjis95GoVBI2zJJ3tacIz-0ux9HFpgAYeB4Ym_LC2OAPabCMRzGeiRtnVRUbKAqn_PdGyMLunDhZCo_h-4XIysnYivjUwnI.png">
 
-![pexels-photo-2033343.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo-2033343.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
+![](https://images.pexels.com/photos/747079/pexels-photo-747079.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
 
-![pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
+![](https://images.pexels.com/photos/1309644/pexels-photo-1309644.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png)
 
-![wCWo0frQNm2aPD3Fv30kMC90DQDk880eGb1KTGrL5I7dOjis95GoVBI2zJJ3tacIz-0ux9HFpgAYeB4Ym_LC2OAPabCMRzGeiRtnVRUbKAqn_PdGyMLunDhZCo_h-4XIysnYivjUwnI](/Users/ryankuang/Documents/GitHub/curriculum/Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics/wCWo0frQNm2aPD3Fv30kMC90DQDk880eGb1KTGrL5I7dOjis95GoVBI2zJJ3tacIz-0ux9HFpgAYeB4Ym_LC2OAPabCMRzGeiRtnVRUbKAqn_PdGyMLunDhZCo_h-4XIysnYivjUwnI.png)
+
 
 
 
 \# image_folder
 
-Module_Twitter_API/labs/Week 3/Airline Sentiment Analysis/Wk3Lab1Pics
+Computational-Social-Science-Twitter-Topic/Module3-Sentiment-Analysis/Lab-Airline-Sentiment-Analysis/Wk3Lab1Pics
 
 
 
