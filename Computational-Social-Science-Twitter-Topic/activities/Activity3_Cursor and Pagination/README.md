@@ -1,18 +1,18 @@
 # name
 
-Cousor and Pagination 
+Cursor and Pagination 
 
 
 
 # description
 
-Work in Tweepy application to make it more streamlined and modular
+Work with a Tweepy application to make it more streamlined and modular!
 
 
 
 # summary
 
-Work on a the main code, better understanding of Cursor, begin using Cursor class to get friend list and timeline Tweets
+Begin using the Cursor class to get friend list and timeline Tweets, as well as streamline authentication!
 
 
 
@@ -28,6 +28,10 @@ Medium
 # image_folder
 Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagination/Activity3Pics
 
+# contributors
+
+* kavuong
+* julma1040
 
 # cards 
 
@@ -39,17 +43,17 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-1.md Continue from Streaming Live Tweets Card
+Continue from Streaming Live Tweets 
 
 ### order
 
-12
+1
 
 
 
 ### gems
 
-100
+10
 
 
 
@@ -59,19 +63,19 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-2.md The twitterStreamer Class Card
+The TwitterStreamer Class
 
 
 
 ### order
 
-12
+2
 
 
 
 ### gems
 
-100
+10
 
 ## 3
 
@@ -79,19 +83,17 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-3.md Main Code Card
-
-
+Defining our main() Code 
 
 ### order
 
-12
+3
 
 
 
 ### gems
 
-100
+10
 
 
 
@@ -101,19 +103,19 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-4.md Code review Card
+Reviewing Code
 
 
 
 ### order
 
-12
+4
 
 
 
 ### gems
 
-100
+10
 
 ## 5
 
@@ -121,19 +123,19 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-5.md Making Authentication Into its own Class Card
+Making Authentication into Its Own Class
 
 
 
 ### order
 
-12
+5
 
 
 
 ### gems
 
-100
+10
 
 
 
@@ -143,19 +145,19 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-6.md Changes to TwitterStreamer() Card
+Changes to TwitterStreamer() 
 
 
 
 ### order
 
-12
+6
 
 
 
 ### gems
 
-100
+10
 
 ## 7
 
@@ -163,19 +165,19 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-7.md Rate Limiting Card
+Rate Limiting
 
 
 
 ### order
 
-12
+7
 
 
 
 ### gems
 
-100
+10
 
 
 
@@ -185,19 +187,19 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-8.md Extracting timeline Tweets Card
+Extracting Timeline Tweets 
 
 
 
 ### order
 
-12
+8
 
 
 
 ### gems
 
-100
+10
 
 ## 9
 
@@ -205,19 +207,19 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-9.md Explaning Cursor Card
+Explaining the Cursor
 
 
 
 ### order
 
-12
+9
 
 
 
 ### gems
 
-100
+10
 
 
 
@@ -227,19 +229,17 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-10.md Cursor class for specific User Card
-
-
+Cursor class for a Specific User
 
 ### order
 
-12
+10
 
 
 
 ### gems
 
-100
+10
 
 ## 11
 
@@ -247,19 +247,19 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-11.md Using a Cursor to get a Friend List Card
+Using a Cursor to get a Friend List 
 
 
 
 ### order
 
-12
+11
 
 
 
 ### gems
 
-100
+10
 
 
 
@@ -269,7 +269,7 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### name
 
-12.md Using a Cursor to get a Timeline Tweets Card
+Using a Cursor to get Timeline Tweets 
 
 
 
@@ -281,4 +281,4 @@ Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagin
 
 ### gems
 
-100
+10
