@@ -5,7 +5,7 @@ Streaming Tweets
 # description
 
 This module will be students' first foray into the Twitter API. Students will set up their Twitter Developer account and interact with the Streaming API.   
-
+ 
 # gems_needed
 
 160 
