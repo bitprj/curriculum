@@ -5,7 +5,7 @@ Basic Data Visualizations with Python
 # description
 
 Students will continue their study of computational social science by learning the popular visualization libraries of `matplotlib` and `seaborn`.
- 
+  
 # gems_needed
 
 0
