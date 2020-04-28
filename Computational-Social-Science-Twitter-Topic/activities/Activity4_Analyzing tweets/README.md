@@ -8,7 +8,7 @@ You will stream and analyze tweets from a specific user.
 
 # summary
 
-By the end of this activity, we'll be able to stream and analyze tweets from a specific user. We'll be using the tweepy library along with Pandas and Numpy to format our tweet data that we'll be analyzing later.
+By the end of this activity, we'll be able to stream and analyze tweets from a specific user. We'll be using the tweepy library along with Pandas and Numpy to format our tweet data that we'll be analyzing later. 
 
 # difficulty
 
