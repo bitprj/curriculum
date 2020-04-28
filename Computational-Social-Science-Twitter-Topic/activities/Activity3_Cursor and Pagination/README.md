@@ -19,7 +19,7 @@ Begin using the Cursor class to get friend list and timeline Tweets, as well as 
 # difficulty
 
 Medium
-
+ 
 
 
 # image
@@ -27,7 +27,7 @@ Medium
 
 # image_folder
 Computational-Social-Science-Twitter-Topic/activities/Activity3_Cursor and Pagination/Activity3Pics
-
+ 
 # contributors
 
 * kavuong
