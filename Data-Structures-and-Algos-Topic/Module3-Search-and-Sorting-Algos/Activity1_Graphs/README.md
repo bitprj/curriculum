@@ -16,4 +16,4 @@ Students will learn about graphs and different ways computer scientists use them
 Easy
 
 # Image
-![Path](https://images.pexels.com/photos/808465/pexels-photo-808465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![Path](./images/readme.jpeg)

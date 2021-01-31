@@ -16,4 +16,4 @@ Students will solve the n-Colorable problem using Depth First Search and Backtra
 Medium/Hard
 
 # Image
-![Colors](https://images.pexels.com/photos/1154723/pexels-photo-1154723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![Colors](./images/readme.jpeg)
