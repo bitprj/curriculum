@@ -1,0 +1,52 @@
+<!--title={Inheritance}-->
+
+
+
+**![img](https://lh3.googleusercontent.com/cJYq9kJa_evNR3QHpUUGMThIEkld2IK5Hq-bAQgBoctBQ4lagtNyXZG3Y8guB9eJeKuB000TIxU8TdV39ppwMY72j9VZzbL-tsO65f-a5jXFTapZDZiR-5azsUf7Q3t2u37CO0cg)**
+
+A powerful feature of object-oriented programming is the ability to create a new class by **extending** an existing class. When extending a class, the original class is called the **parent class** and the new class is called the **child** class. 
+
+![img](https://lh4.googleusercontent.com/5J4GquC0OLZK1pZTJDy3Y5yPLBjQuWr7oOTOwgfwcWIljHodjsmi1VF1lpuBHiDpcW5D48T1rLMrOBJQv6ZRcpnHeFrUQTxs1gEpe7B6Alx3vZxVB1s7LbkTqMUdQWmuJEcDy-UT)
+
+Parent class: The class being inherited from, also called base class. Child class: the class that inherits from another class, also called derived class.
+
+The benefits of inheritance are:
+
+It represents real-world relationship well. It provides reusability of code. We can create classes that share the properties from the parent class instead of writing the same code again. It also allows us to add more features to a class without modifying it. It is transitive in nature, meaning that if class B inherits from another class A, then all the subclasses of B would automatically inherit from class A.
+
+Below is an example of inheritance in Python:
+
+```python
+# Base or Super class. Note object in bracket. # (Generally, object is made ancestor of all classes) # In Python 3.x "class Person" is # equivalent to "class Person(object)" 
+
+class Person(object): 		
+    # Constructor 	
+    def __init__(self, name): 		
+        self.name = name 
+	# To get name 	
+    def getName(self): 		
+        return self.name 
+	# To check if this person is employee 	
+    def isEmployee(self): 		
+        return False
+
+# Inherited or Sub class (Note Person in bracket) 
+class Employee(Person): 
+	...
+# Here we return true 	
+	def isEmployee(self): 		
+        return True
+
+# Driver code emp = Person("emp_1") # An Object of Person 
+print(emp.getName(), emp.isEmployee()) 
+
+emp = Employee("emp_2") # An Object of Employee 
+print(emp.getName(), emp.isEmployee())
+```
+
+
+Output:
+
+> emp_1 Falseemp_2 True
+
+Any class can be a parent class, so the syntax is the same as creating any other class. To create a class that inherits the functionality from another class, send the parent class as a parameter when creating the child class. For example, class `child_class(parent_class)`.
